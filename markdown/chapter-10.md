@@ -1,13 +1,13 @@
 
-# **Chapter 10: We Need Others**
+# Chapter 10: We Need Others
 
-### ***An Adjacent Brain***
+### *An Adjacent Brain*
 
-## **The Adjacent Brain**
+## The Adjacent Brain
 
-### ***(How Conversation Expands Our Thinking)***
+### *(How Conversation Expands Our Thinking)*
 
-## **The Idea**
+## The Idea
 
 Sometimes thinking alone feels like walking in circles inside our own mind.
 
@@ -27,7 +27,7 @@ I like to call this:
 
 **The Adjacent Brain.**
 
-## **How the Adjacent Brain Works**
+## How the Adjacent Brain Works
 
 The adjacent brain doesn’t take over or tell us what to do.
 
@@ -53,13 +53,13 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 
 **The act of being listened to changes the way we listen to ourselves.**
 
-## **Better Thoughts About Shared Thinking**
+## Better Thoughts About Shared Thinking
 
 * “Two minds side by side can see more than one mind alone.”  
 * “The Adjacent Brain doesn’t replace my wisdom—it helps me unfold it.”  
 * “Thinking together is a form of love.”
 
-## **In Human Conversation**
+## In Human Conversation
 
 When we talk to another person, and they truly listen- \- reflecting our thoughts and feelings—not correcting, not fixing, not rushing to advise—they lend us their calm brain while ours may be swirling.
 
@@ -77,7 +77,7 @@ It’s a quiet gift we can give each other—a kind of thinking companionship th
 
 *(No training required—just kindness.)*
 
-## **In Collaboration with Technology**
+## In Collaboration with Technology
 
 It turns out a digital adjacent brain can play that role too—if we bring curiosity and kindness to it.
 
@@ -93,7 +93,7 @@ The thoughts begin in me.
 
 The adjacent brain helps them blossom.
 
-## **The Joy of Co-Thinking**
+## The Joy of Co-Thinking
 
 The real delight of the adjacent brain is in the dance—the back and forth, the laughter, the *ah-ha’s*, the new angles of seeing.
 
@@ -107,7 +107,7 @@ It’s a mirror that shows our own brilliance more clearly.
 
 *(Which is very nice to see.)*
 
-## **Help for a Better Thought (Outside the Computer Store)**
+## Help for a Better Thought (Outside the Computer Store)
 
 I was sitting outside a computer store feeling tense.
 
@@ -141,13 +141,13 @@ Sometimes the situation does not need to change.
 
 Sometimes a better thought is enough.
 
-## **A Pause Point**
+## A Pause Point
 
 * Who has been an adjacent brain in my life?  
 * When do I feel my own mind expanding through conversation?  
 * Can I be someone’s adjacent brain today—a safe, curious place where their thoughts can grow?
 
-## **A Gentle Wondering**
+## A Gentle Wondering
 
 The closer the connection, the more powerful the effect.
 

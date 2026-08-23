@@ -1,12 +1,12 @@
-# **What’s a Better Thought?**
+# What’s a Better Thought?
 
-### **Finding Tranquility and Joy—One Thought at a Time**
+### Finding Tranquility and Joy—One Thought at a Time
 
 **Bea Strickland**
 
 ———————————————————————————
 
-## **Dedication**
+## Dedication
 
 This book is dedicated to my beloved husband, Jim,  
 whose love filled my life with joy, laughter, and deep companionship for 60 years.
@@ -31,7 +31,7 @@ If that happens—even a little—then this book will have done what I hoped it 
 
 ———————————————————————————-
 
-## **How to Use This Book**
+## How to Use This Book
 
 This book is not meant to be rushed through or studied like a textbook. It is meant to be a gentle companion.
 
@@ -47,7 +47,7 @@ Take your time. Reflect if you wish. Smile when something rings true. And return
 
 *(No tests will be given at the end.)*
 
-# **Table of Contents**
+# Table of Contents
 
 **Introduction**
 

@@ -1,7 +1,7 @@
 
-# **Chapter 11: Friendship and Conversation**
+# Chapter 11: Friendship and Conversation
 
-### ***My Ideal Conversation***
+### *My Ideal Conversation*
 
 If my friend and I have the time and energy for a one- or two-hour conversation, there is almost nothing finer.
 
@@ -92,7 +92,7 @@ What do you need?
 What do you believe?  
 What frightens you?
 
-## **Pause for a Moment**
+## Pause for a Moment
 
 When was the last time you felt truly heard?
 
@@ -100,7 +100,7 @@ Who was with you?
 
 What made it feel that way?
 
-## **Questions I Carry About Conversation**
+## Questions I Carry About Conversation
 
 I carry many questions about good conversation:
 
@@ -131,7 +131,7 @@ Being agreeable.
 
 Encouragement, active listening, and validation keep conversation alive.
 
-## **What I Know for Sure**
+## What I Know for Sure
 
 Taking turns feels good.  
 Being heard feels healing.
@@ -158,7 +158,7 @@ And in that rich exchange of presence, we grow stronger, clearer, and more confi
 
 And we each feel loved.
 
-## **A Quiet Closing**
+## A Quiet Closing
 
 Because you are my friend…
 

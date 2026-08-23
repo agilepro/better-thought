@@ -1,4 +1,4 @@
-## **Introduction**
+# Introduction
 
 My intention in writing this book is to share an idea that helped me move away from sadness, depression, and grief, and return to enjoying life again—with hope and appreciation for the good memories that are always there.
 

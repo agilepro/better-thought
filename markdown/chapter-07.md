@@ -1,9 +1,9 @@
 
-# **Chapter 7: Action Through Choices**
+# Chapter 7: Action Through Choices
 
-### ***Embracing Control, Change, and Growth***
+### *Embracing Control, Change, and Growth*
 
-## **Action Builds Self-Esteem**
+## Action Builds Self-Esteem
 
 There’s something very strengthening about taking action—especially small, intentional action.
 
@@ -27,7 +27,7 @@ We can’t control our age, the way our government is run, accidents, health cha
 
 But what we *can* control is how we respond—and the choices we make every day that shape our happiness and well-being.
 
-## **What Can You Control?**
+## What Can You Control?
 
 While we can’t control everything, we do have power over many aspects of our lives.
 
@@ -61,7 +61,7 @@ I can choose acts of self-care—like swimming, walking, eating nutritious foods
 
 And while I can’t control who else will be in the swimming pool—or if the power goes out—I can always adjust my mindset and look for something to appreciate.
 
-## **The Power to Change**
+## The Power to Change
 
 Change is always within reach.
 
@@ -101,7 +101,7 @@ If we’re stuck in traffic, we can turn frustration into a mini-meditation.
 
 *(Not always easy—but available.)*
 
-## **Pause for a Moment**
+## Pause for a Moment
 
 What is one small thing you *can* control right now?
 
@@ -113,7 +113,7 @@ You don’t have to change everything.
 
 Just one small choice is enough.
 
-## **Compensate for Life’s Challenges**
+## Compensate for Life’s Challenges
 
 Loss and disappointment are part of life.
 
@@ -131,7 +131,7 @@ Speak to yourself the way you would speak to someone you love.
 
 *(You deserve that same tone.)*
 
-## **Create Joy in Everyday Life**
+## Create Joy in Everyday Life
 
 We have more influence over our days than we sometimes realize.
 
@@ -147,7 +147,7 @@ Our only real limitation is our energy—and we can choose how to invest it.
 
 *(Energy is precious. Spend it wisely… and kindly.)*
 
-## **Congratulate Yourself**
+## Congratulate Yourself
 
 This is a crucial step—and one we often forget.
 
@@ -169,7 +169,7 @@ or surviving the DMV.
 
 *(Both worthy of recognition.)*
 
-## **A Gentle Closing Reflection**
+## A Gentle Closing Reflection
 
 Life is not always easy.
 
@@ -183,7 +183,7 @@ Even something small counts.
 
 *(Especially something small.)*
 
-## **A Simple Reminder**
+## A Simple Reminder
 
 You can be in action to raise your self-esteem.
 

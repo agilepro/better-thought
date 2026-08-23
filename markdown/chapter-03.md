@@ -1,7 +1,5 @@
 
-# **Chapter 3**
-
-## **Better Thoughts in the Morning**
+# Chapter 3: Better Thoughts in the Morning
 
 I don't wake up happy.
 
@@ -31,7 +29,7 @@ Apparently **the day**.
 
 I haven't even tried it yet.
 
-### **Don't Believe Everything You Think Before Breakfast**
+### Don't Believe Everything You Think Before Breakfast
 
 Morning is a particularly interesting time for me because my first thoughts often feel completely convincing.
 
@@ -71,7 +69,7 @@ Nevertheless, my brain has prepared a complete review of the day and given it on
 
 I have learned not to take that review too seriously.
 
-### **Seven O'Clock Me Is Not Ten O'Clock Me**
+### Seven O'Clock Me Is Not Ten O'Clock Me
 
 This has taken me a long time to learn.
 
@@ -135,7 +133,7 @@ I don't know that.
 
 I've simply been awake for five minutes and gotten ahead of myself.
 
-### **The Morning Brain Is a Storyteller**
+### The Morning Brain Is a Storyteller
 
 Chapter 2 was about the stories our minds create.
 
@@ -191,7 +189,7 @@ It doesn't deny anything.
 
 It simply refuses to predict the ending before the day has begun.
 
-### **Nurture Yourself Awake**
+### Nurture Yourself Awake
 
 For years I thought I should wake up and **get going**.
 
@@ -229,7 +227,7 @@ That last one is especially useful because breakfast has rescued a surprising nu
 
 Sometimes a better thought is extremely practical.
 
-### **Talk to Yourself as Someone You Love**
+### Talk to Yourself as Someone You Love
 
 I have spent much of my life thinking about communication.
 
@@ -283,7 +281,7 @@ Not:
 
 Those are very different questions.
 
-### **My Morning Delights**
+### My Morning Delights
 
 Eventually I do get up.
 
@@ -325,7 +323,7 @@ Sometimes the better thought is:
 
 That's manageable.
 
-### **Give Yourself Something to Look Forward To**
+### Give Yourself Something to Look Forward To
 
 I've also discovered that tomorrow morning can sometimes be helped tonight.
 
@@ -359,7 +357,7 @@ Perhaps.
 
 My mind makes no guarantees.
 
-### **Start With a Memory**
+### Start With a Memory
 
 One of my favorite morning practices grew directly out of what I learned after Jim died.
 
@@ -415,7 +413,7 @@ I try to **visit it**.
 
 For a little while, I let my mind live there.
 
-### **What Deserves My Attention?**
+### What Deserves My Attention?
 
 There is a difference between ignoring a problem and deciding how much attention it deserves.
 
@@ -443,7 +441,7 @@ My mind can hold committee meetings that nobody requested.
 
 Sometimes I need to adjourn them.
 
-### **When a Better Thought Isn't Available**
+### When a Better Thought Isn't Available
 
 There are mornings when none of this works particularly well.
 
@@ -495,7 +493,7 @@ Or:
 
 That counts.
 
-### **Borrow Someone Else's Brain**
+### Borrow Someone Else's Brain
 
 There are also mornings when I need another person.
 
@@ -521,7 +519,7 @@ I still believe deeply in human connection.
 
 But I also believe in using whatever good tools are available to help us care for our minds.
 
-### **The Sixteen-Minute Experiment**
+### The Sixteen-Minute Experiment
 
 Recently I began experimenting with another idea.
 
@@ -581,7 +579,7 @@ A scrap of paper.
 
 That little piece of paper was my reminder.
 
-### **We Don't Have to Choose the First Thought**
+### We Don't Have to Choose the First Thought
 
 This may be the most important thing I have learned about mornings.
 
@@ -645,7 +643,7 @@ And:
 
 Both belong.
 
-### **Ten Percent Better**
+### Ten Percent Better
 
 I don't need to wake up ecstatic.
 
@@ -685,7 +683,7 @@ This is not a dramatic transformation.
 
 It is a direction.
 
-### **At the Threshold of the Day**
+### At the Threshold of the Day
 
 Every morning is a little beginning.
 

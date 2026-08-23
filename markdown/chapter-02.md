@@ -1,7 +1,7 @@
 
-# **Chapter 2**
+# Chapter 2
 
-## **When the Mind Gets Stuck**
+## When the Mind Gets Stuck
 
 After Jim died, I discovered that my mind could get stuck.
 
@@ -23,7 +23,7 @@ I had been doing it all my life.
 
 Perhaps you have too.
 
-### **The Thought That Won't Go Away**
+### The Thought That Won't Go Away
 
 Sometimes something worries me and my mind seems to decide:
 
@@ -55,7 +55,7 @@ And sometimes, when I finally get far enough away from it, I wonder:
 
 The difficulty is that while I am inside the thought, it can feel completely reasonable.
 
-### **I Was Going to Be Kidnapped**
+### I Was Going to Be Kidnapped
 
 At one point in my life I became frightened that I might be kidnapped.
 
@@ -95,7 +95,7 @@ My son had given me a better thought.
 
 Or perhaps, more accurately, he had given me a **better question**.
 
-### **Go Outside and Look at Your House**
+### Go Outside and Look at Your House
 
 Many years earlier, I had another fixation.
 
@@ -141,7 +141,7 @@ A better thought isn't necessarily a cheerful thought.
 
 Sometimes a better thought is simply a **truer thought**.
 
-### **The Day I Accidentally Blasted Myself Out of a Thought**
+### The Day I Accidentally Blasted Myself Out of a Thought
 
 One of my favorite experiences with a stuck mind happened completely by accident.
 
@@ -197,7 +197,7 @@ Apparently my attention was not as permanently attached to that thought as it ha
 
 It could move.
 
-### **Can a Brain Get Into a Rut?**
+### Can a Brain Get Into a Rut?
 
 This makes me think of a wagon wheel traveling over the same dirt road again and again.
 
@@ -225,7 +225,7 @@ The fascinating part for me is that the brain isn't simply a container holding t
 
 And recently I learned about something that made me think about my stuck thoughts in a completely new way.
 
-### **A Magnetic Nudge to the Brain**
+### A Magnetic Nudge to the Brain
 
 It is called **transcranial magnetic stimulation**, or **TMS**.
 
@@ -259,7 +259,7 @@ The mind can find another track.
 
 And for the ordinary stuck thoughts of everyday life, perhaps we have our own collection of small nudges available.
 
-### **Interrupt the Pattern**
+### Interrupt the Pattern
 
 My deafening radio taught me something before I knew what to call it:
 
@@ -299,7 +299,7 @@ The other keeps bringing me back to the same spot.
 
 I'm trying to learn to notice the difference.
 
-### **Is This Thought Helping Me?**
+### Is This Thought Helping Me?
 
 I've discovered that I can ask myself several questions from Byron Kady when my mind gets stuck:
 
@@ -329,7 +329,7 @@ Sometimes it is simply:
 
 That can be a very good thought.
 
-### **The Fly on the Masterpiece**
+### The Fly on the Masterpiece
 
 I once came across an image from Marc and Angel that stayed with me.
 
@@ -357,7 +357,7 @@ I'm asking:
 
 **Do I want to spend all afternoon looking at it?**
 
-### **The Story I Am Telling Myself**
+### The Story I Am Telling Myself
 
 There is another piece of this that fascinates me.
 
@@ -429,7 +429,7 @@ Or:
 
 It leaves the future open.
 
-### **Borrow a Brain**
+### Borrow a Brain
 
 Sometimes I can't get myself out of my own thought.
 
@@ -467,7 +467,7 @@ I think of this as borrowing another brain for a few minutes.
 
 Then I can come back to mine with more possibilities.
 
-### **Better Does Not Mean Positive**
+### Better Does Not Mean Positive
 
 This distinction matters enormously to me.
 
@@ -535,7 +535,7 @@ And:
 
 Both can be true.
 
-### **The Second Thought**
+### The Second Thought
 
 Perhaps we can't always control the first thought that appears.
 

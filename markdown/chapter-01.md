@@ -1,7 +1,7 @@
 
-# **Chapter One**
+# Chapter One
 
-## **What’s a Better Thought?**
+## What’s a Better Thought?
 
 It happened in the middle of a Marriage Enrichment retreat.
 
@@ -21,7 +21,7 @@ But otherwise, we had built something extraordinary together.
 
 And now I was beginning to be afraid I was going to lose him.
 
-### **What If This Is Our Last Christmas?**
+### What If This Is Our Last Christmas?
 
 It had begun in November 2015\.
 
@@ -87,7 +87,7 @@ I had gotten it out of me. I had said aloud what I was most afraid of. And I thi
 
 I had no idea how much support he was going to need.
 
-### **Valiant and Scared**
+### Valiant and Scared
 
 In February, Jim was finally diagnosed with CLL, chronic lymphocytic leukemia.
 
@@ -153,7 +153,7 @@ Courageous and petrified.
 
 Both were true.
 
-### **The Night Lynn Called**
+### The Night Lynn Called
 
 My friend Lynn called me often.
 
@@ -195,7 +195,7 @@ Then he went down.
 
 And this time he didn’t come back.
 
-### **When His Heart Stopped**
+### When His Heart Stopped
 
 Jim died on a Thursday morning in the middle of May, at 9:40.
 
@@ -273,7 +273,7 @@ Faithfully.
 
 Some of them kept calling for years.
 
-### **Maybe It Was Jim**
+### Maybe It Was Jim
 
 Lynn had told me something else after Jim died.
 
@@ -323,7 +323,7 @@ I didn’t have to know.
 
 And for then, maybe was enough.
 
-### **“The Best Is Yet to Be”**
+### “The Best Is Yet to Be”
 
 A few weeks after Jim died, some of our Marriage Enrichment friends invited me to dinner at one of our favorite restaurants, the Cheesecake Factory.
 
@@ -385,7 +385,7 @@ I didn’t know.
 
 But I had begun to wonder.
 
-### **They Were Watching Me**
+### They Were Watching Me
 
 My friends kept calling.
 
@@ -439,7 +439,7 @@ But I was still here.
 
 And these women were watching me live.
 
-### **The Hours When Nobody Was There**
+### The Hours When Nobody Was There
 
 I got all the help I could.
 
@@ -505,7 +505,7 @@ Not dying.
 
 Jim was coming down our stairs.
 
-### **Jim in His Fedora**
+### Jim in His Fedora
 
 After retirement, Jim volunteered as a docent at the Computer History Museum, where one of his jobs was demonstrating the IBM 1401 computer.
 

@@ -1,7 +1,7 @@
 
-# **Chapter 5: Thinking About The Three Principles**
+# Chapter 5: Thinking About The Three Principles
 
-### ***A Kinder Way of Understanding How We Experience Life***
+### *A Kinder Way of Understanding How We Experience Life*
 
 Every now and then, someone explains something in a way that feels both simple and profound at the same time. That’s how I felt when I first heard about what are called the **Three Principles** — originally named **Mind, Consciousness, and Thought**.
 
@@ -34,7 +34,7 @@ and creates my thinking, my emotions, my perceptions, my joys, and my worries.
 
 *(All without asking me to fill out any forms.)*
 
-## **Consciousness — The Gift of Awareness**
+## Consciousness — The Gift of Awareness
 
 Consciousness is what allows us to be aware at all.
 
@@ -50,7 +50,7 @@ That’s consciousness at work.
 
 *(Even the very strange dreams.)*
 
-### **Pause for a Moment**
+### Pause for a Moment
 
 Right now, what are you aware of?
 
@@ -65,7 +65,7 @@ And gently consider:
 **“I’m feeling this way because I’m conscious of my thinking—**  
 **not because life itself is actually terrible.”**
 
-## **Thought — The Creative Power of Experience**
+## Thought — The Creative Power of Experience
 
 Thought is the moment-to-moment creative force of our lives.
 
@@ -91,7 +91,7 @@ We live in the feeling of our thinking about our circumstances.
 
 *“This is just a passing thought—not a permanent truth.”*
 
-## **Why This Is So Comforting**
+## Why This Is So Comforting
 
 What comforts me most in understanding all of this is something very gentle:
 
@@ -118,7 +118,7 @@ What comforts me most in understanding all of this is something very gentle:
 
 **to change everything.**
 
-## **A Gentle Noticing About Beliefs**
+## A Gentle Noticing About Beliefs
 
 I’ve also begun to notice something important:
 
@@ -138,7 +138,7 @@ I’ve also begun to notice something important:
 **They can soften.**  
 **They can change.**
 
-## **A Quiet Ending Thought**
+## A Quiet Ending Thought
 
 You don’t have to understand all of this perfectly.
 

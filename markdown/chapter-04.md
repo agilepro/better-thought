@@ -1,5 +1,5 @@
 
-**Chapter 4: NEGATIVITY BIAS**
+# Chapter 4: Negativity Bias
 
 You may know about the negative bias. Rick Hansen talks about our survival instinct, that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**—our brain’s built-in habit of noticing, /reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
 
@@ -78,7 +78,7 @@ I can respond with understanding rather than shame.
 
 The name matters because awareness works better when we are not busy defending ourselves.
 
-## **A Better Relationship With Our Own Minds**
+## A Better Relationship With Our Own Minds
 
 Perhaps this is the real goal.
 

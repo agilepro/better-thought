@@ -1,7 +1,7 @@
 
-# **Chapter 6: Better Thoughts Through Better Beliefs**
+# Chapter 6: Better Thoughts Through Better Beliefs
 
-### ***How I Learned Food Mastery***
+### *How I Learned Food Mastery*
 
 *One of the biggest “better thought” shifts in my life happened around something very ordinary:*
 
@@ -28,7 +28,7 @@
 
 **“I don’t really have control here.”**
 
-## **The Turning Point: A New Belief**
+## The Turning Point: A New Belief
 
 Everything changed when I took Jackie Kelm’s class on rapid change.
 
@@ -36,7 +36,7 @@ As part of the class, Jackie had a private conversation with each of us.
 
 She asked me three simple—but powerful—questions.
 
-### **First:**
+### First:
 
 **What is this behavior getting you?**
 
@@ -50,7 +50,7 @@ It felt like I deserved it.
 
 *(A very convincing list.)*
 
-### **Second:**
+### Second:
 
 **What is it doing to you?**
 
@@ -61,7 +61,7 @@ My clothes didn’t fit well.
 I felt out of control.  
 I wasn’t happy with myself.
 
-### **Third:**
+### Third:
 
 **What do you really want?**
 
@@ -87,7 +87,7 @@ And I heard myself say something new:
 
 *(Imagine that—peace with a cookie.)*
 
-## **Creating Food Mastery**
+## Creating Food Mastery
 
 I chose a simple structure: about 1200 calories a day—enough for me to feel satisfied and still move toward my goal weight of 140 pounds.
 
@@ -115,7 +115,7 @@ Not *I’m trying.*
 
 **I have it.**
 
-## **Pause for a Moment**
+## Pause for a Moment
 
 What is one belief you have about yourself…  
 that might not be helping you?
@@ -134,7 +134,7 @@ You don’t have to force it.
 
 Just consider the possibility.
 
-## **The Daily Better Thought**
+## The Daily Better Thought
 
 Now, almost every day, I quietly remind myself:
 
@@ -159,7 +159,7 @@ That is what mastery feels like.
 
 *(Calm… not dramatic.)*
 
-## **Why This Matters for Better Thoughts**
+## Why This Matters for Better Thoughts
 
 This whole shift came from changing a belief.
 
@@ -189,7 +189,7 @@ I care—kindly, consciously, without drama.
 
 **I can choose.**
 
-## **Learning Together**
+## Learning Together
 
 I also know I don’t do this alone.
 
@@ -217,7 +217,7 @@ It’s where I practice declaring:
 
 *And little by little, I begin to act in a new way.*
 
-## **A Quiet Closing Thought**
+## A Quiet Closing Thought
 
 I believe I can discover the beliefs that don’t serve me…
 

@@ -1,7 +1,7 @@
 
-# **Chapter 9: Who Is Doing and Being?**
+# Chapter 9: Who Is Doing and Being?
 
-### ***Meeting Your Inner Parent, Adult, and Child***
+### *Meeting Your Inner Parent, Adult, and Child*
 
 One of the ideas about our inner life comes from **Transactional Analysis**:
 
@@ -21,7 +21,7 @@ When I learned this, a lot of things suddenly made sense.
 
 *(Including some of my more confusing moments.)*
 
-## **The Parent**
+## The Parent
 
 The Parent has two main sides.
 
@@ -43,7 +43,7 @@ But when the Critical Parent inside us runs the show…
 
 **Better Thoughts tend to disappear rather quickly.**
 
-## **The Child**
+## The Child
 
 The Child is the emotional part of us.
 
@@ -64,7 +64,7 @@ When the Child is in charge and scared, our thinking often becomes small, tight,
 
 *(Everything suddenly feels like a very big deal.)*
 
-## **The Adult**
+## The Adult
 
 The Adult is the steady, present, thoughtful part of us.
 
@@ -84,7 +84,7 @@ Because when my Adult is present…
 
 **Better Thoughts appear much more naturally.**
 
-## **Inviting the Adult Forward**
+## Inviting the Adult Forward
 
 One of my ongoing goals is to increase my Adult’s capacity to be in charge—especially when my Child is anxious.
 
@@ -107,7 +107,7 @@ They remind my nervous system who is in charge.
 
 *(A very helpful reminder.)*
 
-## **Using the Body to Support the Adult**
+## Using the Body to Support the Adult
 
 My Adult also uses the body to stay grounded.
 
@@ -123,7 +123,7 @@ These are simple cues that bring me back into the here and now—into the Adult.
 
 From that place, my thinking clears.
 
-## **The Adult’s Three Helpful Questions**
+## The Adult’s Three Helpful Questions
 
 When I feel anxious or uncertain, my Adult asks:
 
@@ -136,7 +136,7 @@ This moves me out of fear and into wise action.
 
 *(A much more comfortable place to be.)*
 
-## **Helping the Child with the Adult**
+## Helping the Child with the Adult
 
 When my Child is scared, my Adult gently steps in and says:
 
@@ -156,7 +156,7 @@ But the Adult becomes the leader.
 
 And from that place, Better Thoughts grow naturally.
 
-## **Meeting the Needs of My Inner Family**
+## Meeting the Needs of My Inner Family
 
 *(Parent, Adult, and Child)*
 
@@ -176,7 +176,7 @@ If I ignore their needs, I feel restless, critical, impulsive, or off course.
 
 If I listen, something settles.
 
-## **My Child Needs**
+## My Child Needs
 
 My Child needs comfort, affection, play, and reassurance.
 
@@ -196,7 +196,7 @@ Often she just needs:
 
 *(Sometimes a nap solves more than expected.)*
 
-## **My Parent Needs**
+## My Parent Needs
 
 My Parent carries my values.
 
@@ -212,7 +212,7 @@ Sometimes she needs to soften and remember that kindness works better than criti
 
 *(It usually does.)*
 
-## **My Adult Needs**
+## My Adult Needs
 
 My Adult needs information, clarity, and calm.
 
@@ -228,7 +228,7 @@ I can choose.
 I can pause.  
 I can respond instead of react.
 
-## **Pause for a Moment**
+## Pause for a Moment
 
 Right now…
 
@@ -244,7 +244,7 @@ No fixing required.
 
 Just a little understanding.
 
-## **A Kinder Question**
+## A Kinder Question
 
 Instead of asking, *“What’s wrong with me?”*
 
@@ -269,7 +269,7 @@ Not perfect.
 
 But peacefully, steadily well.
 
-## **Examples of Meeting My Own Needs**
+## Examples of Meeting My Own Needs
 
 When I lie down for a nap instead of pushing through → I am caring for my Child.
 
@@ -281,7 +281,7 @@ When I call a friend and ask for listening → I am honoring my Child’s need t
 
 When I pray and then pause before acting → I am giving my Adult space.
 
-## **A Better Thought**
+## A Better Thought
 
 A very good Better Thought for me is simply this:
 

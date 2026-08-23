@@ -1,7 +1,5 @@
 
-# **APPENDIX 2**
-
-# **A Better Thought**
+# APPENDIX 2: A Better Thought
 
 A better thought  
 is not a denial of sorrow.  

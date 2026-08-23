@@ -1,7 +1,7 @@
 
-# **Chapter 13: SPIRITUALITY** 
+# Chapter 13: SPIRITUALITY 
 
-## **Spirituality: Turning to God First**
+## Spirituality: Turning to God First
 
 I think that spirituality—my relationship with God—may be one of the most important “better thoughts” of all.
 
@@ -34,7 +34,7 @@ Today, I want a relationship with God that is sincere and alive—more than form
 
 Just honesty.
 
-### **What Is Spirituality?**
+### What Is Spirituality?
 
 As I’ve wondered about spirituality, I’ve talked with friends.
 
@@ -55,7 +55,7 @@ It’s a lovely metaphor.
 
 Not solid proof.
 
-### **Where Is the Soul?**
+### Where Is the Soul?
 
 I began thinking about music.
 
@@ -113,7 +113,7 @@ Rick’s understanding fits beautifully with this. Spirit is not “somewhere.�
 
 It is what happens when body, breath, love, memory, and God’s presence come together.
 
-### **My Better Thought**
+### My Better Thought
 
 For me, spirituality comes down to this:
 
@@ -133,7 +133,7 @@ My better thought is:
 
 That is enough to guide me.
 
-## **Drifting Off Course — and Finding My Way Back**
+## Drifting Off Course — and Finding My Way Back
 
 In my spiritual life, I often feel clear and grounded. I feel close to God. I feel guided by love and goodness. I feel as if I know what matters and how I want to live.
 
@@ -229,7 +229,7 @@ I learn that I can always choose a kinder thought.
 
 And that is enough.
 
-## **About God Being Here**
+## About God Being Here
 
 What if God is not somewhere else?
 
@@ -268,7 +268,7 @@ it is breathing us.
 
 **Where do I see God’s presence now?**
 
-## **Looking for Love and Goodness**
+## Looking for Love and Goodness
 
 Here is something I discovered almost by accident.
 
