@@ -1,0 +1,96 @@
+
+# **APPENDIX 2**
+
+# **A Better Thought**
+
+A better thought  
+is not a denial of sorrow.  
+It is a window opened  
+in a room that felt stuffy.
+
+It is a small turning  
+of the face toward light.
+
+It does not shout.  
+It does not argue.  
+It does not scold.
+
+It simply says,  
+“Look again.”
+
+A better thought  
+is a hand on your shoulder  
+when you are tired of yourself.
+
+It reminds you  
+that you have been brave before.  
+That you have loved well.  
+That you are learning.  
+That you are allowed to begin again  
+before lunch.
+
+A better thought  
+can change the temperature of a day.
+
+The oatmeal tastes warmer.  
+The rain sounds softer.  
+The person in front of you  
+seems less like an obstacle  
+and more like a soul.
+
+A better thought  
+does not fix the world.
+
+But it softens your voice in it.  
+It steadies your breathing.  
+It widens your patience.  
+It lifts your eyes  
+from complaint to curiosity.
+
+And from that small lift  
+— that barely noticeable tilt —  
+kindness grows.
+
+You speak more gently.  
+You forgive more quickly.  
+You notice beauty sooner.  
+You rest without guilt.  
+You bless without effort.
+
+A better thought  
+is not magic.
+
+It is practice.  
+It is willingness.  
+It is remembering  
+that the mind can turn.
+
+And when it turns toward love,  
+even slightly,  
+happiness has room to enter.
+
+Not the loud kind.  
+Not the fireworks kind.
+
+The steady kind.  
+The livable kind.  
+The kind that walks beside you  
+while you brush your teeth  
+and answer the phone  
+and lie quietly listening to rain.
+
+A better thought  
+elevates the spirit  
+not by floating away from life,  
+but by meeting it  
+with softer eyes.
+
+And perhaps that is enough.
+
+Perhaps a better thought  
+is simply this:
+
+Today,  
+I will look for one.  
+And when I find it,  
+I will let it change me.
