@@ -1,6 +1,9 @@
 
 # Chapter 4: Negativity Bias
 
+If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
+
+
 You may know about the negative bias. Rick Hansen talks about our survival instinct, that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**—our brain’s built-in habit of noticing, /reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
 
 Positive thoughts, by contrast, can seem light, fragile, and easy to lose.  
