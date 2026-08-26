@@ -1,5 +1,4 @@
-
-# Chapter 5: Thinking About The Three Principles
+# Thinking About The Three Principles
 
 ### *A Kinder Way of Understanding How We Experience Life*
 
