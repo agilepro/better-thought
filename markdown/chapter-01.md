@@ -1,7 +1,4 @@
-
-# Chapter One
-
-## What’s a Better Thought?
+# What’s a Better Thought?
 
 It happened in the middle of a Marriage Enrichment retreat.
 
