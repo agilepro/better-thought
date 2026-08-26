@@ -1,5 +1,4 @@
-
-# Chapter 8: My Manifesto of Being Happy
+# My Manifesto of Being Happy
 
 For a long time, I thought happiness was something that happened *after* I got things done, fixed things, solved things, achieved things, and figured things out.  
 Now I see it very differently.
