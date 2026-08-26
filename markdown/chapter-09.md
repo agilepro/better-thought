@@ -1,6 +1,7 @@
 # Who Is Doing and Being?
 
-A better thought can change how we see a situation, but sometimes we also need to take action to help ourselves move forward. When we feel emotionally or physically stuck, it can help to think about the different choices available to us—what we can control, change, compensate for, create, or simply recognize and congratulate ourselves for doing.
+It can be helpful to have a simple model for understanding the different parts of ourselves and the different thoughts and needs that come from them. There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me and consider what thoughts might be most helpful.
+
 
 ### *Meeting Your Inner Parent, Adult, and Child*
 
