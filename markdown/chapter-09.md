@@ -1,5 +1,6 @@
+# Who Is Doing and Being?
 
-# Chapter 9: Who Is Doing and Being?
+A better thought can change how we see a situation, but sometimes we also need to take action to help ourselves move forward. When we feel emotionally or physically stuck, it can help to think about the different choices available to us—what we can control, change, compensate for, create, or simply recognize and congratulate ourselves for doing.
 
 ### *Meeting Your Inner Parent, Adult, and Child*
 
