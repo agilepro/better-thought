@@ -1,5 +1,7 @@
 # Thinking About The Three Principles
 
+If we are going to ask ourselves, “What’s a better thought?” it helps to understand just how important thought may be in creating our experience of life. The Three Principles offer one model for looking at this—one that places Thought at the very center of how we experience ourselves and the world around us.
+
 ### *A Kinder Way of Understanding How We Experience Life*
 
 Every now and then, someone explains something in a way that feels both simple and profound at the same time. That’s how I felt when I first heard about what are called the **Three Principles** — originally named **Mind, Consciousness, and Thought**.
