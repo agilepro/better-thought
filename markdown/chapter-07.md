@@ -1,4 +1,4 @@
-# Action Through Choices
+# Choose To Do Something
 
 A better thought can change how we see a situation, but sometimes we also need to take action to help ourselves move forward. When we feel emotionally or physically stuck, it can help to think about the different choices available to us—what we can control, change, compensate for, create, or simply recognize and congratulate ourselves for doing.
 
