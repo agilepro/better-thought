@@ -154,6 +154,6 @@ And I come back.
 
 **What state of mind would please you?**
 
-Do we know who we are? What is a view of the various selves that we are?
+
 
 —————————————————————————
