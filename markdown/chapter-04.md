@@ -53,6 +53,108 @@ Now gently ask:
 *You may need to hold onto it for a moment.*  
 *(Teflon can be slippery.)*
 
+## Thoughts Have Companions
+
+I am beginning to understand something about thoughts: **we rarely have just one thought at a time.**
+
+A thought tends to attract other thoughts. One idea connects with another, and then another. Before long, what began as a single thought has gathered a little company around it.
+
+This can be wonderful.
+
+When we are having a happy conversation with someone, one delightful thought may lead to another. We remember something funny. That reminds us of something else we enjoyed. Someone adds another idea. We become curious, playful, interested, appreciative. The conversation begins to sparkle.
+
+One good thought has invited other good thoughts to join it.
+
+We can help that happen. We can stay with the pleasure of the conversation instead of correcting it, criticizing it, making fun of it, or immediately pointing out what might be wrong. We can resist the temptation to say, “Yes, but…” and instead help the good thought grow.
+
+We can elaborate on delight.
+
+And perhaps that is one of the ways happiness is created—not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.
+
+Unfortunately, the same thing happens with negative thoughts.
+
+I may begin with something quite small:
+
+*I’m tired today.*
+
+But that thought may not stay alone.
+
+*I’m too tired to get everything done.*
+
+Then:
+
+*I’m falling behind.*
+
+*Other people manage better than I do.*
+
+*Why can’t I handle this?*
+
+*Maybe I can’t cope anymore.*
+
+*I’m clumsy.*
+
+*I’m not doing enough.*
+
+*I’m alone in this miserable mess.*
+
+Suddenly, I am no longer dealing with the original thought, *I’m tired today.* I am dealing with a whole collection of thoughts that have attached themselves to it.
+
+The first thought has acquired companions.
+
+Our brains are wonderful connecting machines. One idea brings up another memory, prediction, fear, judgment, comparison, or imagined consequence. The connections can happen so quickly that we may not even notice them. We simply discover that our mood has changed and we are going downhill.
+
+That is why it may be misleading to say, “Oh, I just had one bad thought.”
+
+Perhaps we almost never have *just one*.
+
+A negative thought can bloom into a **myriad of related ideas**, each adding another little piece of worry, discouragement, shame, fear, or unhappiness.
+
+Recognizing this gives us another place to intervene.
+
+We can notice the first thought and then become curious about its companions.
+
+**What have I added to this thought?**
+
+**What conclusions came rushing in behind it?**
+
+**What am I predicting?**
+
+**What am I saying about myself now that wasn’t actually contained in the original thought?**
+
+And then, of course, comes the question at the heart of this book:
+
+**What’s a better thought?**
+
+Not necessarily a falsely cheerful thought. Not a thought that denies what is happening. Simply a thought that does not invite an entire unhappy crowd to come marching in behind it.
+
+Perhaps:
+
+*Yes, I’m tired today. That means I need a slower day.*
+
+And then another thought might join that one:
+
+*I know how to rest.*
+
+And another:
+
+*I don’t have to do everything.*
+
+And another:
+
+*I can choose one thing that matters and let the rest wait.*
+
+Now I have changed the company my thought is keeping.
+
+This may be something worth remembering: **thoughts have companions.**
+
+When the companions are delightful, welcome them. Elaborate. Enjoy them. Let one happy thought lead to another and another.
+
+And when the companions are taking you down a dark road, notice them. They are not necessarily truths. They may simply be associations—thoughts joining thoughts because that is what brains do.
+
+Then we have a choice.
+
+We can ask which thoughts we want to invite to stay.
+
 **NEGATIVITY BIAS SOUNDS LIKE AN ACCUSATION**
 
 One more admonition about negative bias. When I tell people that we all have a negative bias often the person doesn’t think of ‘we all’, they believe I’m saying that *they* are negative. Somehow, as soon as you use the word negative the person gets stuck on that and it becomes an insult. They get defensive.
