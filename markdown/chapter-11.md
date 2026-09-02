@@ -130,21 +130,21 @@ Building together.
 Allowing the flow.  
 Being agreeable.
 
-Encouragement, active listening, and validation keep conversation alive.
+Empathy, active listening, and validation keep conversation alive.
 
 ## What I Know for Sure
 
 Taking turns feels good.  
 Being heard feels healing.
 
-Sharing concerns helps me discover whether they are truly heavy…
-
+Sharing my concerns helps me discover whether they are truly heavy…
 or simply exaggerated by worry.
-
+As you paraphrase some of my words I hear myself more objectively.
+I begin to think more rationally - - to see answers.
 *(This happens more often than I expect.)*
 
 Having you reflect back my joys and my troubles lets me know you really understand.
-
+i'm not alone and afraid anymore.
 That understanding is deeply satisfying.
 
 Along the way, we always learn something.
