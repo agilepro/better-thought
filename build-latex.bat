@@ -1,0 +1,1 @@
+cd latex && xelatex better-thought.tex

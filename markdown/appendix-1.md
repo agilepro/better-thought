@@ -149,4 +149,3 @@ Those thoughts are believable.
 
 Because they are believable, they calm your nervous system
 
-*————————————————————-*

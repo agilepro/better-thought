@@ -1,5 +1,5 @@
 
-# Chapter 12:  Love is the Best Thought of All
+# Love is the Best Thought of All
 
 If I had to choose just one better thought — the best thought of all — it would be **love**.
 
@@ -7,7 +7,7 @@ Love is the thought that steadies us, softens us, and brings us back to what mat
 
 Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention-** \- that complete focus with eye contact- \- **affection, affirmation, and appreciation**— the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
 
-### Affection: The Sweetness That Keeps Life Tasting Good
+## Affection: The Sweetness That Keeps Life Tasting Good
 
 Affection is the sweetness that keeps life tasting good.
 
@@ -24,7 +24,7 @@ Some people love hugs and kisses. Others feel most loved when someone does a sma
 
 And here’s something wonderful: when you hug someone, you can’t tell whether you’re giving affection or receiving it. Affection flows both ways.
 
-### You Never Outgrow the Need for Affection
+## You Never Outgrow the Need for Affection
 
 Some experts believe that more than anything else, we all crave affection, attention, and affirmation. *See me. Listen to me. Hold me.*
 
@@ -37,7 +37,7 @@ Let me know when that happens.
 
 Hugs, pats, snuggles, eye contact, listening, encouragement, compliments, notes that say *I love you* — these are not trivial gestures. They are the daily nourishment of love.
 
-### Affirmation: Catching Each Other Being Good
+## Affirmation: Catching Each Other Being Good
 
 Affirmation is love spoken out loud.
 
@@ -65,7 +65,7 @@ Thoughtful affirmations help soothe those doubts:
 
 Sometimes the most loving affirmation is simply listening to feelings, acknowledging their presence, without correcting them or trying to make them go away.
 
-### Appreciation: A Habit That Pays Dividends
+## Appreciation: A Habit That Pays Dividends
 
 Appreciation is another form of love that’s hard to overdo.
 
@@ -78,7 +78,7 @@ It does take intention. Our minds are naturally alert to problems and mistakes �
 A simple dinner-table question can change the tone of an evening:  
 “Dearest, do I thank you enough for all the wonderful things you do?”
 
-### Sharing Good News — How Do You Respond?
+## Sharing Good News — How Do You Respond?
 
 When your partner shares good news, you have choices.
 
@@ -93,7 +93,7 @@ Sharing in your partner’s joy — celebrating their successes, even small ones
 
 Marriage and close partnership also come with special privileges: **bragging rights**. You get to share your victories with someone who wants to be proud of you. If modesty made that difficult growing up, love gives you permission now.
 
-### Thinking Loving Thoughts Changes the Relationship
+## Thinking Loving Thoughts Changes the Relationship
 
 Here’s a powerful truth: when you plan to say something loving, you must first **think loving thoughts**.
 
@@ -103,7 +103,7 @@ When I’m irritable, I sometimes pull out a little cheat sheet — a list of wh
 
 You can’t always force joy, but you can practice attention. Often, the emotional shift comes later — quietly, gently — after you persist in thinking better thoughts.
 
-### The Power of Small, Frequent Acts
+## The Power of Small, Frequent Acts
 
 Love thrives on small, frequent gestures:
 
@@ -117,7 +117,7 @@ Little things matter because they say, *I’m thinking about you.*
 
 Healthy relationships depend far more on positive interactions than on avoiding conflict. When affection, affirmation, and appreciation are plentiful, the occasional complaint lands more softly. Love creates a buffer.
 
-### Can You Say “I Love You” Too Often?
+## Can You Say “I Love You” Too Often?
 
 I don’t think so.
 
@@ -125,7 +125,7 @@ The words stay the same, but the meaning changes with each moment of life. Somet
 
 Love is not diminished by repetition. It is strengthened by it.
 
-### Love as a Better Thought
+## Love as a Better Thought
 
 Directing your thoughts toward love — especially when it would be easier to complain or withdraw — is one of the most powerful practices I know.
 
@@ -139,4 +139,3 @@ And what could be a better thought than that?
 
 **What way can I send out some love today?**
 
-**————————————————————————**

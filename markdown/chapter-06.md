@@ -2,7 +2,7 @@
 
 Our thoughts matter not only because of how they make us feel in the moment, but because thoughts repeated over time can grow into beliefs. Those beliefs can become like well-worn ruts in the mind—familiar paths our thoughts return to again and again. But those paths can change. Here is one experience from my own life that showed me how changing my thinking could gradually change what I believed—and, eventually, how I am living.
 
-### *How I Learned Food Mastery*
+## *How I Learned Food Mastery*
 
 *One of the biggest “better thought” shifts in my life happened around something very ordinary:*
 
@@ -37,7 +37,7 @@ As part of the class, Jackie had a private conversation with each of us.
 
 She asked me three simple—but powerful—questions.
 
-### First:
+## First:
 
 **What is this behavior getting you?**
 
@@ -51,7 +51,7 @@ It felt like I deserved it.
 
 *(A very convincing list.)*
 
-### Second:
+## Second:
 
 **What is it doing to you?**
 
@@ -62,7 +62,7 @@ My clothes didn’t fit well.
 I felt out of control.  
 I wasn’t happy with myself.
 
-### Third:
+## Third:
 
 **What do you really want?**
 

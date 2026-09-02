@@ -1,3 +1,6 @@
+---
+indexTerms: Action, Action Through Choices, Adjacent Brain, Aging, Anger. Anxiety, Appreciation, Awareness, Being, Better Beliefs, Better Questions, Better Thoughts, Body Scan, Brain Drain, Calm Mind Card, Catastrophizing, Change, “Change” as a Cue, Choice, Choosing Again, Compensate, Congratulate, Control, Conversation, Create, Daily Practices, Depression, Doing, Doing and Being, Energy, Energy Dollars, Fear, Five C’s of Choice, Forgiveness, Friendship, Gratitude, Grief, Growth, Happiness, Hope, Humor, “I Am Safe at a Slower Speed”, “I Don’t Have to Worry in Order to Care”, Inner Peace, Jim, Strickland, Joy, Kindness, Kindness to Oneself, Letting Go, Listening, Love, Love as a Better Thought, “Love Has a Longer Memory Than Guilt”, Manifesto of Being Happy, Memories, Memory Library, Morning, Thoughts, Negativity Bias, “Not a Perfect Thought—Just a Better One”, One Thought at a Time, Parent–Adult–Child, Pause and Notice, Pause Box, Peace, Prayer, Present Moment, Reframing, Relationships, Repair, Rest, “Rest Is Enough”, Rumination, Safety Tilt, Self-Acceptance, Self-Compassion, Self-Criticism, Self-Esteem, Slow Time, Spirituality, Stuck Thoughts, Survival, Thinking, Three Principles, Thought Patterns, Thought Train, Thoughts, Thoughts Are Not Facts, Thoughts Are Not Permanent, Tranquility, “What’s a Better Thought?”, “What Would You Rather Be, Thinking?”, Worry, Worry as Caring, Worry Loops, Writing Things Down
+---
 # What’s a Better Thought?
 
 It happened in the middle of a Marriage Enrichment retreat.
@@ -18,7 +21,7 @@ But otherwise, we had built something extraordinary together.
 
 And now I was beginning to be afraid I was going to lose him.
 
-### What If This Is Our Last Christmas?
+## What If This Is Our Last Christmas?
 
 It had begun in November 2015\.
 
@@ -84,7 +87,7 @@ I had gotten it out of me. I had said aloud what I was most afraid of. And I thi
 
 I had no idea how much support he was going to need.
 
-### Valiant and Scared
+## Valiant and Scared
 
 In February, Jim was finally diagnosed with CLL, chronic lymphocytic leukemia.
 
@@ -150,7 +153,7 @@ Courageous and petrified.
 
 Both were true.
 
-### The Night Lynn Called
+## The Night Lynn Called
 
 My friend Lynn called me often.
 
@@ -192,7 +195,7 @@ Then he went down.
 
 And this time he didn’t come back.
 
-### When His Heart Stopped
+## When His Heart Stopped
 
 Jim died on a Thursday morning in the middle of May, at 9:40.
 
@@ -270,7 +273,7 @@ Faithfully.
 
 Some of them kept calling for years.
 
-### Maybe It Was Jim
+## Maybe It Was Jim
 
 Lynn had told me something else after Jim died.
 
@@ -320,7 +323,7 @@ I didn’t have to know.
 
 And for then, maybe was enough.
 
-### “The Best Is Yet to Be”
+## “The Best Is Yet to Be”
 
 A few weeks after Jim died, some of our Marriage Enrichment friends invited me to dinner at one of our favorite restaurants, the Cheesecake Factory.
 
@@ -382,7 +385,7 @@ I didn’t know.
 
 But I had begun to wonder.
 
-### They Were Watching Me
+## They Were Watching Me
 
 My friends kept calling.
 
@@ -436,7 +439,7 @@ But I was still here.
 
 And these women were watching me live.
 
-### The Hours When Nobody Was There
+## The Hours When Nobody Was There
 
 I got all the help I could.
 
@@ -502,7 +505,7 @@ Not dying.
 
 Jim was coming down our stairs.
 
-### Jim in His Fedora
+## Jim in His Fedora
 
 After retirement, Jim volunteered as a docent at the Computer History Museum, where one of his jobs was demonstrating the IBM 1401 computer.
 

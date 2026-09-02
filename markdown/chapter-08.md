@@ -26,7 +26,7 @@ And I remember that I am human.
 This is what happiness feels like in my body and in my mind.  
 It is the climate of my life.
 
-### Being Happy Is Not What I Do — It’s How I Am
+## Being Happy Is Not What I Do — It’s How I Am
 
 What I have discovered is that happiness is not a task.  
 It is not something I *accomplish*.  
@@ -44,7 +44,7 @@ It doesn’t demand that life behave.
 
 It simply invites me to come home to myself.
 
-### What Pulls Me Away from Happiness
+## What Pulls Me Away from Happiness
 
 Of course, I am human.  
 And there are many things that disturb my happiness.
@@ -69,7 +69,7 @@ When I get pulled away from my natural happiness, I don’t scold myself.
 I don’t try to “fix” my feelings.  
 I simply recognize that something is asking for care.
 
-### How I Find My Way Back
+## How I Find My Way Back
 
 When life intrudes and my state of being shifts, I pause and listen.
 
@@ -89,7 +89,7 @@ Sometimes by letting go of the story that is tightening my heart.
 Returning to happiness is not about controlling life.  
 It is about **remembering who I am.**
 
-### Holding My Intention
+## Holding My Intention
 
 My primary intention remains steady:
 
@@ -106,7 +106,7 @@ get through this moment.
 These are not replacements for happiness.  
 They are **bridges that carry me back to it.**
 
-### My Daily Practice of Being
+## My Daily Practice of Being
 
 Each day I remind myself of what matters most.
 
@@ -125,7 +125,7 @@ I talk with others about what being means to them.
 I keep learning.  
 And I keep returning.
 
-### Why This Choice Changes Everything
+## Why This Choice Changes Everything
 
 When I live from the state of being happy, my nervous system settles.  
 My heart opens.  
@@ -141,7 +141,7 @@ This is about orientation.
 
 This is the life I choose.
 
-### My Promise to Myself
+## My Promise to Myself
 
 I choose happiness as my home base.  
 I choose being over proving.  
@@ -153,7 +153,3 @@ And when I forget, I forgive myself.
 And I come back.
 
 **What state of mind would please you?**
-
-
-
-—————————————————————————

@@ -1,5 +1,5 @@
 
-# Last Chapter: Better Thoughts Begin with Better Questions
+# Better Thoughts Begin with Better Questions
 
 Sometimes we try to think our way into feeling better by arguing with ourselves.
 

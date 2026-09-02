@@ -1,13 +1,9 @@
 
-# Chapter 10: We Need Others
-
-### *An Adjacent Brain*
+# We Need Others
 
 ## The Adjacent Brain
 
-### *(How Conversation Expands Our Thinking)*
-
-## The Idea
+*(How Conversation Expands Our Thinking)*
 
 Sometimes thinking alone feels like walking in circles inside our own mind.
 
@@ -23,9 +19,7 @@ Something about having another brain next to ours helps us see more.
 
 It’s as though our mind can stretch, understand, and gather in ideas from each other.
 
-I like to call this:
-
-**The Adjacent Brain.**
+I like to call this:  **The Adjacent Brain.**
 
 ## How the Adjacent Brain Works
 
@@ -159,4 +153,3 @@ to truly listen?
 to be understood?  
 to love—and be loved—in this quiet, thoughtful way?
 
-—————————————————————————-
