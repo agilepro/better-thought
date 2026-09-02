@@ -71,7 +71,7 @@ Appreciation is another form of love that’s hard to overdo.
 
 The more we notice and thank our partner for what they do, the better we both feel. It’s a true win-win. Gratitude encourages generosity, and kindness tends to multiply.
 
-When I deliberately notice what Jim does and thank him, he feels good — and so do I. My attention shifts away from fault-finding and toward appreciation. That shift alone is a better thought.
+When I deliberately notice what he does and thank him, he feels good — and so do I. My attention shifts away from fault-finding and toward appreciation. That shift alone is a better thought.
 
 It does take intention. Our minds are naturally alert to problems and mistakes — an old survival instinct, perhaps. But appreciation can be practiced.
 
@@ -99,7 +99,7 @@ Here’s a powerful truth: when you plan to say something loving, you must first
 
 That means looking for the good, remembering what you treasure, and gently redirecting your mind away from complaints. This doesn’t mean ignoring real problems — it means choosing the right time and not letting negativity run the show.
 
-When I’m irritable, I sometimes pull out a little cheat sheet — a list of why I love Jim. It helps me remember who he really is when my mood forgets.
+When I’m irritable, I sometimes pull out a little cheat sheet — a list of why I love him. It helps me remember who he really is when my mood forgets.
 
 You can’t always force joy, but you can practice attention. Often, the emotional shift comes later — quietly, gently — after you persist in thinking better thoughts.
 
