@@ -61,7 +61,7 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 
 ## In Human Conversation
 
-When we talk to another person, and they truly listen- \- reflecting our thoughts and feelings—not correcting, criticizing, minimizing, not fixing, not rushing to advise—
+When we talk to another person, and they truly listen- \- **reflecting our thoughts and feelings—not correcting, criticizing, minimizing, not fixing, not rushing to advise—
 they lend us their calm brain while ours may be swirling.
 
 *(A very generous loan.)*
