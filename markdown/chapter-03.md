@@ -29,7 +29,7 @@ Apparently **the day**.
 
 I haven't even tried it yet.
 
-## Don't Believe Everything You Think Before Breakfast
+## Don't Believe Everything You Think Before Breakfast{i: morning}{i: before breakfast}
 
 Morning is a particularly interesting time for me because my first thoughts often feel completely convincing.
 
@@ -133,7 +133,7 @@ I don't know that.
 
 I've simply been awake for five minutes and gotten ahead of myself.
 
-## The Morning Brain Is a Storyteller
+## The Morning Brain Is a Storyteller{i: storytelling brain}
 
 Chapter 2 was about the stories our minds create.
 
@@ -189,7 +189,7 @@ It doesn't deny anything.
 
 It simply refuses to predict the ending before the day has begun.
 
-## Nurture Yourself Awake
+## Nurture Yourself Awake{i: nurture awake}
 
 For years I thought I should wake up and **get going**.
 
@@ -227,7 +227,7 @@ That last one is especially useful because breakfast has rescued a surprising nu
 
 Sometimes a better thought is extremely practical.
 
-## Talk to Yourself as Someone You Love
+## Talk to Yourself as Someone You Love{i: talk to yourself}
 
 I have spent much of my life thinking about communication.
 
@@ -282,7 +282,7 @@ Not:
 
 Those are very different questions.
 
-## My Morning Delights
+## My Morning Delights{i: morning delights}
 
 Eventually I do get up.
 
@@ -368,7 +368,7 @@ Not necessarily from yesterday.
 
 It can come from anywhere in my life.
 
-A peak experience.
+A peak experience.{i: peak experience}
 
 Something funny.
 
@@ -494,7 +494,7 @@ Or:
 
 That counts.
 
-## Borrow Someone Else's Brain
+## Borrow Someone Else's Brain{i: someone else brain}
 
 There are also mornings when I need another person.
 
@@ -520,7 +520,7 @@ I still believe deeply in human connection.
 
 But I also believe in using whatever good tools are available to help us care for our minds.
 
-## The Sixteen-Minute Experiment
+## The Sixteen-Minute Experiment{i: sixteen minute experiment}
 
 Recently I began experimenting with another idea.
 
@@ -644,7 +644,7 @@ And:
 
 Both belong.
 
-## Ten Percent Better
+## Ten Percent Better{i: ten percent better}
 
 I don't need to wake up ecstatic.
 
@@ -684,7 +684,7 @@ This is not a dramatic transformation.
 
 It is a direction.
 
-## At the Threshold of the Day
+## At the Threshold of the Day{i: threshold of the day}
 
 Every morning is a little beginning.
 

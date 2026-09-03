@@ -1,5 +1,5 @@
 
-# Love is the Best Thought of All
+# Love is the Best Thought of All{i: love}
 
 If I had to choose just one better thought — the best thought of all — it would be **love**.
 
@@ -7,7 +7,7 @@ Love is the thought that steadies us, softens us, and brings us back to what mat
 
 Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention-** \- that complete focus with eye contact- \- **affection, affirmation, and appreciation**— the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
 
-## Affection: The Sweetness That Keeps Life Tasting Good
+## Affection: The Sweetness That Keeps Life Tasting Good{i: affection}
 
 Affection is the sweetness that keeps life tasting good.
 
@@ -24,7 +24,7 @@ Some people love hugs and kisses. Others feel most loved when someone does a sma
 
 And here’s something wonderful: when you hug someone, you can’t tell whether you’re giving affection or receiving it. Affection flows both ways.
 
-## You Never Outgrow the Need for Affection
+## You Never Outgrow the Need for Affection{i: affection}
 
 Some experts believe that more than anything else, we all crave affection, attention, and affirmation. *See me. Listen to me. Hold me.*
 
@@ -37,7 +37,7 @@ Let me know when that happens.
 
 Hugs, pats, snuggles, eye contact, listening, encouragement, compliments, notes that say *I love you* — these are not trivial gestures. They are the daily nourishment of love.
 
-## Affirmation: Catching Each Other Being Good
+## Affirmation: Catching Each Other Being Good{i: affirmation}
 
 Affirmation is love spoken out loud.
 
@@ -65,7 +65,7 @@ Thoughtful affirmations help soothe those doubts:
 
 Sometimes the most loving affirmation is simply listening to feelings, acknowledging their presence, without correcting them or trying to make them go away.
 
-## Appreciation: A Habit That Pays Dividends
+## Appreciation: A Habit That Pays Dividends{i: appreciation}
 
 Appreciation is another form of love that’s hard to overdo.
 
@@ -78,7 +78,7 @@ It does take intention. Our minds are naturally alert to problems and mistakes �
 A simple dinner-table question can change the tone of an evening:  
 “Dearest, do I thank you enough for all the wonderful things you do?”
 
-## Sharing Good News — How Do You Respond?
+## Sharing Good News — How Do You Respond?{i: good news}
 
 When your partner shares good news, you have choices.
 
@@ -93,11 +93,11 @@ Sharing in your partner’s joy — celebrating their successes, even small ones
 
 Marriage and close partnership also come with special privileges: **bragging rights**. You get to share your victories with someone who wants to be proud of you. If modesty made that difficult growing up, love gives you permission now.
 
-## Thinking Loving Thoughts Changes the Relationship
+## Thinking Loving Thoughts Changes the Relationship{i: loving thoughts}
 
 Here’s a powerful truth: when you plan to say something loving, you must first **think loving thoughts**.
 
-That means looking for the good, remembering what you treasure, and gently redirecting your mind away from complaints. This doesn’t mean ignoring real problems — it means choosing the right time and not letting negativity run the show.
+That means looking for the good, remembering what you treasure, and gently redirecting your mind away from complaints. This doesn’t mean ignoring real problems — it means choosing the right time and not letting negativity run the show.{i: negativity bias}
 
 When I’m irritable, I sometimes pull out a little cheat sheet — a list of why I love him. It helps me remember who he really is when my mood forgets.
 

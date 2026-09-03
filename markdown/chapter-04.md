@@ -1,5 +1,5 @@
 
-# Negativity Bias
+# Negativity Bias{i: negativity bias}
 
 If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
 
@@ -13,7 +13,7 @@ This is not a personal failure.
 
 It is the human brain at work helping you survive. Thank your brain and think up something positive.
 
-**Negativity Bias Shows Up in Everyday Life**
+**Negativity Bias Shows Up in Everyday Life**{i: negativity bias}
 
 The way it works is that when we decide we’re going to go to that party we’ve been invited to, our brains not only think of the good things about the party, but they also worry about many things, like what to wear, and will we be accepted, and will it be any fun at all or is there something else planned for that time. These thoughts come so quickly that we’re not even aware of all of them or forget some of them instantly. When we have one thought, other related  ideas come quickly to join them. I believe this is how premonitions are born. If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur\! And we say, “I had a premonition that that might happen.” This only fuels the false belief that we have power to predict.
 
@@ -53,7 +53,7 @@ Now gently ask:
 *You may need to hold onto it for a moment.*  
 *(Teflon can be slippery.)*
 
-## Thoughts Have Companions
+## Thoughts Have Companions{i: companion thoughts}
 
 I am beginning to understand something about thoughts: **we rarely have just one thought at a time.**
 
@@ -69,7 +69,7 @@ We can help that happen. We can stay with the pleasure of the conversation inste
 
 We can elaborate on delight.
 
-And perhaps that is one of the ways happiness is created—not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.
+And perhaps that is one of the ways happiness is created—not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.{i: myriad of thoughts}
 
 Unfortunately, the same thing happens with negative thoughts.
 

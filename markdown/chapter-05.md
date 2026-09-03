@@ -1,8 +1,8 @@
-# Thinking About The Three Principles
+# Thinking About The Three Principles{i: three principles}
 
 If we are going to ask ourselves, “What’s a better thought?” it helps to understand just how important thought may be in creating our experience of life. The Three Principles offer one model for looking at this—one that places Thought at the very center of how we experience ourselves and the world around us.
 
-## A Kinder Way of Understanding How We Experience Life
+## A Kinder Way of Understanding How We Experience Life{i: kinder}
 
 Every now and then, someone explains something in a way that feels both simple and profound at the same time. That’s how I felt when I first heard about what are called the **Three Principles** — originally named **Mind, Consciousness, and Thought**.
 
@@ -22,8 +22,7 @@ I honor that language and where it came from.
 
 And—for my own understanding, and for the sake of being grounded and practical—I think about it this way:
 
-**The Brain, Consciousness, and Thought are**  
-**working together to create our entire human experience.**
+**The Brain, Consciousness, and Thought are working together to create our entire human experience.**
 
 **BRAIN**
 
@@ -35,7 +34,7 @@ and creates my thinking, my emotions, my perceptions, my joys, and my worries.
 
 *(All without asking me to fill out any forms.)*
 
-## Consciousness — The Gift of Awareness
+## Consciousness — The Gift of Awareness{i: consciousness}{i: awareness}
 
 Consciousness is what allows us to be aware at all.
 
@@ -51,7 +50,7 @@ That’s consciousness at work.
 
 *(Even the very strange dreams.)*
 
-## Pause for a Moment
+## Pause for a Moment{i: pause}
 
 Right now, what are you aware of?
 
@@ -63,8 +62,7 @@ Notice how awareness brings it to life.
 
 And gently consider:
 
-**“I’m feeling this way because I’m conscious of my thinking—**  
-**not because life itself is actually terrible.”**
+**“I’m feeling this way because I’m conscious of my thinking—not because life itself is actually terrible.”**
 
 ## Thought — The Creative Power of Experience
 
