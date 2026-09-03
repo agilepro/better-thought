@@ -1,6 +1,6 @@
-# Who Is Doing and Being?
+# Who Is Doing and Being?{i: doing and being}
 
-It can be helpful to have a simple model for understanding the different parts of ourselves and the different thoughts and needs that come from them. There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me and consider what thoughts might be most helpful.
+It can be helpful to have a simple model for understanding the different parts of ourselves and the different thoughts and needs that come from them. There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me and consider what thoughts might be most helpful.{i:Transactional Analysis}
 
 
 ## Meeting Your Inner Parent, Adult, and Child
@@ -23,7 +23,7 @@ When I learned this, a lot of things suddenly made sense.
 
 *(Including some of my more confusing moments.)*
 
-## The Parent
+## The Parent{i: parent}
 
 The Parent has two main sides.
 
@@ -45,7 +45,7 @@ But when the Critical Parent inside us runs the show…
 
 **Better Thoughts tend to disappear rather quickly.**
 
-## The Child
+## The Child{i: child}
 
 The Child is the emotional part of us.
 
@@ -66,7 +66,7 @@ When the Child is in charge and scared, our thinking often becomes small, tight,
 
 *(Everything suddenly feels like a very big deal.)*
 
-## The Adult
+## The Adult{i: adult}
 
 The Adult is the steady, present, thoughtful part of us.
 

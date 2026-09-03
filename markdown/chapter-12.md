@@ -5,7 +5,7 @@ If I had to choose just one better thought -- the best thought of all -- it woul
 
 Love is the thought that steadies us, softens us, and brings us back to what matters most. It is the highest goodness we can offer our partners, our friends, and the people we walk through life with. When love is present, even imperfect moments feel workable. When love is expressed, relationships grow stronger almost without effort.
 
-Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention-** \- that complete focus with eye contact- \- **affection, affirmation, and appreciation**-- the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
+Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention** --that complete focus with eye contact--**affection, affirmation, and appreciation**-- the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
 
 ## Affection: The Sweetness That Keeps Life Tasting Good{i: affection}
 
@@ -89,7 +89,7 @@ Or you can ignore it altogether.
 
 Only one of those responses builds love.
 
-Sharing in your partner’s joy -- celebrating their successes, even small ones -- strengthens goodwill and happiness. It tells them, *Your happiness matters to me. Respond with enthusiasm\!*
+Sharing in your partner’s joy -- celebrating their successes, even small ones -- strengthens goodwill and happiness. It tells them, *Your happiness matters to me. Respond with enthusiasm!*
 
 Marriage and close partnership also come with special privileges: **bragging rights**. You get to share your victories with someone who wants to be proud of you. If modesty made that difficult growing up, love gives you permission now.
 
@@ -125,7 +125,7 @@ The words stay the same, but the meaning changes with each moment of life. Somet
 
 Love is not diminished by repetition. It is strengthened by it.
 
-## Love as a Better Thought
+## Love as a Better Thought{i: love}
 
 Directing your thoughts toward love -- especially when it would be easier to complain or withdraw -- is one of the most powerful practices I know.
 

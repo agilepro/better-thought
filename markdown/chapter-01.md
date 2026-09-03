@@ -347,7 +347,7 @@ She certainly surprised me.
 
 Everything inside me wanted to shout:
 
-**NO\!**
+**NO!**
 
 How could the best possibly be yet to come?
 

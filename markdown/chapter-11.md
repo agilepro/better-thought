@@ -1,4 +1,4 @@
-# Friendship and Conversation
+# Friendship and Conversation{i: friendship}{i: conversation}
 
 Our connection with other people is one of the great sources of happiness and well-being in our lives, and close friendship can be one of its most beautiful forms. The thoughts we bring to a friendship help shape the connection we create together. This chapter is simply my way of thinking about what makes a close friendship meaningful, joyful, and reciprocal--and an invitation for you to consider what you most value in your own friendship
 
@@ -101,7 +101,7 @@ Who was with you?
 
 What made it feel that way?
 
-## Questions I Carry About Conversation
+## Questions I Carry About Conversation{i: conversation}
 
 I carry many questions about good conversation:
 

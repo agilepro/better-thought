@@ -14,13 +14,11 @@ That is what I wish I would do more consistently.
 
 Like many people, I have blown hot and cold in my spiritual life.
 
-I started out fairly devout. I went to Sunday school as a child, and I took faith seriously. One Sunday, a missionary who worked in Africa spoke at our church. I came home convinced that I should go to Africa and help people. It took me years to let go of the guilt I felt when I realized that was not my calling.
+I started out fairly devout. I went to Sunday school as a child, and I took faith seriously. One Sunday, a missionary who worked in Africa spoke at our church. I came home convinced that I should go to Africa and help people. It took me years to let go of the guilt I felt when I realized that was not my calling.{i: Africa}
 
+Instead, my gifts turned out to be in teaching, counseling, and helping people communicate--through parent effectiveness training, transactional analysis, couple communication, marriage enrichment, and happiness work. That was where I could truly be useful.{i:Transactional Analysis}{i: Marriage Enrichment}
 
-{i: Marriage Enrichment}
-Instead, my gifts turned out to be in teaching, counseling, and helping people communicate--through parent effectiveness training, transactional analysis, couple communication, marriage enrichment, and happiness work. That was where I could truly be useful.
-
-Then, when our son Jeff died, everything changed.
+Then, when our son Jeff died, everything changed.{i: Jeff}
 
 I became very angry at God. I could still talk to Jesus, but I was filled with pain and confusion. Over time, I became a disbeliever and even an atheist. I reasoned that if there were a God, He would never allow my beautiful sixteen-year-old son to die.
 
@@ -36,14 +34,13 @@ Today, I want a relationship with God that is sincere and alive--more than forma
 
 Just honesty.
 
-## What Is Spirituality?
+## What Is Spirituality?{i: spirituality}
 
 As I’ve wondered about spirituality, I’ve talked with friends.
 
 Suzie told me that spirituality is communication with God--contemplating, pondering, and thinking about Jesus. She wants to live with gratitude and humility for everything we’ve been given: friends, family, guidance, and meaningful work.
 
-Rick says our spiritual lives *are* our lives. He often says,  
-“I need to talk to Jesus each day, all day.”
+Rick says our spiritual lives *are* our lives. He often says,  “I need to talk to Jesus each day, all day.”
 
 I love that.
 
@@ -51,13 +48,13 @@ It’s beautiful. Simple. Honest. Grounded.
 
 He knows where his comfort and strength come from.
 
-Cindy once said she thought the soul lived in the brain. Karo mentioned the movie *21 Grams*, which suggests the soul has physical weight. I learned that this idea came from a small, unreliable experiment over a hundred years ago. Scientists could never confirm it.
+Cindy once said she thought the soul lived in the brain. Karo mentioned the movie *21 Grams*, which suggests the soul has physical weight. I learned that this idea came from a small, unreliable experiment over a hundred years ago. Scientists could never confirm it.{i: Cindy}{i: Karo}{i: 21 Grams}
 
 It’s a lovely metaphor.
 
 Not solid proof.
 
-## Where Is the Soul?
+## Where Is the Soul?{i: soul}
 
 I began thinking about music.
 
@@ -135,7 +132,7 @@ My better thought is:
 
 That is enough to guide me.
 
-## Drifting Off Course -- and Finding My Way Back
+## Drifting Off Course -- and Finding My Way Back{i: way back}{i: drifting}
 
 In my spiritual life, I often feel clear and grounded. I feel close to God. I feel guided by love and goodness. I feel as if I know what matters and how I want to live.
 
@@ -270,7 +267,7 @@ it is breathing us.
 
 **Where do I see God’s presence now?**
 
-## Looking for Love and Goodness
+## Looking for Love and Goodness{i: looking for love}
 
 Here is something I discovered almost by accident.
 

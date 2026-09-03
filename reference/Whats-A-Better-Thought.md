@@ -2116,7 +2116,7 @@ It appears as remembering one criticism more vividly than ten compliments.
 
 It appears as replaying mistakes long after the moment has passed.
 
-It appears as a host of awful possibilities \- \- but not real probabilities \- \- a big difference.
+It appears as a host of awful possibilities--but not real probabilities--a big difference.
 
 At night, the brain keeps watch.
 
@@ -3353,7 +3353,7 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 
 ## **In Human Conversation**
 
-When we talk to another person, and they truly listen- \- reflecting our thoughts and feelings—not correcting, not fixing, not rushing to advise—they lend us their calm brain while ours may be swirling.
+When we talk to another person, and they truly listen--reflecting our thoughts and feelings—not correcting, not fixing, not rushing to advise—they lend us their calm brain while ours may be swirling.
 
 *(A very generous loan.)*
 
@@ -3631,7 +3631,7 @@ If I had to choose just one better thought — the best thought of all — it wo
 
 Love is the thought that steadies us, softens us, and brings us back to what matters most. It is the highest goodness we can offer our partners, our friends, and the people we walk through life with. When love is present, even imperfect moments feel workable. When love is expressed, relationships grow stronger almost without effort.
 
-Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention-** \- that complete focus with eye contact- \- **affection, affirmation, and appreciation**— the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
+Love doesn’t have to be grand or dramatic. Most often, love shows up through **attention-**--that complete focus with eye contact--**affection, affirmation, and appreciation**--the small, repeatable ways we say, *I see you. I care. You matter to me. You are important.*
 
 ### **Affection: The Sweetness That Keeps Life Tasting Good**
 

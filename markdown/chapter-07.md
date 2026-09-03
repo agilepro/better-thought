@@ -28,7 +28,7 @@ We can’t control our age, the way our government is run, accidents, health cha
 
 But what we *can* control is how we respond--and the choices we make every day that shape our happiness and well-being.
 
-## What Can You Control?
+## What Can You Control?{i: control}
 
 While we can’t control everything, we do have power over many aspects of our lives.
 
@@ -62,7 +62,7 @@ I can choose acts of self-care--like swimming, walking, eating nutritious foods,
 
 And while I can’t control who else will be in the swimming pool--or if the power goes out--I can always adjust my mindset and look for something to appreciate.
 
-## The Power to Change
+## The Power to Change{i: power to change}
 
 Change is always within reach.
 
@@ -80,11 +80,11 @@ One thing that still amazes me is this:
 
 And when I change my beliefs, I can change my behavior.
 
-During the class I took with Jackie Kelm, I discovered that I could change the belief that food temptation was too powerful for me.
+During the class I took with Jackie Kelm, I discovered that I could change the belief that food temptation was too powerful for me.{i: Jackie Kelm}
 
 Now, I remind myself each day:
 
-**I have food mastery.**
+**I have food mastery.**{i: food mastery}
 
 *(Sometimes daily reminders are required. That’s perfectly fine.)*
 
@@ -114,7 +114,7 @@ You don’t have to change everything.
 
 Just one small choice is enough.
 
-## Compensate for Life’s Challenges
+## Compensate for Life’s Challenges{i: challenges}
 
 Loss and disappointment are part of life.
 
@@ -132,7 +132,7 @@ Speak to yourself the way you would speak to someone you love.
 
 *(You deserve that same tone.)*
 
-## Create Joy in Everyday Life
+## Create Joy in Everyday Life{i: joy everyday}
 
 We have more influence over our days than we sometimes realize.
 
@@ -148,7 +148,7 @@ Our only real limitation is our energy--and we can choose how to invest it.
 
 *(Energy is precious. Spend it wisely… and kindly.)*
 
-## Congratulate Yourself
+## Congratulate Yourself{i: congratulate yourself}
 
 This is a crucial step--and one we often forget.
 

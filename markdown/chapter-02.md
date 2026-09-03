@@ -164,7 +164,7 @@ And I hit the wrong thing.
 
 Instead of changing the music, I turned the volume up enormously.
 
-**BLAST\!**
+**BLAST!**
 
 The sound was terrific.
 
@@ -214,7 +214,7 @@ Self-criticism can become a rut.
 
 Replaying an argument can become a rut.
 
-So can gratitude. A better groove. (*Groovy*\!)
+So can gratitude. A better groove. (*Groovy*!)
 
 So can remembering someone we love.
 
@@ -392,7 +392,7 @@ We can use imagination to frighten ourselves.
 
 I certainly have.
 
-If I can create an entire kidnapping story without anyone actually kidnapping anybody, my imagination is working extremely well\!
+If I can create an entire kidnapping story without anyone actually kidnapping anybody, my imagination is working extremely well!
 
 So perhaps imagination can work in another direction too.
 
@@ -474,7 +474,7 @@ I am **not** suggesting that whenever something terrible happens we should paste
 
 Jim was dying.
 
-“Everything is wonderful\!” would not have been a better thought.
+“Everything is wonderful!” would not have been a better thought.
 
 It would have been nonsense.
 

@@ -1,8 +1,8 @@
-# Better Thoughts Through Better Beliefs
+# Better Thoughts Through Better Beliefs{i: better beliefs}
 
 Our thoughts matter not only because of how they make us feel in the moment, but because thoughts repeated over time can grow into beliefs. Those beliefs can become like well-worn ruts in the mind--familiar paths our thoughts return to again and again. But those paths can change. Here is one experience from my own life that showed me how changing my thinking could gradually change what I believed--and, eventually, how I am living.
 
-## *How I Learned Food Mastery*
+## *How I Learned Food Mastery*{i: food mastery}
 
 *One of the biggest “better thought” shifts in my life happened around something very ordinary:*
 
@@ -31,7 +31,7 @@ Our thoughts matter not only because of how they make us feel in the moment, but
 
 ## The Turning Point: A New Belief
 
-Everything changed when I took Jackie Kelm’s class on rapid change.
+Everything changed when I took Jackie Kelm’s class on rapid change.{i: Jackie Kelm}
 
 As part of the class, Jackie had a private conversation with each of us.
 
@@ -68,7 +68,7 @@ I wasn’t happy with myself.
 
 And I heard myself say something new:
 
-**“I want food mastery.”**
+**“I want food mastery.”**{i: food mastery}
 
 *Not dieting.*  
 *Not willpower.*  
@@ -88,7 +88,7 @@ And I heard myself say something new:
 
 *(Imagine that--peace with a cookie.)*
 
-## Creating Food Mastery
+## Creating Food Mastery{i: food mastery}
 
 I chose a simple structure: about 1200 calories a day--enough for me to feel satisfied and still move toward my goal weight of 140 pounds.
 
@@ -170,7 +170,7 @@ The moment my belief changed from:
 
 to:
 
-**“I have food mastery,”**
+**“I have food mastery,”**{i: food mastery}
 
 my thoughts became kinder, calmer, and more capable.
 
@@ -204,7 +204,7 @@ Sometimes my ideas sound a little unusual when I say them out loud.
 
 *My beliefs soften and reshape themselves.*
 
-*The* **Empathy Circle** has become one of my favorite places to explore this.
+The **Empathy Circle** has become one of my favorite places to explore this.{i: empathy circle}
 
 It’s a place where I can:
 

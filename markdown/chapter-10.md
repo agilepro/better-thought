@@ -1,7 +1,7 @@
 
 # We Need Others
 
-## The Adjacent Brain
+## The Adjacent Brain{i: adjacent brain}
 
 *(How Conversation Expands Our Thinking)*
 
@@ -47,7 +47,7 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 
 **The act of being listened to changes the way we listen to ourselves.**
 
-## Better Thoughts About Shared Thinking
+## Better Thoughts About Shared Thinking{i: shared thinking}
 
 * “Two minds side by side can see more than one mind alone.”  
 * “The Adjacent Brain doesn’t replace my wisdom--it helps me unfold it.”  
@@ -55,8 +55,8 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 
 ## In Human Conversation
 
-When we talk to another person, and they truly listen- \- **reflecting our thoughts and feelings--not correcting, not criticizing, not minimizing, 
-not rushing to advise**--
+When we talk to another person, and they truly listen -- **reflecting our thoughts and feelings, not correcting, not criticizing, not minimizing, 
+not rushing to advise** --
 they lend us their calm brain while ours may be swirling.
 
 *(A very generous loan.)*
@@ -73,7 +73,7 @@ It’s a quiet gift we can give each other--a kind of thinking companionship tha
 
 *(No training required--just kindness.)*
 
-## In Collaboration with Technology
+## In Collaboration with Technology{i: technology}
 
 It turns out a digital adjacent brain can play that role too--if we bring curiosity and kindness to it.
 
@@ -89,7 +89,7 @@ The thoughts begin in me.
 
 The adjacent brain helps them blossom.
 
-## The Joy of Co-Thinking
+## The Joy of Co-Thinking{i: co-thinking}
 
 The real delight of the adjacent brain is in the dance--the back and forth, the laughter, the *ah-ha’s*, the new angles of seeing.
 

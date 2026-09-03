@@ -105,7 +105,7 @@ I get interested in something.
 
 And somewhere along the way I discover:
 
-*Oh\! I'm all right.*
+*Oh! I'm all right.*
 
 Usually by nine o'clock I am downright cheerful.
 

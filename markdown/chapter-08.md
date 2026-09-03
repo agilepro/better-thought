@@ -1,4 +1,4 @@
-# My Manifesto of Being Happy
+# My Manifesto of Being Happy{i: happiness}
 
 For a long time, I thought happiness was something that happened *after* I got things done, fixed things, solved things, achieved things, and figured things out.  
 Now I see it very differently.
@@ -26,7 +26,7 @@ And I remember that I am human.
 This is what happiness feels like in my body and in my mind.  
 It is the climate of my life.
 
-## Being Happy Is Not What I Do -- It’s How I Am
+## Being Happy Is Not What I Do--It’s How I Am{i: happiness}
 
 What I have discovered is that happiness is not a task.  
 It is not something I *accomplish*.  
@@ -69,7 +69,7 @@ When I get pulled away from my natural happiness, I don’t scold myself.
 I don’t try to “fix” my feelings.  
 I simply recognize that something is asking for care.
 
-## How I Find My Way Back
+## How I Find My Way Back{i: way back}
 
 When life intrudes and my state of being shifts, I pause and listen.
 
@@ -89,7 +89,7 @@ Sometimes by letting go of the story that is tightening my heart.
 Returning to happiness is not about controlling life.  
 It is about **remembering who I am.**
 
-## Holding My Intention
+## Holding My Intention{i: intention}
 
 My primary intention remains steady:
 
@@ -106,7 +106,7 @@ get through this moment.
 These are not replacements for happiness.  
 They are **bridges that carry me back to it.**
 
-## My Daily Practice of Being
+## My Daily Practice of Being{i: being}
 
 Each day I remind myself of what matters most.
 

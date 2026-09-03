@@ -1,5 +1,5 @@
 
-# Better Thoughts Begin with Better Questions
+# Better Thoughts Begin with Better Questions{i: better questions}
 
 Sometimes we try to think our way into feeling better by arguing with ourselves.
 
@@ -26,7 +26,7 @@ The mind follows the direction of our curiosity.
 
 If we ask better questions, we often find better thoughts.
 
-## Questions About Strength and Success
+## Questions About Strength and Success{i: strength}{i: success}
 
 We forget our own history.
 
@@ -49,7 +49,7 @@ They steady us.
 
 They remind us that we are not fragile accidents -- we are people with evidence of strength.
 
-## Questions About Love
+## Questions About Love{i: love}
 
 Love is often the best thought of all.
 
@@ -64,7 +64,7 @@ But try asking:
 
 Better thoughts about ourselves often grow out of remembering the love we have given.
 
-## Questions About Joy and Peak Experiences
+## Questions About Joy and Peak Experiences{i: joy}{i: peak experience}
 
 Sometimes we need to remember that we have known joy.
 
@@ -78,7 +78,7 @@ Joy remembered is still joy.
 
 The nervous system does not always know the difference between present joy and vividly remembered joy.
 
-## Questions for Difficult Moments
+## Questions for Difficult Moments{i: difficult moments}
 
 When we are upset, the mind narrows.
 
@@ -95,7 +95,7 @@ A better thought does not deny pain.
 
 It widens the frame.
 
-## Questions for Thriving and Aging
+## Questions for Thriving and Aging{i: thriving}{i: aging}
 
 As we grow older, we gather quiet treasures.
 
@@ -112,7 +112,7 @@ So ask:
 These questions dignify the later years.  
 They remind us that we are still becoming.
 
-## Questions of Self-Compassion
+## Questions of Self-Compassion{i: self-compassion}
 
 Sometimes the most powerful better thought begins with tenderness.
 
@@ -125,7 +125,7 @@ Sometimes the most powerful better thought begins with tenderness.
 Self-compassion is not weakness.  
 It is wise leadership from within.
 
-## Questions of the Spirit
+## Questions of the Spirit{i: spirit}
 
 If you believe in God, or Being, or Love itself, you might also ask:
 
