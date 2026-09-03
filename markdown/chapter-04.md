@@ -4,7 +4,7 @@
 If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
 
 
-You may know about the negative bias. Rick Hansen talks about our survival instinct, that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**—our brain’s built-in habit of noticing, /reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
+You may know about the negative bias. Rick Hansen talks about our survival instinct, that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**--our brain’s built-in habit of noticing, /reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
 
 Positive thoughts, by contrast, can seem light, fragile, and easy to lose.  
 *(They don’t always know how to make a grand entrance.)*
@@ -33,7 +33,7 @@ At night, the brain keeps watch.
 
 Many dreams feature being late, lost, unprepared, or failing in some way.
 
-We may wake up uneasy before a single conscious thought forms—the emotional residue still present. My morning thoughts are often grim and I wonder about those vaguely unsettling dreams.
+We may wake up uneasy before a single conscious thought forms--the emotional residue still present. My morning thoughts are often grim and I wonder about those vaguely unsettling dreams.
 
 **Pause for a Moment**
 
@@ -47,7 +47,7 @@ Something that might go wrong?
 
 Now gently ask:
 
-**What’s something good that also happened—**  
+**What’s something good that also happened--**  
 **even if it didn’t stick as easily?**
 
 *You may need to hold onto it for a moment.*  
@@ -69,7 +69,7 @@ We can help that happen. We can stay with the pleasure of the conversation inste
 
 We can elaborate on delight.
 
-And perhaps that is one of the ways happiness is created—not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.{i: myriad of thoughts}
+And perhaps that is one of the ways happiness is created--not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.{i: myriad of thoughts}
 
 Unfortunately, the same thing happens with negative thoughts.
 
@@ -149,7 +149,7 @@ This may be something worth remembering: **thoughts have companions.**
 
 When the companions are delightful, welcome them. Elaborate. Enjoy them. Let one happy thought lead to another and another.
 
-And when the companions are taking you down a dark road, notice them. They are not necessarily truths. They may simply be associations—thoughts joining thoughts because that is what brains do.
+And when the companions are taking you down a dark road, notice them. They are not necessarily truths. They may simply be associations--thoughts joining thoughts because that is what brains do.
 
 Then we have a choice.
 
@@ -161,7 +161,7 @@ One more admonition about negative bias. When I tell people that we all have a n
 
 I think we need to rename the negative bias. Give it a new name, something like SAFETY TILT or PROTECTIVE INSTINCT or something that makes it sound like you are doing a positive thing for the sake of your health and well-being when being concerned about unintended consequences. The survival instinct called Safety Tilt makes you a discerning, thoughtful, careful person who makes wonderful decisions. If I have built-in Protective Instinct I become a model for avoiding problems and potential negative consequences. Doesn’t that sound much better than Negative Bias? 
 
-**My mind naturally leans toward noticing what could threaten me. I can appreciate that—and still choose where to place my attention.**
+**My mind naturally leans toward noticing what could threaten me. I can appreciate that--and still choose where to place my attention.**
 
 If I say:
 
@@ -213,9 +213,9 @@ I can ask:
 
 **Is my Safety Tilt helping me right now?**
 
-**Has my Survival Scanner found a real problem—or is it simply continuing to scan?**
+**Has my Survival Scanner found a real problem--or is it simply continuing to scan?**
 
-**Is my Watchful Mind giving me useful information—or frightening me?**
+**Is my Watchful Mind giving me useful information--or frightening me?**
 
 **Is there one reasonable action I need to take?**
 

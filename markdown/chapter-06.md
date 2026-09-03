@@ -1,6 +1,6 @@
 # Better Thoughts Through Better Beliefs
 
-Our thoughts matter not only because of how they make us feel in the moment, but because thoughts repeated over time can grow into beliefs. Those beliefs can become like well-worn ruts in the mind—familiar paths our thoughts return to again and again. But those paths can change. Here is one experience from my own life that showed me how changing my thinking could gradually change what I believed—and, eventually, how I am living.
+Our thoughts matter not only because of how they make us feel in the moment, but because thoughts repeated over time can grow into beliefs. Those beliefs can become like well-worn ruts in the mind--familiar paths our thoughts return to again and again. But those paths can change. Here is one experience from my own life that showed me how changing my thinking could gradually change what I believed--and, eventually, how I am living.
 
 ## *How I Learned Food Mastery*
 
@@ -10,7 +10,7 @@ Our thoughts matter not only because of how they make us feel in the moment, but
 
 *For years, I felt out of control with eating.*
 
-*Not wildly so—just enough to complain about it, feel uncomfortable in my clothes, and wish I could do better.*
+*Not wildly so--just enough to complain about it, feel uncomfortable in my clothes, and wish I could do better.*
 
 *I would eat more sugar than I wanted, eat more than I needed, and then feel disappointed with myself.*
 
@@ -35,7 +35,7 @@ Everything changed when I took Jackie Kelm’s class on rapid change.
 
 As part of the class, Jackie had a private conversation with each of us.
 
-She asked me three simple—but powerful—questions.
+She asked me three simple--but powerful--questions.
 
 ## First:
 
@@ -86,15 +86,15 @@ And I heard myself say something new:
 
 *To feel at ease with food.*
 
-*(Imagine that—peace with a cookie.)*
+*(Imagine that--peace with a cookie.)*
 
 ## Creating Food Mastery
 
-I chose a simple structure: about 1200 calories a day—enough for me to feel satisfied and still move toward my goal weight of 140 pounds.
+I chose a simple structure: about 1200 calories a day--enough for me to feel satisfied and still move toward my goal weight of 140 pounds.
 
 I started writing my food down.
 
-Not in a harsh way—in a caring, attentive way.
+Not in a harsh way--in a caring, attentive way.
 
 Something surprising happened.
 
@@ -180,7 +180,7 @@ Better choices create a gentler life.
 
 And I no longer plan to “not care” about my weight.
 
-I care—kindly, consciously, without drama.
+I care--kindly, consciously, without drama.
 
 *(Drama is not required for progress.)*
 

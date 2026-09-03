@@ -1,12 +1,12 @@
 # Choose To Do Something
 
-A better thought can change how we see a situation, but sometimes we also need to take action to help ourselves move forward. When we feel emotionally or physically stuck, it can help to think about the different choices available to us—what we can control, change, compensate for, create, or simply recognize and congratulate ourselves for doing.
+A better thought can change how we see a situation, but sometimes we also need to take action to help ourselves move forward. When we feel emotionally or physically stuck, it can help to think about the different choices available to us--what we can control, change, compensate for, create, or simply recognize and congratulate ourselves for doing.
 
 *Embracing Control, Change, and Growth*
 
 ## Action Builds Self-Esteem
 
-There’s something very strengthening about taking action—especially small, intentional action.
+There’s something very strengthening about taking action--especially small, intentional action.
 
 One idea I like to remember is this:
 
@@ -26,7 +26,7 @@ We can’t control our age, the way our government is run, accidents, health cha
 
 *(And the weather, in particular, does not take suggestions.)*
 
-But what we *can* control is how we respond—and the choices we make every day that shape our happiness and well-being.
+But what we *can* control is how we respond--and the choices we make every day that shape our happiness and well-being.
 
 ## What Can You Control?
 
@@ -41,7 +41,7 @@ We manage our daily choices:
 * the food we eat  
 * and even how we speak to ourselves
 
-Instead of feeling down about not being the most loving person, we can take action—do something kind for a friend, a spouse, or a neighbor.
+Instead of feeling down about not being the most loving person, we can take action--do something kind for a friend, a spouse, or a neighbor.
 
 Rather than feeling overwhelmed by a messy house, we can clean just one room.
 
@@ -56,11 +56,11 @@ For example, I can choose:
 * the people I spend time with  
 * and the tone I use with myself
 
-I can choose acts of self-care—like swimming, walking, eating nutritious foods, or turning off the TV to read something uplifting.
+I can choose acts of self-care--like swimming, walking, eating nutritious foods, or turning off the TV to read something uplifting.
 
 *(The TV is often surprised by this decision.)*
 
-And while I can’t control who else will be in the swimming pool—or if the power goes out—I can always adjust my mindset and look for something to appreciate.
+And while I can’t control who else will be in the swimming pool--or if the power goes out--I can always adjust my mindset and look for something to appreciate.
 
 ## The Power to Change
 
@@ -70,7 +70,7 @@ We can improve our health habits, adjust our sleep schedule, eat better, find a 
 
 A woman once shared in an evaluation:
 
-“I learned that it wasn’t my fault—and I could change.”
+“I learned that it wasn’t my fault--and I could change.”
 
 That realization is powerful.
 
@@ -100,7 +100,7 @@ Even small situations can shift.
 
 If we’re stuck in traffic, we can turn frustration into a mini-meditation.
 
-*(Not always easy—but available.)*
+*(Not always easy--but available.)*
 
 ## Pause for a Moment
 
@@ -118,7 +118,7 @@ Just one small choice is enough.
 
 Loss and disappointment are part of life.
 
-But we can **compensate**—we can gently fill the gaps with care and support.
+But we can **compensate**--we can gently fill the gaps with care and support.
 
 If we’ve lost a loved one, we can lean into friendship and connection.
 
@@ -144,13 +144,13 @@ We can add or subtract activities to make life more enjoyable:
 * joining a group  
 * or simply sitting quietly with a cup of tea
 
-Our only real limitation is our energy—and we can choose how to invest it.
+Our only real limitation is our energy--and we can choose how to invest it.
 
 *(Energy is precious. Spend it wisely… and kindly.)*
 
 ## Congratulate Yourself
 
-This is a crucial step—and one we often forget.
+This is a crucial step--and one we often forget.
 
 A friend of mine once asked:
 
@@ -164,7 +164,7 @@ Recognizing and celebrating our own efforts is one of the kindest things we can 
 * Celebrate small victories  
 * Count your blessings
 
-Reward yourself after a tough moment—like getting through a dental appointment…
+Reward yourself after a tough moment--like getting through a dental appointment…
 
 or surviving the DMV.
 
@@ -174,7 +174,7 @@ or surviving the DMV.
 
 Life is not always easy.
 
-But through small, thoughtful choices, we can shape it into something more manageable—and more joyful.
+But through small, thoughtful choices, we can shape it into something more manageable--and more joyful.
 
 So take a moment right now:
 
@@ -203,5 +203,3 @@ I choose the kind of person I want to be.
 And sometimes, that choice is very simple:
 
 **Happy.**
-
-**———————————————————————**

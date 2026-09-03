@@ -27,11 +27,11 @@ When I learned this, a lot of things suddenly made sense.
 
 The Parent has two main sides.
 
-One is the **Critical Parent**—the part that corrects, warns, scolds, gives advice, and says a lot of “shoulds.”
+One is the **Critical Parent**--the part that corrects, warns, scolds, gives advice, and says a lot of “shoulds.”
 
 *(It can be very persuasive.)*
 
-The other is the **Nurturing Parent**—the part that says:
+The other is the **Nurturing Parent**--the part that says:
 
 * “I love you.”  
 * “I care about you.”  
@@ -88,7 +88,7 @@ Because when my Adult is present…
 
 ## Inviting the Adult Forward
 
-One of my ongoing goals is to increase my Adult’s capacity to be in charge—especially when my Child is anxious.
+One of my ongoing goals is to increase my Adult’s capacity to be in charge--especially when my Child is anxious.
 
 I do that by saying **Adult things on purpose**.
 
@@ -103,7 +103,7 @@ Things like:
 
 These are not just positive statements.
 
-They are **Adult statements**—steady, capable, grounded in the present.
+They are **Adult statements**--steady, capable, grounded in the present.
 
 They remind my nervous system who is in charge.
 
@@ -121,7 +121,7 @@ Sometimes my Adult says:
 * “Look around the room.”  
 * “Notice where you are sitting.”
 
-These are simple cues that bring me back into the here and now—into the Adult.
+These are simple cues that bring me back into the here and now--into the Adult.
 
 From that place, my thinking clears.
 
@@ -170,7 +170,7 @@ And sometimes the better question is:
 
 I carry within me a Parent, an Adult, and a Child.
 
-Not three different people—just three ways of responding to life.
+Not three different people--just three ways of responding to life.
 
 *(A small internal committee.)*
 
@@ -186,7 +186,7 @@ She needs to feel safe.
 
 She needs someone to say, *“You’re okay. You’re loved.”*
 
-If I’m reaching for something I don’t really want—extra food, mindless television, or reassurance from someone who isn’t available—I sometimes ask:
+If I’m reaching for something I don’t really want--extra food, mindless television, or reassurance from someone who isn’t available--I sometimes ask:
 
 Is my Child lonely? Tired? Unseen?
 
@@ -208,7 +208,7 @@ When I feel guilty or disappointed in myself, I ask:
 
 Is my Parent afraid I’m going off track?
 
-Sometimes she needs reassurance that I am still a good person—even when I’m imperfect.
+Sometimes she needs reassurance that I am still a good person--even when I’m imperfect.
 
 Sometimes she needs to soften and remember that kindness works better than criticism.
 
@@ -252,7 +252,7 @@ Instead of asking, *“What’s wrong with me?”*
 
 I can ask:
 
-**“Which part of me is speaking—and what does it need?”**
+**“Which part of me is speaking--and what does it need?”**
 
 Meeting my own needs is not selfish.
 
@@ -287,11 +287,11 @@ When I pray and then pause before acting → I am giving my Adult space.
 
 A very good Better Thought for me is simply this:
 
-**“My Adult is here—and that is enough for this moment.”**
+**“My Adult is here--and that is enough for this moment.”**
 
 I have a feeling that this idea holds a great deal.
 
-I do have a friend who believes her thoughts should go wherever they want to go—and is willing to suffer through some very discouraging ones.
+I do have a friend who believes her thoughts should go wherever they want to go--and is willing to suffer through some very discouraging ones.
 
 But I’ve discovered something about myself:
 
@@ -299,4 +299,4 @@ But I’ve discovered something about myself:
 
 *(That seems like a reasonable preference.)*
 
-*—————————————————————*
+*------------------------------------------*

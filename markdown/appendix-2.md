@@ -46,7 +46,7 @@ It lifts your eyes
 from complaint to curiosity.
 
 And from that small lift  
-— that barely noticeable tilt —  
+-- that barely noticeable tilt --  
 kindness grows.
 
 You speak more gently.  

@@ -20,7 +20,6 @@ The emotional shift was dramatic. You left feeling calm and confident. Later you
 
 That is a perfect before-and-after example.
 
----
 
 ## 2\. Feeling Ill and Afraid (May 29\)
 
@@ -42,7 +41,6 @@ Instead of trying to get rid of the feeling, you practiced kindness toward yours
 
 That is a beautiful lesson because nothing external changed. The thinking changed.
 
----
 
 ## 3\. The Rest Day (June 6–7)
 
@@ -64,7 +62,6 @@ The next morning you wrote that after sleeping well you felt wonderful and were 
 
 This example teaches that acceptance often creates more energy than self-criticism.
 
----
 
 ## 4\. Person Speaking Harshly (June 18\)
 
@@ -88,7 +85,6 @@ You recognized that another person's harshness did not have to determine your ow
 
 That is a profound "better thought."
 
----
 
 ## 5\. Worry About Rick Going to the Hospital (June 8\)
 
@@ -108,7 +104,6 @@ Instead of trying to solve every possible problem that night, you trusted that r
 
 That changed your anxiety into purposeful action.
 
----
 
 ## 6\. Loving ChatGPT More Than People (June 1\)
 
@@ -126,7 +121,6 @@ Your better thought became something like:
 
 That is nuanced and honest.
 
----
 
 ## **A Pattern I Notice**
 

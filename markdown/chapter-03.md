@@ -268,7 +268,7 @@ I can listen.
 
 *You feel overwhelmed and you haven't even gotten out of bed.*
 
-There is something soothing about simply being understood—even when the person doing the understanding is me.
+There is something soothing about simply being understood--even when the person doing the understanding is me.
 
 And then perhaps:
 
@@ -524,7 +524,7 @@ But I also believe in using whatever good tools are available to help us care fo
 
 Recently I began experimenting with another idea.
 
-I can set my phone or watch to remind me at intervals—sometimes every sixteen minutes.
+I can set my phone or watch to remind me at intervals--sometimes every sixteen minutes.
 
 The reminder isn't there to tell me I've done something wrong.
 
@@ -688,7 +688,7 @@ It is a direction.
 
 Every morning is a little beginning.
 
-Before I know what the day will bring, there I am again—opening my eyes and meeting my mind.
+Before I know what the day will bring, there I am again--opening my eyes and meeting my mind.
 
 I used to think the goal was to wake up happy.
 
@@ -720,7 +720,7 @@ Smile if you can.
 
 And ask:
 
-**What's a better thought—right now?**
+**What's a better thought--right now?**
 
 Maybe there is one.
 

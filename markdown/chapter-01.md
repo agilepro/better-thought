@@ -6,7 +6,7 @@
 {i: Marriage Enrichment}
 It happened in the middle of a Marriage Enrichment retreat.
 
-There were about twenty couples there, divided into small groups of five couples each. Jim and I had been involved in Marriage Enrichment for forty years. We had taught it, led it, believed in it, and—most importantly—practiced it ourselves.
+There were about twenty couples there, divided into small groups of five couples each. Jim and I had been involved in Marriage Enrichment for forty years. We had taught it, led it, believed in it, and--most importantly--practiced it ourselves.
 
 We didn’t just tell other couples to listen to each other. We listened to each other. We didn’t just teach communication exercises. We did them. Year after year, we worked on our own marriage along with the couples we were helping.
 
@@ -107,7 +107,7 @@ And somehow we laughed.
 
 There were strawberry milkshakes after doctors’ appointments and treatments.
 
-There were emails. I wrote to perhaps sixty people, telling them how Jim was doing. I tried to include something hopeful—some good day he had had, some encouraging possibility. And I asked people to send us jokes.
+There were emails. I wrote to perhaps sixty people, telling them how Jim was doing. I tried to include something hopeful--some good day he had had, some encouraging possibility. And I asked people to send us jokes.
 
 They did.
 
@@ -431,7 +431,7 @@ It seemed comforting.
 
 Perhaps I would simply die too.
 
-And if I didn’t—if life without Jim became as unbearable as I expected it to be—I had decided that I could end my own life.
+And if I didn’t--if life without Jim became as unbearable as I expected it to be--I had decided that I could end my own life.
 
 At the time, that thought gave me relief.
 
@@ -449,7 +449,7 @@ I went to a grief group.
 
 I had a therapist at Kaiser.
 
-A friend who had worked as a grief counselor let me tell the horrible story—the illness, the treatments, the despair, the suffering.
+A friend who had worked as a grief counselor let me tell the horrible story--the illness, the treatments, the despair, the suffering.
 
 I cried.
 
@@ -575,7 +575,7 @@ Jim swimming and swimming and swimming in our pool, then stopping his laps to di
 
 Another.
 
-One of our romantic evenings together: champagne and lobster Thermidor—and afterward a Band-Aid for Jim’s hand because the lobster had fought back.
+One of our romantic evenings together: champagne and lobster Thermidor--and afterward a Band-Aid for Jim’s hand because the lobster had fought back.
 
 I began collecting them.
 
@@ -595,7 +595,7 @@ I had stumbled onto something.
 
 I didn’t understand all of it yet.
 
-I certainly didn’t know that ten years later I would still be practicing it, deliberately recalling a wonderful memory every morning—memories not only of Jim, but of my whole life: people I have loved, things I have accomplished, adventures, peak experiences, ridiculous moments, beautiful moments, times when I was brave, times when I was useful, times when I was simply happy.
+I certainly didn’t know that ten years later I would still be practicing it, deliberately recalling a wonderful memory every morning--memories not only of Jim, but of my whole life: people I have loved, things I have accomplished, adventures, peak experiences, ridiculous moments, beautiful moments, times when I was brave, times when I was useful, times when I was simply happy.
 
 Back then, I only knew that I was suffering and that sometimes I could change what was happening inside me by asking one small question.
 

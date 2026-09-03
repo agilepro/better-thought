@@ -130,7 +130,7 @@ What do I actually know?
 
 What am I assuming?
 
-Is this happening—or am I imagining that it might happen?
+Is this happening--or am I imagining that it might happen?
 
 How likely is it?
 
@@ -168,7 +168,7 @@ Instead of changing the music, I turned the volume up enormously.
 
 The sound was terrific.
 
-And suddenly—
+And suddenly--
 
 **the thought was gone.**
 
@@ -308,7 +308,7 @@ I've discovered that I can ask myself several questions from Byron Kady when my 
 
 **Is it probable, or merely possible?**
 
-**Am I solving something—or just going around again?**
+**Am I solving something--or just going around again?**
 
 **Is there anything I can actually do about this right now?**
 
@@ -332,7 +332,7 @@ That can be a very good thought.
 
 I once came across an image from Marc and Angel that stayed with me.
 
-Imagine that an enormous, magnificent work of art is hanging in front of you—beautiful colors, wonderful textures, extraordinary detail.
+Imagine that an enormous, magnificent work of art is hanging in front of you--beautiful colors, wonderful textures, extraordinary detail.
 
 And then a little dark fly lands on it.
 

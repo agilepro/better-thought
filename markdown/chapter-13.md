@@ -3,7 +3,7 @@
 
 ## Turning to God First
 
-I think that spirituality—my relationship with God—may be one of the most important “better thoughts” of all.
+I think that spirituality--my relationship with God--may be one of the most important “better thoughts” of all.
 
 One of my best thoughts is simply this:
 
@@ -18,7 +18,7 @@ I started out fairly devout. I went to Sunday school as a child, and I took fait
 
 
 {i: Marriage Enrichment}
-Instead, my gifts turned out to be in teaching, counseling, and helping people communicate—through parent effectiveness training, transactional analysis, couple communication, marriage enrichment, and happiness work. That was where I could truly be useful.
+Instead, my gifts turned out to be in teaching, counseling, and helping people communicate--through parent effectiveness training, transactional analysis, couple communication, marriage enrichment, and happiness work. That was where I could truly be useful.
 
 Then, when our son Jeff died, everything changed.
 
@@ -32,7 +32,7 @@ I believe in love and goodness.
 
 But I find that I can’t really pray to “love and goodness” alone. Since I see Jesus and God as the living spirit of love and goodness, that is where I direct my prayers.
 
-Today, I want a relationship with God that is sincere and alive—more than formal religion. I want faith without pressure, without pretending, without fear.
+Today, I want a relationship with God that is sincere and alive--more than formal religion. I want faith without pressure, without pretending, without fear.
 
 Just honesty.
 
@@ -40,7 +40,7 @@ Just honesty.
 
 As I’ve wondered about spirituality, I’ve talked with friends.
 
-Suzie told me that spirituality is communication with God—contemplating, pondering, and thinking about Jesus. She wants to live with gratitude and humility for everything we’ve been given: friends, family, guidance, and meaningful work.
+Suzie told me that spirituality is communication with God--contemplating, pondering, and thinking about Jesus. She wants to live with gratitude and humility for everything we’ve been given: friends, family, guidance, and meaningful work.
 
 Rick says our spiritual lives *are* our lives. He often says,  
 “I need to talk to Jesus each day, all day.”
@@ -77,11 +77,11 @@ I think the soul is like that.
 
 It is everywhere you are.
 
-When you laugh—it’s there.  
-When you pray—it’s there.  
-When you cry—it’s there.  
-When you listen—it’s there.  
-When you forgive—it’s there.
+When you laugh--it’s there.  
+When you pray--it’s there.  
+When you cry--it’s there.  
+When you listen--it’s there.  
+When you forgive--it’s there.
 
 The soul isn’t stored.
 
@@ -125,7 +125,7 @@ Before worry.
 Before distraction.  
 Before fear.
 
-When I remember to pray—even simply—I feel steadier and kinder. I remember what matters. I remember who I am.
+When I remember to pray--even simply--I feel steadier and kinder. I remember what matters. I remember who I am.
 
 My better thought is:
 
@@ -135,7 +135,7 @@ My better thought is:
 
 That is enough to guide me.
 
-## Drifting Off Course — and Finding My Way Back
+## Drifting Off Course -- and Finding My Way Back
 
 In my spiritual life, I often feel clear and grounded. I feel close to God. I feel guided by love and goodness. I feel as if I know what matters and how I want to live.
 
@@ -245,7 +245,7 @@ The quiet pulse of Being underneath everything.
 
 What if the sacred is not “out there” but woven through every person, every tree, every sorrow, every joy?
 
-And still — greater than all of it.
+And still -- greater than all of it.
 
 Like the ocean is in every wave,  
 but the ocean is more than any one wave.
@@ -265,7 +265,7 @@ No moment is empty.
 No person is without depth.
 
 We are living inside a mystery that holds us.  
-And that mystery is not distant —  
+And that mystery is not distant --  
 it is breathing us.
 
 **Where do I see God’s presence now?**

@@ -12,7 +12,7 @@ I mean a **state of being** that holds everything I care about most.
 
 When I am being happy, I am content.  
 I am loving and caring.  
-I feel a sense of enough — I am giving enough and receiving enough.  
+I feel a sense of enough -- I am giving enough and receiving enough.  
 I savor my life instead of rushing through it.  
 I am present.  
 I am peaceful.  
@@ -26,7 +26,7 @@ And I remember that I am human.
 This is what happiness feels like in my body and in my mind.  
 It is the climate of my life.
 
-## Being Happy Is Not What I Do — It’s How I Am
+## Being Happy Is Not What I Do -- It’s How I Am
 
 What I have discovered is that happiness is not a task.  
 It is not something I *accomplish*.  
@@ -34,7 +34,7 @@ It is a way of **being**.
 
 When I am in this state of being, I am living from presence.  
 I am aware of this moment as it is.  
-I am experiencing life — and also observing it.  
+I am experiencing life -- and also observing it.  
 I have perspective.  
 I am inside the moment and gently standing beside myself at the same time.
 
@@ -79,7 +79,7 @@ What do I want?
 Do I need to let something go?  
 Do I need to do something?  
 Do I need to ask for help?  
-Do I need to be understood — or help someone else feel understood?
+Do I need to be understood -- or help someone else feel understood?
 
 Sometimes I return to happiness by resting.  
 Sometimes by crying.  
@@ -147,7 +147,7 @@ I choose happiness as my home base.
 I choose being over proving.  
 I choose presence over pressure.  
 I choose gentleness over harshness.  
-I choose to keep returning — again and again — to the beautiful state of **being happy**.
+I choose to keep returning -- again and again -- to the beautiful state of **being happy**.
 
 And when I forget, I forgive myself.  
 And I come back.

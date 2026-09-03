@@ -1,12 +1,12 @@
 # Friendship and Conversation
 
-Our connection with other people is one of the great sources of happiness and well-being in our lives, and close friendship can be one of its most beautiful forms. The thoughts we bring to a friendship help shape the connection we create together. This chapter is simply my way of thinking about what makes a close friendship meaningful, joyful, and reciprocal—and an invitation for you to consider what you most value in your own friendship
+Our connection with other people is one of the great sources of happiness and well-being in our lives, and close friendship can be one of its most beautiful forms. The thoughts we bring to a friendship help shape the connection we create together. This chapter is simply my way of thinking about what makes a close friendship meaningful, joyful, and reciprocal--and an invitation for you to consider what you most value in your own friendship
 
 ## My Ideal Conversation
 
 If my friend and I have the time and energy for a one- or two-hour conversation, there is almost nothing finer.
 
-We begin with the joys and woes of our lives and then, without effort, drift into the deeper questions of living—meaning, choice, relationships, hopes, worries.
+We begin with the joys and woes of our lives and then, without effort, drift into the deeper questions of living--meaning, choice, relationships, hopes, worries.
 
 *(It rarely requires an agenda.)*
 
@@ -16,7 +16,7 @@ They are a form of nourishment.
 
 And they can happen again and again.
 
-There are many kinds of meaningful connection in life—brief smiles, kind words, shared errands, the comfort of small talk—and I treasure those too, especially on busy days when life is full of chores and calendar obligations.
+There are many kinds of meaningful connection in life--brief smiles, kind words, shared errands, the comfort of small talk--and I treasure those too, especially on busy days when life is full of chores and calendar obligations.
 
 But when there is space, when time is protected…
 
@@ -32,7 +32,7 @@ Friendship doesn’t flourish by accident.
 
 It flourishes because two people choose it.
 
-Occasionally we are blessed with something magical—like three unplanned hours on an airplane with a kindred spirit.
+Occasionally we are blessed with something magical--like three unplanned hours on an airplane with a kindred spirit.
 
 A slice of heaven.
 
@@ -54,7 +54,7 @@ Sometimes one of us even arrives with a topic we want to explore:
 
 Learning about ourselves together makes life feel meaningful.
 
-When we finally meet—for lunch, a walk, a call, a long letter—I cherish the time.
+When we finally meet--for lunch, a walk, a call, a long letter--I cherish the time.
 
 It feels like true connection.
 
@@ -80,7 +80,7 @@ What are you thinking about these days?
 
 What fills your hours?
 
-Without pushing, without prying, I’d love to hear your small victories and your unfinished tasks—
+Without pushing, without prying, I’d love to hear your small victories and your unfinished tasks--
 
 whether you paid the bills, painted the bookcase, worried about the doctor’s report, or your child’s struggles.
 
@@ -119,7 +119,7 @@ And I keep noticing this:
 
 **Disagreement often disables dialogue.**
 
-Even small things—advice, correction, criticism, teasing, opposing views, arguments—can quietly shut the door on connection.
+Even small things--advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.
 
 I prefer the gentle wisdom of improvisation:
 
@@ -168,8 +168,7 @@ joys magnify,
 and every day  
 feels happier.
 
-When I die, I would like to know that my friends realize how important they are to me—
+When I die, I would like to know that my friends realize how important they are to me--
 
 and how much I love them.
 
-——————————————————————————

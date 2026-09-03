@@ -47,7 +47,7 @@ Try asking:
 These questions do not inflate us.  
 They steady us.
 
-They remind us that we are not fragile accidents — we are people with evidence of strength.
+They remind us that we are not fragile accidents -- we are people with evidence of strength.
 
 ## Questions About Love
 
@@ -147,5 +147,4 @@ And if we ask gently enough, honestly enough, patiently enough, our minds often 
 
 Perhaps that is one of the best better thoughts of all:
 
-*There is more goodness in me than I remember —*  
-*and the right question can help me find it.*
+*There is more goodness in me than I remember -- and the right question can help me find it.*
