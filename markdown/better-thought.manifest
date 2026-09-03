@@ -4,7 +4,7 @@
 # reorder the book; delete a line to leave that file out.
 
 title:    "A Better Thought"
-subtitle: ""
+subtitle: "Finding Tranquility and Joy One Thought at a Time"
 author:   "Bea Strickland"
 date:     "2026"
 
@@ -16,13 +16,11 @@ output:
 
 document:
   class:       book        # book | report | article
-  fontSize:    11pt
-  paperSize:   a4paper
-  geometry:    margin=1in
   toc:         true
   tocDepth:    2
   numberDepth: 2
-  twoSide:     false
+
+dialect: markua
 
 # How fenced code blocks are rendered: listings | minted | verbatim
 code: listings
@@ -36,9 +34,10 @@ code: listings
 # overrides the H1. A mapping with 'part' inserts a part divider
 # and reads no file. A file outside this folder is fine too, e.g.
 #   - ../shared/preface.md
-chapters:
+frontMatter:
   - "front-matter.md"   # What’s a Better Thought?
   - "introduction.md"   # Introduction
+chapters:
   - "chapter-01.md"   # Chapter One
   - "chapter-02.md"   # Chapter 2
   - "chapter-03.md"   # Chapter 3: Better Thoughts in the Morning
@@ -53,5 +52,6 @@ chapters:
   - "chapter-12.md"   # Chapter 12:  Love is the Best Thought of All
   - "chapter-13.md"   # Chapter 13: SPIRITUALITY
   - "chapter-14.md"   # Last Chapter: Better Thoughts Begin with Better Questions
+appendices:
   - "appendix-1.md"   # APPENDIX 1
   - "appendix-2.md"   # APPENDIX 2: A Better Thought

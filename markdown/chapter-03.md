@@ -231,6 +231,7 @@ Sometimes a better thought is extremely practical.
 
 I have spent much of my life thinking about communication.
 
+{i: Marriage Enrichment}{i: Parent Effectiveness Training}
 I taught Parent Effectiveness Training. Jim and I spent decades in Marriage Enrichment. I learned about active listening and how much it matters to have another person really hear what we're feeling.
 
 Eventually I realized:
@@ -287,7 +288,7 @@ Eventually I do get up.
 
 And I have discovered that it helps enormously to have some things waiting for me that I actually like.
 
-I think of these as my morning **Delights**. A better name than Chores.
+I think of these as my morning **Delights**. A better name than Chores.{i: morning delights}
 
 Prayer.
 
@@ -323,7 +324,7 @@ Sometimes the better thought is:
 
 That's manageable.
 
-## Give Yourself Something to Look Forward To
+## Give Yourself Something to Look Forward To{i: look forward}
 
 I've also discovered that tomorrow morning can sometimes be helped tonight.
 
@@ -413,7 +414,7 @@ I try to **visit it**.
 
 For a little while, I let my mind live there.
 
-## What Deserves My Attention?
+## What Deserves My Attention?{i: deserving attention}
 
 There is a difference between ignoring a problem and deciding how much attention it deserves.
 
@@ -429,7 +430,7 @@ I can tell myself:
 
 Or:
 
-**There is nothing I can do about that right now.**
+**There is nothing I can do about that right now.**{i: nothing I can do}
 
 Or:
 

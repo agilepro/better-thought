@@ -1,7 +1,5 @@
 
-# APPENDIX 1
-
-EXAMPLES OF THOUGHT CHANGES collated by ChatGPT
+# Examples collated by ChatGPT
 
 ## 1\. The Tire Incident (June 2\)
 

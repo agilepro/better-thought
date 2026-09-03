@@ -1,8 +1,9 @@
 ---
-indexTerms: Action, Action Through Choices, Adjacent Brain, Aging, Anger. Anxiety, Appreciation, Awareness, Being, Better Beliefs, Better Questions, Better Thoughts, Body Scan, Brain Drain, Calm Mind Card, Catastrophizing, Change, “Change” as a Cue, Choice, Choosing Again, Compensate, Congratulate, Control, Conversation, Create, Daily Practices, Depression, Doing, Doing and Being, Energy, Energy Dollars, Fear, Five C’s of Choice, Forgiveness, Friendship, Gratitude, Grief, Growth, Happiness, Hope, Humor, “I Am Safe at a Slower Speed”, “I Don’t Have to Worry in Order to Care”, Inner Peace, Jim, Strickland, Joy, Kindness, Kindness to Oneself, Letting Go, Listening, Love, Love as a Better Thought, “Love Has a Longer Memory Than Guilt”, Manifesto of Being Happy, Memories, Memory Library, Morning, Thoughts, Negativity Bias, “Not a Perfect Thought—Just a Better One”, One Thought at a Time, Parent–Adult–Child, Pause and Notice, Pause Box, Peace, Prayer, Present Moment, Reframing, Relationships, Repair, Rest, “Rest Is Enough”, Rumination, Safety Tilt, Self-Acceptance, Self-Compassion, Self-Criticism, Self-Esteem, Slow Time, Spirituality, Stuck Thoughts, Survival, Thinking, Three Principles, Thought Patterns, Thought Train, Thoughts, Thoughts Are Not Facts, Thoughts Are Not Permanent, Tranquility, “What’s a Better Thought?”, “What Would You Rather Be, Thinking?”, Worry, Worry as Caring, Worry Loops, Writing Things Down
+
 ---
 # What’s a Better Thought?
 
+{i: Marriage Enrichment}
 It happened in the middle of a Marriage Enrichment retreat.
 
 There were about twenty couples there, divided into small groups of five couples each. Jim and I had been involved in Marriage Enrichment for forty years. We had taught it, led it, believed in it, and—most importantly—practiced it ourselves.
@@ -21,6 +22,7 @@ But otherwise, we had built something extraordinary together.
 
 And now I was beginning to be afraid I was going to lose him.
 
+{i: Last Christmas}
 ## What If This Is Our Last Christmas?
 
 It had begun in November 2015\.
@@ -285,7 +287,7 @@ But I looked anyway.
 
 A couple of days after Jim died, I went swimming in our pool. The Polaris pool cleaner had gotten stuck because something had wrapped around one of its wheels, and I was trying to untangle it.
 
-A bee appeared.
+A bee appeared.{i: bee}
 
 It hovered around me and around the machine.
 
@@ -337,7 +339,7 @@ They were very sweet to me, and we actually had a lovely evening.
 
 At one point we were talking about hope.
 
-My friend Linda suddenly said, “And the best is yet to be.”
+My friend Linda suddenly said, “And the best is yet to be.”{i: Linda}
 
 I think perhaps she surprised herself.
 

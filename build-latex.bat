@@ -1,1 +1,1 @@
-cd latex && xelatex better-thought.tex
+cd latex && xelatex better-thought.tex && makeindex better-thought && xelatex better-thought.tex

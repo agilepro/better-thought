@@ -16,6 +16,8 @@ Like many people, I have blown hot and cold in my spiritual life.
 
 I started out fairly devout. I went to Sunday school as a child, and I took faith seriously. One Sunday, a missionary who worked in Africa spoke at our church. I came home convinced that I should go to Africa and help people. It took me years to let go of the guilt I felt when I realized that was not my calling.
 
+
+{i: Marriage Enrichment}
 Instead, my gifts turned out to be in teaching, counseling, and helping people communicate—through parent effectiveness training, transactional analysis, couple communication, marriage enrichment, and happiness work. That was where I could truly be useful.
 
 Then, when our son Jeff died, everything changed.

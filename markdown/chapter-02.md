@@ -31,6 +31,7 @@ Unfortunately, thinking about it for the 47th time doesn't necessarily accomplis
 
 But my mind can be very persistent.
 
+{i: rumination}
 There is a word for some of this: **rumination**.
 
 Researchers sometimes use the broader term **repetitive negative thinking** for negative thoughts that are intrusive, repetitive, and difficult to disengage from.
@@ -53,7 +54,7 @@ And sometimes, when I finally get far enough away from it, I wonder:
 
 The difficulty is that while I am inside the thought, it can feel completely reasonable.
 
-## I Was Going to Be Kidnapped
+## I Was Going to Be Kidnapped{i:kidnapped}
 
 At one point in my life I became frightened that I might be kidnapped.
 
@@ -195,7 +196,7 @@ Apparently my attention was not as permanently attached to that thought as it ha
 
 It could move.
 
-## Can a Brain Get Into a Rut?
+## Can a Brain Get Into a Rut?{i: "in a rut"}
 
 This makes me think of a wagon wheel traveling over the same dirt road again and again.
 
@@ -225,7 +226,7 @@ And recently I learned about something that made me think about my stuck thought
 
 ## A Magnetic Nudge to the Brain
 
-It is called **transcranial magnetic stimulation**, or **TMS**.
+It is called **transcranial magnetic stimulation**, or **TMS**.{i: transcranial magnetic stimulation}
 
 TMS is a genuine medical treatment, not a metaphor. A clinician places an electromagnetic coil against the head and delivers carefully controlled magnetic pulses. Those pulses induce small electrical currents that stimulate neurons and neural circuits in targeted areas of the brain.
 
@@ -299,7 +300,7 @@ I'm trying to learn to notice the difference.
 
 ## Is This Thought Helping Me?
 
-I've discovered that I can ask myself several questions from Byron Kady when my mind gets stuck:
+I've discovered that I can ask myself several questions from Byron Kady when my mind gets stuck:{i:Byron Kady}
 
 **Is this thought true?**
 
