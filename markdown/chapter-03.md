@@ -1,5 +1,5 @@
 
-# Chapter 3: Better Thoughts in the Morning
+# BETTER THOUGHTS IN THE MORNING
 
 I don't wake up happy.
 
