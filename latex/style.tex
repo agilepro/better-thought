@@ -1,0 +1,106 @@
+\documentclass[paper=5.5in:8.5in,11pt,pagesize=pdftex,openright,headings=twolinechapter,chapterprefix=true]{scrbook}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{makeidx}
+\usepackage{fontspec}
+%\usepackage{needspace}
+\usepackage{longtable}
+
+\setmainfont[Ligatures={Common,TeX}, Numbers={OldStyle}]{Palatino Linotype}
+%\KOMAoptions{DIV=last}   % goofy KOMA requirement whenever you change leading
+\addtokomafont{footnote}{\footnotesize\fontspec[Ligatures=TeX]{Alegreya Sans}}
+\deffootnote{1.5em}{1em}{% modified example from page 83
+  \makebox[1.5em][l]{\textsuperscript{\thefootnotemark}}}
+
+
+\makeindex
+
+%page is 5.25 x 8.  With these margins the printed area
+%is 4 inches by 6.5 inches.
+%at page is 5.5 x 8.5  With these margins the printed area
+%is 4.25 inches by 7 inches.
+\usepackage[inner=0.75in,outer=0.50in,top=0.75in, bottom=0.75in, footnotesep=.4in, footskip=.4in]{geometry}
+
+\renewcommand*\chapterheadstartvskip{\vspace*{.1\textheight}}
+\renewcommand*\chapterheadendvskip{\vspace*{.1\textheight}}
+
+\addtokomafont{chapter}{\fontspec[Ligatures=TeX]{Alegreya Sans SC Light}}
+\addtokomafont{chapterprefix}{\fontspec[Ligatures=TeX]{Alegreya Sans SC Light}\Huge}
+
+\addtokomafont{chapterprefix}{\raggedleft}
+\renewcommand*{\chapterformat}{%
+   \mbox{\scalebox{1}{\chapappifchapterprefix{\nobreakspace}}%
+   \scalebox{4}{\color{gray}\thechapter}\enskip}}
+
+% eliminate the paragraph indent
+\setlength{\parindent}{0pt}
+
+% add some space between paragraphs
+\setlength{\parskip}{0.5\baselineskip plus 2pt minus 1pt}
+
+%Page size settings
+\pdfpagewidth=\paperwidth
+\pdfpageheight=\paperheight
+
+
+\hyphenation{}
+
+\addtokomafont{section}{\centering}
+\addtokomafont{subsection}{\itshape\centering}
+\setcounter{secnumdepth}{0}
+
+\setlength{\emergencystretch}{15pt}
+
+\newenvironment{glossarylist}%
+   {\begin{list}{}{\setlength\labelwidth{0pt}%
+                   \setlength\itemindent{-\leftmargin}%
+                   \let\makelabel\descriptionlabel}}%
+   {\end{list}}
+
+
+   
+\newenvironment{centerTable}[1][Examples]%
+   {\begin{longtable}{| p{2.5in} |} \hline \rowcolor{lightgray} \emph{#1} \\ \hline }%
+   {\end{longtable}}
+
+\newcommand{\centerLine}[1]{ #1 \\ \hline }
+   
+   
+%this allows graphics from one folder to be included in one style
+%but when building hypertext it includes a different set of graphics from 
+%a different folder
+\newcommand{\portgraphics}[2]{\includegraphics[width=#1in]{images-bw/#2}}
+
+   
+%this macro creates the paragraphs with a bold title at the beginning
+%a little extra space before, and no indent.  This should be used only
+%at the beginning of a paragraph, and the paramter is the paragraph title.
+%Do not put punctuation after the title.  The following sentence should
+%start with a capital letter.
+\newcommand{\paratitle}[1]{\vspace{3mm}\noindent\textbf{#1.}\hspace{2mm}}
+
+%control whether extra vertical space is distributed between paragraphs
+%either raggedbottom or flushbottom
+\raggedbottom
+
+%this attempts to remove the extra vertical space from bullet lists
+\usepackage{enumitem}
+\setlist[1]{noitemsep}
+
+
+\newcommand{\fullPageCollage}[1]{\begin{figure}[t]\includegraphics[width=3.75in]{images/#1}\label{#1}\end{figure}}
+
+\usepackage{tcolorbox}
+\newtcolorbox{boxedQuote}{colback=gray!30,boxrule=0pt,arc=0pt,boxsep=2pt,left=2pt,right=2pt,leftrule=1pt}
+
+%must use WITHOUT gap to next paragraph so that the noindent works.
+\newcommand{\setOffPara}[0]{%
+    \begin{center}%
+    \line(1,0){50}%
+    \end{center}%
+    \noindent}
+
+
