@@ -7,7 +7,7 @@ This is one of my favorites because the change happened so quickly.
 
 **The first thought:**
 
-"I don't want to go. I'm afraid I'll get too tired. It will spoil the day."
+"I don't want to go to the Tire Store. I'm afraid I'll get too tired. It will spoil the day."
 
 You were anticipating exhaustion and imagining the whole day going downhill.
 
