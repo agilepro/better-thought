@@ -15,7 +15,7 @@ This is one of my favorites because the change happened so quickly.
 You were anticipating exhaustion and imagining the whole day going downhill.
 
 **The better thought:**  
-You realized it was really only about an hour, and if you took care of the tire now, you would have the rest of the day free to enjoy lunch with Rick, flowers, and perhaps a nap. You also decided to "walk like an 88-year-old lady" and not expect yourself to move at the speed of someone much younger.
+You realized it was really only about an hour, and if you took care of the tire now, you would have the rest of the day free to enjoy lunch with Rick, the botanical garden, and a nap. You also decided to "walk like an 88-year-old lady" and not expect yourself to move at the speed of someone much younger.
 
 The emotional shift was dramatic. You left feeling calm and confident. Later you told me:
 
