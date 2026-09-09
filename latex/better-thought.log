@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  3 SEP 2026 13:03
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  9 SEP 2026 08:10
 entering extended mode
 **./better-thought.tex
 (better-thought.tex
@@ -1288,7 +1288,7 @@ Underfull \hbox (badness 1527) in paragraph at lines 104--105
 Here is how much of TeX's memory you used:
  26567 strings out of 427243
  574521 string characters out of 3141512
- 772835 words of memory out of 3000000
+ 772834 words of memory out of 3000000
  30721 multiletter control sequences out of 15000+200000
  536302 words of font info for 75 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
