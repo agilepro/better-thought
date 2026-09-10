@@ -26,7 +26,7 @@ And I remember that I am human.
 This is what happiness feels like in my body and in my mind.  
 It is the climate of my life.
 
-## Being Happy Is Not What I Do--It’s How I Am{i: happiness}
+## Happy Is What I Am Not What I Do{i: happiness}
 
 What I have discovered is that happiness is not a task.  
 It is not something I *accomplish*.  

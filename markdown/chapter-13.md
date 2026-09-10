@@ -1,7 +1,7 @@
 
-# Spirituality 
+# Spirituality{i: spirituality}
 
-## Turning to God First
+## Turning to God First{i: god first}
 
 I think that spirituality--my relationship with God--may be one of the most important “better thoughts” of all.
 
@@ -24,7 +24,7 @@ I became very angry at God. I could still talk to Jesus, but I was filled with p
 
 It wasn’t until Rick became my sweetheart that I slowly turned back toward God and Jesus.
 
-Now I pray, and I believe in prayer. And yet, I still waver sometimes. What feels most solid to me is this: I believe that love is the greatest force in the world, and that goodness is the highest prize to seek.
+Now I pray, and I believe in prayer. And yet, I still waver sometimes. What feels most solid to me is this: I believe that love is the greatest force in the world, and that goodness is the highest prize to seek.{i: prayer}
 
 I believe in love and goodness.
 
@@ -279,7 +279,7 @@ I also believe they are everywhere.
 
 But there is a problem.
 
-My mind can easily fall into worry. I start planning and thinking about what might go wrong. There is a time for planning, of course. Planning can be wise. But sometimes planning turns into endless speculation, and speculation slowly turns into worry.
+My mind can easily fall into worry.{i: worry} I start planning and thinking about what might go wrong. There is a time for planning, of course. Planning can be wise. But sometimes planning turns into endless speculation, and speculation slowly turns into worry.
 
 When I notice that happening, I remember something that helps me break the spell.
 

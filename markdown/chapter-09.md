@@ -23,7 +23,7 @@ When I learned this, a lot of things suddenly made sense.
 
 *(Including some of my more confusing moments.)*
 
-## The Parent{i: parent}
+## The Parent{i: parent, inner}{i: inner!parent}
 
 The Parent has two main sides.
 
@@ -45,7 +45,7 @@ But when the Critical Parent inside us runs the show…
 
 **Better Thoughts tend to disappear rather quickly.**
 
-## The Child{i: child}
+## The Child{i: child, inner}{i: inner!child}
 
 The Child is the emotional part of us.
 
@@ -66,7 +66,7 @@ When the Child is in charge and scared, our thinking often becomes small, tight,
 
 *(Everything suddenly feels like a very big deal.)*
 
-## The Adult{i: adult}
+## The Adult{i: adult, inner}{i: inner!adult}
 
 The Adult is the steady, present, thoughtful part of us.
 
@@ -125,7 +125,7 @@ These are simple cues that bring me back into the here and now--into the Adult.
 
 From that place, my thinking clears.
 
-## The Adult’s Three Helpful Questions
+## The Adult’s Three Helpful Questions{i: three helpful questions}
 
 When I feel anxious or uncertain, my Adult asks:
 
@@ -271,7 +271,7 @@ Not perfect.
 
 But peacefully, steadily well.
 
-## Examples of Meeting My Own Needs
+## Examples of Meeting My Own Needs{i: meeting my own needs}
 
 When I lie down for a nap instead of pushing through → I am caring for my Child.
 
@@ -299,4 +299,3 @@ But I’ve discovered something about myself:
 
 *(That seems like a reasonable preference.)*
 
-*------------------------------------------*

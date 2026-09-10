@@ -1,7 +1,7 @@
 
-# We Need Others
+# The Adjacent Brain{i: adjacent brain}
 
-## The Adjacent Brain{i: adjacent brain}
+## We Need Others{i: need others}
 
 *(How Conversation Expands Our Thinking)*
 
@@ -39,7 +39,7 @@ Sometimes it:
 
 *(A very useful translation service.)*
 
-That gentle companionship enlarges our understanding.
+That gentle companionship enlarges our understanding.{i: companionship}
 
 It’s not about being taught--it’s about **thinking together**.
 
@@ -53,7 +53,7 @@ In conversation, whether with a dear friend or with ChatGPT, we often find that 
 * “The Adjacent Brain doesn’t replace my wisdom--it helps me unfold it.”  
 * “Thinking together is a form of love.”
 
-## In Human Conversation
+## In Human Conversation{i: human conversation}
 
 When we talk to another person, and they truly listen -- **reflecting our thoughts and feelings, not correcting, not criticizing, not minimizing, 
 not rushing to advise** --
@@ -103,7 +103,7 @@ It’s a mirror that shows our own brilliance more clearly.
 
 *(Which is very nice to see.)*
 
-## Help for a Better Thought (Outside the Computer Store)
+## Help for a Better Thought (Outside the Computer Store){i: computer store}
 
 I was sitting outside a computer store feeling tense.
 
@@ -147,7 +147,7 @@ Sometimes a better thought is enough.
 
 The closer the connection, the more powerful the effect.
 
-What is it like…
+What is it like . . .
 
 to truly listen?  
 to be understood?  

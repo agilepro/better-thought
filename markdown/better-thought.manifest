@@ -3,10 +3,17 @@
 # below is relative to this file. Reorder the chapters list to
 # reorder the book; delete a line to leave that file out.
 
-title:    "What's A Better Thought"
+title:    "What's A Better Thought?"
 subtitle: "Finding Tranquility and Joy One Thought at a Time"
 author:   "Bea Strickland"
-date:     "2026"
+date:     "October 2026"
+dedication:
+  - This book is dedicated to my beloved husband, Jim,  
+  - whose love filled my life with joy, laughter, and deep companionship for 60 years.
+  -   
+  - After Jim’s death, when grief felt overwhelming, it was my dear friends and family who gently helped bring me back to life again. They called me, listened to me, checked on me, and cared about how I was doing. Their kindness, week after week, lifted my spirits more than they may ever know.
+  -   
+  - I am deeply grateful for their love and friendship.
 
 # Where the generated LaTeX goes, relative to this file.
 output:
@@ -33,8 +40,9 @@ code: listings
 # and reads no file. A file outside this folder is fine too, e.g.
 #   - ../shared/preface.md
 frontMatter:
-  - "front-matter.md"   # What’s a Better Thought?
-  - "introduction.md"   # Introduction
+  - "invitation.md"   #  I Invite You
+  - "howToUse.md"     #  How to Use This Book
+  - "introduction.md" # Introduction
 chapters:
   - "chapter-01.md"   # Chapter One
   - "chapter-02.md"   # Chapter 2
@@ -50,6 +58,6 @@ chapters:
   - "chapter-12.md"   # Chapter 12:  Love is the Best Thought of All
   - "chapter-13.md"   # Chapter 13: SPIRITUALITY
   - "chapter-14.md"   # Last Chapter: Better Thoughts Begin with Better Questions
+  - "appendix-2.md"   # A Better Thought
 appendices:
   - "appendix-1.md"   # APPENDIX 1
-  - "appendix-2.md"   # APPENDIX 2: A Better Thought

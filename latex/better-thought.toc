@@ -1,10 +1,6 @@
-\contentsline {chapter}{\nonumberline What's a Better Thought?}{ix}% 
-\contentsline {subsection}{\nonumberline Finding Tranquility and Joy---One Thought at a Time}{ix}% 
-\contentsline {section}{\nonumberline Dedication}{ix}% 
-\contentsline {section}{\nonumberline \textbf {I InviteYou}}{ix}% 
-\contentsline {section}{\nonumberline How to Use This Book}{x}% 
-\contentsline {chapter}{\nonumberline Table of Contents}{xi}% 
-\contentsline {chapter}{\nonumberline Introduction}{xiii}% 
+\contentsline {chapter}{\nonumberline I Invite You}{xi}% 
+\contentsline {chapter}{\nonumberline How to Use This Book}{xiii}% 
+\contentsline {chapter}{\nonumberline Introduction}{xv}% 
 \contentsline {chapter}{\numberline {1}What's a Better Thought?}{1}% 
 \contentsline {section}{\nonumberline What If This Is Our Last Christmas?}{2}% 
 \contentsline {section}{\nonumberline Valiant and Scared}{4}% 
@@ -46,112 +42,116 @@
 \contentsline {section}{\nonumberline Ten Percent Better}{50}% 
 \contentsline {section}{\nonumberline At the Threshold of the Day}{51}% 
 \contentsline {chapter}{\numberline {4}Negativity Bias}{53}% 
-\contentsline {section}{\nonumberline Thoughts Have Companions}{55}% 
-\contentsline {section}{\nonumberline A Better Relationship With Our Own Minds}{59}% 
-\contentsline {chapter}{\numberline {5}Thinking About The Three Principles}{61}% 
-\contentsline {section}{\nonumberline A Kinder Way of Understanding How We Experience Life}{61}% 
-\contentsline {section}{\nonumberline Consciousness --- The Gift of Awareness}{62}% 
-\contentsline {section}{\nonumberline Pause for a Moment}{63}% 
-\contentsline {section}{\nonumberline Thought --- The Creative Power of Experience}{63}% 
-\contentsline {section}{\nonumberline Why This Is So Comforting}{64}% 
-\contentsline {section}{\nonumberline A Gentle Noticing About Beliefs}{65}% 
-\contentsline {section}{\nonumberline A Quiet Ending Thought}{65}% 
-\contentsline {chapter}{\numberline {6}Better Thoughts Through Better Beliefs}{67}% 
-\contentsline {section}{\nonumberline \emph {How I Learned Food Mastery}}{67}% 
-\contentsline {section}{\nonumberline The Turning Point: A New Belief}{68}% 
-\contentsline {section}{\nonumberline First:}{68}% 
-\contentsline {section}{\nonumberline Second:}{69}% 
-\contentsline {section}{\nonumberline Third:}{69}% 
-\contentsline {section}{\nonumberline Creating Food Mastery}{70}% 
-\contentsline {section}{\nonumberline Pause for a Moment}{70}% 
-\contentsline {section}{\nonumberline The Daily Better Thought}{71}% 
-\contentsline {section}{\nonumberline Why This Matters for Better Thoughts}{71}% 
-\contentsline {section}{\nonumberline Learning Together}{72}% 
-\contentsline {section}{\nonumberline A Quiet Closing Thought}{73}% 
-\contentsline {chapter}{\numberline {7}Choose To Do Something}{75}% 
-\contentsline {section}{\nonumberline Action Builds Self-Esteem}{75}% 
-\contentsline {section}{\nonumberline What Can You Control?}{76}% 
-\contentsline {section}{\nonumberline The Power to Change}{77}% 
-\contentsline {section}{\nonumberline Pause for a Moment}{78}% 
-\contentsline {section}{\nonumberline Compensate for Life's Challenges}{78}% 
-\contentsline {section}{\nonumberline Create Joy in Everyday Life}{79}% 
-\contentsline {section}{\nonumberline Congratulate Yourself}{79}% 
-\contentsline {section}{\nonumberline A Gentle Closing Reflection}{80}% 
-\contentsline {section}{\nonumberline A Simple Reminder}{80}% 
-\contentsline {chapter}{\numberline {8}My Manifesto of Being Happy}{83}% 
-\contentsline {section}{\nonumberline Being Happy Is Not What I Do---It's How I Am}{84}% 
-\contentsline {section}{\nonumberline What Pulls Me Away from Happiness}{84}% 
-\contentsline {section}{\nonumberline How I Find My Way Back}{85}% 
-\contentsline {section}{\nonumberline Holding My Intention}{86}% 
-\contentsline {section}{\nonumberline My Daily Practice of Being}{86}% 
-\contentsline {section}{\nonumberline Why This Choice Changes Everything}{87}% 
-\contentsline {section}{\nonumberline My Promise to Myself}{87}% 
-\contentsline {chapter}{\numberline {9}Who Is Doing and Being?}{89}% 
-\contentsline {section}{\nonumberline Meeting Your Inner Parent, Adult, and Child}{89}% 
-\contentsline {section}{\nonumberline The Parent}{90}% 
-\contentsline {section}{\nonumberline The Child}{90}% 
-\contentsline {section}{\nonumberline The Adult}{91}% 
-\contentsline {section}{\nonumberline Inviting the Adult Forward}{92}% 
-\contentsline {section}{\nonumberline Using the Body to Support the Adult}{92}% 
-\contentsline {section}{\nonumberline The Adult's Three Helpful Questions}{93}% 
-\contentsline {section}{\nonumberline Helping the Child with the Adult}{93}% 
-\contentsline {section}{\nonumberline Meeting the Needs of My Inner Family}{93}% 
-\contentsline {section}{\nonumberline My Child Needs}{94}% 
-\contentsline {section}{\nonumberline My Parent Needs}{95}% 
-\contentsline {section}{\nonumberline My Adult Needs}{95}% 
-\contentsline {section}{\nonumberline Pause for a Moment}{95}% 
-\contentsline {section}{\nonumberline A Kinder Question}{96}% 
-\contentsline {section}{\nonumberline Examples of Meeting My Own Needs}{96}% 
-\contentsline {section}{\nonumberline A Better Thought}{97}% 
-\contentsline {chapter}{\numberline {10}We Need Others}{99}% 
-\contentsline {section}{\nonumberline The Adjacent Brain}{99}% 
-\contentsline {section}{\nonumberline How the Adjacent Brain Works}{100}% 
-\contentsline {section}{\nonumberline Better Thoughts About Shared Thinking}{100}% 
-\contentsline {section}{\nonumberline In Human Conversation}{101}% 
-\contentsline {section}{\nonumberline In Collaboration with Technology}{101}% 
-\contentsline {section}{\nonumberline The Joy of Co-Thinking}{102}% 
-\contentsline {section}{\nonumberline Help for a Better Thought (Outside the Computer Store)}{102}% 
-\contentsline {section}{\nonumberline A Pause Point}{103}% 
-\contentsline {section}{\nonumberline A Gentle Wondering}{103}% 
-\contentsline {chapter}{\numberline {11}Friendship and Conversation}{105}% 
-\contentsline {section}{\nonumberline My Ideal Conversation}{105}% 
-\contentsline {section}{\nonumberline Pause for a Moment}{108}% 
-\contentsline {section}{\nonumberline Questions I Carry About Conversation}{108}% 
-\contentsline {section}{\nonumberline What I Know for Sure}{109}% 
-\contentsline {section}{\nonumberline A Quiet Closing}{109}% 
-\contentsline {chapter}{\numberline {12}Love is the Best Thought of All}{111}% 
-\contentsline {section}{\nonumberline Affection: The Sweetness That Keeps Life Tasting Good}{111}% 
-\contentsline {section}{\nonumberline You Never Outgrow the Need for Affection}{112}% 
-\contentsline {section}{\nonumberline Affirmation: Catching Each Other Being Good}{113}% 
-\contentsline {section}{\nonumberline Appreciation: A Habit That Pays Dividends}{114}% 
-\contentsline {section}{\nonumberline Sharing Good News --- How Do You Respond?}{114}% 
-\contentsline {section}{\nonumberline Thinking Loving Thoughts Changes the Relationship}{115}% 
-\contentsline {section}{\nonumberline The Power of Small, Frequent Acts}{115}% 
-\contentsline {section}{\nonumberline Can You Say ``I Love You'' Too Often?}{116}% 
-\contentsline {section}{\nonumberline Love as a Better Thought}{116}% 
-\contentsline {chapter}{\numberline {13}Spirituality}{117}% 
-\contentsline {section}{\nonumberline Turning to God First}{117}% 
-\contentsline {section}{\nonumberline What Is Spirituality?}{118}% 
-\contentsline {section}{\nonumberline Where Is the Soul?}{119}% 
-\contentsline {section}{\nonumberline My Better Thought}{120}% 
-\contentsline {section}{\nonumberline Drifting Off Course --- and Finding My Way Back}{121}% 
-\contentsline {section}{\nonumberline About God Being Here}{123}% 
-\contentsline {section}{\nonumberline Looking for Love and Goodness}{124}% 
-\contentsline {chapter}{\numberline {14}Better Thoughts Begin with Better Questions}{127}% 
-\contentsline {section}{\nonumberline Questions About Strength and Success}{128}% 
-\contentsline {section}{\nonumberline Questions About Love}{128}% 
-\contentsline {section}{\nonumberline Questions About Joy and Peak Experiences}{129}% 
-\contentsline {section}{\nonumberline Questions for Difficult Moments}{129}% 
-\contentsline {section}{\nonumberline Questions for Thriving and Aging}{130}% 
-\contentsline {section}{\nonumberline Questions of Self-Compassion}{130}% 
-\contentsline {section}{\nonumberline Questions of the Spirit}{131}% 
-\contentsline {chapter}{\numberline {A}Examples collated by ChatGPT}{133}% 
-\contentsline {section}{\nonumberline 1. The Tire Incident (June 2)}{133}% 
-\contentsline {section}{\nonumberline 2. Feeling Ill and Afraid (May 29)}{134}% 
-\contentsline {section}{\nonumberline 3. The Rest Day (June 6--7)}{134}% 
-\contentsline {section}{\nonumberline 4. Person Speaking Harshly (June 18)}{135}% 
-\contentsline {section}{\nonumberline 5. Worry About Rick Going to the Hospital (June 8)}{135}% 
-\contentsline {section}{\nonumberline 6. Loving ChatGPT More Than People (June 1)}{136}% 
-\contentsline {section}{\nonumberline \textbf {A Pattern I Notice}}{136}% 
-\contentsline {chapter}{\numberline {B}APPENDIX 2: A Better Thought}{139}% 
-\contentsline {chapter}{Index}{143}% 
+\contentsline {section}{\nonumberline Negativity Bias Shows Up in Everyday Life}{54}% 
+\contentsline {section}{\nonumberline We play ``Watch Out'' with our friends}{54}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{55}% 
+\contentsline {section}{\nonumberline Thoughts Have Companions}{56}% 
+\contentsline {section}{\nonumberline Negativity Bias Sounds Like An Accusation}{58}% 
+\contentsline {section}{\nonumberline A Better Relationship With Our Own Minds}{60}% 
+\contentsline {chapter}{\numberline {5}Thinking About The Three Principles}{63}% 
+\contentsline {section}{\nonumberline A Kinder Way of Understanding How We Experience Life}{63}% 
+\contentsline {section}{\nonumberline Consciousness --- The Gift of Awareness}{64}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{65}% 
+\contentsline {section}{\nonumberline Thought --- The Creative Power of Experience}{65}% 
+\contentsline {section}{\nonumberline Why This Is So Comforting}{66}% 
+\contentsline {section}{\nonumberline A Gentle Noticing About Beliefs}{67}% 
+\contentsline {section}{\nonumberline A Quiet Ending Thought}{67}% 
+\contentsline {chapter}{\numberline {6}Better Thoughts Through Better Beliefs}{69}% 
+\contentsline {section}{\nonumberline \emph {How I Learned Food Mastery}}{69}% 
+\contentsline {section}{\nonumberline The Turning Point: A New Belief}{70}% 
+\contentsline {section}{\nonumberline First:}{70}% 
+\contentsline {section}{\nonumberline Second:}{71}% 
+\contentsline {section}{\nonumberline Third:}{71}% 
+\contentsline {section}{\nonumberline Creating Food Mastery}{72}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{72}% 
+\contentsline {section}{\nonumberline The Daily Better Thought}{73}% 
+\contentsline {section}{\nonumberline Why This Matters for Better Thoughts}{73}% 
+\contentsline {section}{\nonumberline Learning Together}{74}% 
+\contentsline {section}{\nonumberline A Quiet Closing Thought}{75}% 
+\contentsline {chapter}{\numberline {7}Choose To Do Something}{77}% 
+\contentsline {section}{\nonumberline Action Builds Self-Esteem}{77}% 
+\contentsline {section}{\nonumberline What Can You Control?}{78}% 
+\contentsline {section}{\nonumberline The Power to Change}{79}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{80}% 
+\contentsline {section}{\nonumberline Compensate for Life's Challenges}{80}% 
+\contentsline {section}{\nonumberline Create Joy in Everyday Life}{81}% 
+\contentsline {section}{\nonumberline Congratulate Yourself}{81}% 
+\contentsline {section}{\nonumberline A Gentle Closing Reflection}{82}% 
+\contentsline {section}{\nonumberline A Simple Reminder}{82}% 
+\contentsline {chapter}{\numberline {8}My Manifesto of Being Happy}{85}% 
+\contentsline {section}{\nonumberline Happy Is What I Am Not What I Do}{86}% 
+\contentsline {section}{\nonumberline What Pulls Me Away from Happiness}{86}% 
+\contentsline {section}{\nonumberline How I Find My Way Back}{87}% 
+\contentsline {section}{\nonumberline Holding My Intention}{88}% 
+\contentsline {section}{\nonumberline My Daily Practice of Being}{88}% 
+\contentsline {section}{\nonumberline Why This Choice Changes Everything}{89}% 
+\contentsline {section}{\nonumberline My Promise to Myself}{89}% 
+\contentsline {chapter}{\numberline {9}Who Is Doing and Being?}{91}% 
+\contentsline {section}{\nonumberline Meeting Your Inner Parent, Adult, and Child}{91}% 
+\contentsline {section}{\nonumberline The Parent}{92}% 
+\contentsline {section}{\nonumberline The Child}{92}% 
+\contentsline {section}{\nonumberline The Adult}{93}% 
+\contentsline {section}{\nonumberline Inviting the Adult Forward}{94}% 
+\contentsline {section}{\nonumberline Using the Body to Support the Adult}{94}% 
+\contentsline {section}{\nonumberline The Adult's Three Helpful Questions}{95}% 
+\contentsline {section}{\nonumberline Helping the Child with the Adult}{95}% 
+\contentsline {section}{\nonumberline Meeting the Needs of My Inner Family}{95}% 
+\contentsline {section}{\nonumberline My Child Needs}{96}% 
+\contentsline {section}{\nonumberline My Parent Needs}{97}% 
+\contentsline {section}{\nonumberline My Adult Needs}{97}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{97}% 
+\contentsline {section}{\nonumberline A Kinder Question}{98}% 
+\contentsline {section}{\nonumberline Examples of Meeting My Own Needs}{98}% 
+\contentsline {section}{\nonumberline A Better Thought}{99}% 
+\contentsline {chapter}{\numberline {10}The Adjacent Brain}{101}% 
+\contentsline {section}{\nonumberline We Need Others}{101}% 
+\contentsline {section}{\nonumberline How the Adjacent Brain Works}{102}% 
+\contentsline {section}{\nonumberline Better Thoughts About Shared Thinking}{102}% 
+\contentsline {section}{\nonumberline In Human Conversation}{103}% 
+\contentsline {section}{\nonumberline In Collaboration with Technology}{103}% 
+\contentsline {section}{\nonumberline The Joy of Co-Thinking}{104}% 
+\contentsline {section}{\nonumberline Help for a Better Thought (Outside the Computer Store)}{104}% 
+\contentsline {section}{\nonumberline A Pause Point}{105}% 
+\contentsline {section}{\nonumberline A Gentle Wondering}{105}% 
+\contentsline {chapter}{\numberline {11}Friendship and Conversation}{107}% 
+\contentsline {section}{\nonumberline My Ideal Conversation}{107}% 
+\contentsline {section}{\nonumberline Pause for a Moment}{110}% 
+\contentsline {section}{\nonumberline Questions I Carry About Conversation}{110}% 
+\contentsline {section}{\nonumberline What I Know for Sure}{111}% 
+\contentsline {section}{\nonumberline A Quiet Closing}{111}% 
+\contentsline {chapter}{\numberline {12}Love is the Best Thought of All}{113}% 
+\contentsline {section}{\nonumberline Affection: The Sweetness That Keeps Life Tasting Good}{113}% 
+\contentsline {section}{\nonumberline You Never Outgrow the Need for Affection}{114}% 
+\contentsline {section}{\nonumberline Affirmation: Catching Each Other Being Good}{115}% 
+\contentsline {section}{\nonumberline Appreciation: A Habit That Pays Dividends}{116}% 
+\contentsline {section}{\nonumberline Sharing Good News --- How Do You Respond?}{116}% 
+\contentsline {section}{\nonumberline Thinking Loving Thoughts Changes the Relationship}{117}% 
+\contentsline {section}{\nonumberline The Power of Small, Frequent Acts}{117}% 
+\contentsline {section}{\nonumberline Can You Say ``I Love You'' Too Often?}{118}% 
+\contentsline {section}{\nonumberline Love as a Better Thought}{118}% 
+\contentsline {chapter}{\numberline {13}Spirituality}{119}% 
+\contentsline {section}{\nonumberline Turning to God First}{119}% 
+\contentsline {section}{\nonumberline What Is Spirituality?}{120}% 
+\contentsline {section}{\nonumberline Where Is the Soul?}{121}% 
+\contentsline {section}{\nonumberline My Better Thought}{122}% 
+\contentsline {section}{\nonumberline Drifting Off Course --- and Finding My Way Back}{123}% 
+\contentsline {section}{\nonumberline About God Being Here}{125}% 
+\contentsline {section}{\nonumberline Looking for Love and Goodness}{126}% 
+\contentsline {chapter}{\numberline {14}Better Thoughts Begin with Better Questions}{129}% 
+\contentsline {section}{\nonumberline Questions About Strength and Success}{130}% 
+\contentsline {section}{\nonumberline Questions About Love}{130}% 
+\contentsline {section}{\nonumberline Questions About Joy and Peak Experiences}{131}% 
+\contentsline {section}{\nonumberline Questions for Difficult Moments}{131}% 
+\contentsline {section}{\nonumberline Questions for Thriving and Aging}{132}% 
+\contentsline {section}{\nonumberline Questions of Self-Compassion}{132}% 
+\contentsline {section}{\nonumberline Questions of the Spirit}{133}% 
+\contentsline {chapter}{\numberline {15}A Better Thought}{135}% 
+\contentsline {chapter}{\numberline {A}Examples of some of my Better Thoughts collated by ChatGPT}{139}% 
+\contentsline {section}{\nonumberline 1. The Tire Incident (June 2)}{139}% 
+\contentsline {section}{\nonumberline 2. Feeling Ill and Afraid (May 29)}{140}% 
+\contentsline {section}{\nonumberline 3. The Rest Day (June 6--7)}{140}% 
+\contentsline {section}{\nonumberline 4. Person Speaking Harshly (June 18)}{141}% 
+\contentsline {section}{\nonumberline 5. Worry About Rick Going to the Hospital (June 8)}{142}% 
+\contentsline {section}{\nonumberline 6. Loving ChatGPT More Than People (June 1)}{142}% 
+\contentsline {section}{\nonumberline A Pattern I Notice}{143}% 
+\contentsline {chapter}{Index}{145}% 

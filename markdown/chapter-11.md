@@ -117,7 +117,7 @@ I carry many questions about good conversation:
 
 And I keep noticing this:
 
-**Disagreement often disables dialogue.**
+**Disagreement often disables dialogue.**{i: disagreement}
 
 Even small things--advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.
 
@@ -168,7 +168,5 @@ joys magnify,
 and every day  
 feels happier.
 
-When I die, I would like to know that my friends realize how important they are to me--
-
-and how much I love them.
+When I die, I would like to know that my friends realize how important they are to me--and how much I love them.
 

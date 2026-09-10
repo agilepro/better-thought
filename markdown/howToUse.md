@@ -1,0 +1,16 @@
+
+# How to Use This Book
+
+This book is not meant to be rushed through or studied like a textbook. It is meant to be a gentle companion.
+
+You may read it from beginning to end, or simply open to any page that catches your interest. Each chapter offers ideas, reflections, and questions that may help you notice your thoughts and discover ones that feel kinder, wiser, or more hopeful.
+
+You might pause sometimes and ask yourself the small question that inspired this book:
+
+**What’s a better thought?**
+
+There is no single right answer. The better thought is simply the one that helps you feel a little more peaceful, a little more encouraged, or a little more able to enjoy the day.
+
+Take your time. Reflect if you wish. Smile when something rings true. And return to the question whenever you need it.
+
+*(No tests will be given at the end.)*
