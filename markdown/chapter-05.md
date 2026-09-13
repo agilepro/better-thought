@@ -117,7 +117,7 @@ What comforts me most in understanding all of this is something very gentle:
 
 **to change everything.**
 
-## A Gentle Noticing About Beliefs
+## A Gentle Noticing About Beliefs{i:belief}
 
 I’ve also begun to notice something important:
 
