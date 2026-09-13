@@ -4,7 +4,7 @@
 If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
 
 
-You may know about the negative bias. Rick Hansen talks about our survival instinct, that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**--our brain’s built-in habit of noticing, reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
+You may know about the negative bias. Rick Hansen{i:RickHanson} talks about our survival instinct,{i:survival instinct} that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   Psychologists call this tendency **negativity bias**--our brain’s built-in habit of noticing, reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
 
 Positive thoughts, by contrast, can seem light, fragile, and easy to lose.  
 *(They don’t always know how to make a grand entrance.)*
@@ -21,7 +21,7 @@ The way it works is that when we decide we’re going to go to that party we’v
 
 I would like to add that the negative bias leads us to more than protecting ourselves. We also want to protect our loved ones and friends. When they begin talking about some new venture or an exciting event, we unknowingly scan for the danger in that and warn them to be cautious. This does not go over well. It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to respond enthusiastically about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet they seek to save me because their own brain thinks of possible problems. 
 
-Negativity Bias appears as worry and pessimism.{i: pessimism}
+Negativity Bias appears as worry{i:worry}and pessimism.{i: pessimism}
 
 It appears as remembering one criticism more vividly than ten compliments.
 
@@ -31,7 +31,7 @@ It appears as a host of awful possibilities -- but not real probabilities -- a b
 
 At night, the brain keeps watch.
 
-Many dreams feature being late, lost, unprepared, or failing in some way.
+Many dreams{i:dreams} feature being late, lost, unprepared, or failing in some way.
 
 We may wake up uneasy before a single conscious thought forms--the emotional residue still present. My morning thoughts are often grim and I wonder about those vaguely unsettling dreams.
 
