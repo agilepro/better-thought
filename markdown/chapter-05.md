@@ -6,7 +6,7 @@ If we are going to ask ourselves, “What’s a better thought?” it helps to u
 
 Every now and then, someone explains something in a way that feels both simple and profound at the same time. That’s how I felt when I first heard about what are called the **Three Principles** -- originally named **Mind, Consciousness, and Thought**.
 
-They were introduced by a quiet, thoughtful man named **Sydney Banks**, who had no formal background in psychology or academia. His realization was simple and life-changing:  
+They were introduced by a quiet, thoughtful man named **Sydney Banks**,{Sydney Banks} who had no formal background in psychology or academia. His realization was simple and life-changing:  
 **everything we experience in life comes from the inside out, not from the world itself.**  
 What’s happening “out there” doesn’t directly create our feelings -- our inner process does.
 
