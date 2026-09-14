@@ -121,7 +121,7 @@ And I keep noticing this:
 
 Even small things--advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.{i:connection,barriers to}
 
-I prefer the gentle wisdom of improvisation:{connection,building}
+I prefer the gentle wisdom of improvisation:{i:connection,building}
 
 **“Yes, and…”**
 
