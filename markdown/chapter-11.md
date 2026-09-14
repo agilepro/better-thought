@@ -119,9 +119,9 @@ And I keep noticing this:
 
 **Disagreement often disables dialogue.**{i: disagreement}
 
-Even small things--advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.
+Even small things--advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.{i:connection,barriers to}
 
-I prefer the gentle wisdom of improvisation:
+I prefer the gentle wisdom of improvisation:{connection,building}
 
 **“Yes, and…”**
 
