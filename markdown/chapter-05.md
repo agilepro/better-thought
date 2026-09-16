@@ -1,4 +1,4 @@
-# Thinking About The Three Principles{i: three principles}
+=# Thinking About The Three Principles{i: three principles}
 
 If we are going to ask ourselves, “What’s a better thought?” it helps to understand just how important thought may be in creating our experience of life. The Three Principles offer one model for looking at this--one that places Thought at the very center of how we experience ourselves and the world around us.
 
@@ -143,7 +143,7 @@ You don’t have to understand all of this perfectly.
 
 You don’t have to “get it right.”
 
-Just begin to notice:
+Just begin to notice:{i:practices}{i:exercises}{i:action steps}
 
 * What am I thinking right now?  
 * How is that thought shaping how I feel?
