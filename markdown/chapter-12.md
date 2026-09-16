@@ -137,5 +137,5 @@ It’s not complicated. It doesn’t require perfection. It simply asks for atte
 
 And what could be a better thought than that?
 
-**What way can I send out some love today?**
+**What way can I send out some love today?**{i:exercises}{i:practices}{i:action steps}
 
