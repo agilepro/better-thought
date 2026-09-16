@@ -113,7 +113,7 @@ They remind my nervous system who is in charge.
 
 My Adult also uses the body to stay grounded.
 
-Sometimes my Adult says:
+Sometimes my Adult says:{i:anxiety help}{i:practices}{i:exercises}{i:action steps}
 
 * “Stand up straight.”  
 * “Take a slow breath.”  
@@ -127,7 +127,7 @@ From that place, my thinking clears.
 
 ## The Adult’s Three Helpful Questions{i: three helpful questions}
 
-When I feel anxious or uncertain, my Adult asks:
+When I feel anxious or uncertain, my Adult asks:{i:anxiety help}
 
 * What are the facts?  
 * What is really happening right now?  
@@ -230,7 +230,7 @@ I can choose.
 I can pause.  
 I can respond instead of react.
 
-## Pause for a Moment
+## Pause for a Moment{i:practices}{i:exercises}{i:action steps}
 
 Right now…
 
