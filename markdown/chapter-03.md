@@ -1,4 +1,4 @@
-
+=
 # Better Thoughts In The Morning
 
 I don't wake up happy.
@@ -694,7 +694,7 @@ I used to think the goal was to wake up happy.
 
 Now I think the goal is something gentler.
 
-**Wake up curious.**
+**Wake up curious.**{i:practices}{i:exercises}{i:action steps}
 
 Don't decide too soon.
 
