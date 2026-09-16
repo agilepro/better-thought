@@ -554,7 +554,7 @@ There it is.
 
 But perhaps the first thought doesn't have to get the last word.
 
-That's the skill I want to practice.
+That's the skill I want to practice.{i:practices}{i:exercises}{i:action steps}
 
 **Notice.**
 
