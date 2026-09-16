@@ -186,7 +186,7 @@ It is God’s kindness within me, whispering, *“Come back, sweetheart.”*
 
 When I learned to listen to that voice, everything changed.
 
-Instead of scolding myself, I began asking:
+Instead of scolding myself, I began asking:{i:anxiety help}
 
 *What am I needing right now?*  
 *Am I tired? Lonely? Overstimulated?*  
@@ -313,5 +313,5 @@ When I ask that, ideas begin to show up.
 Love and goodness may be everywhere, but I see them more easily when I go looking for them.
 
 **A question for you:**  
-If you looked around right now with the intention of seeing love and goodness, what might you notice?
+If you looked around right now with the intention of seeing love and goodness, what might you notice?{i:practices}{i:exercises}{i:action steps}
 
