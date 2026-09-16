@@ -104,7 +104,7 @@ If we’re stuck in traffic, we can turn frustration into a mini-meditation.
 
 ## Pause for a Moment
 
-What is one small thing you *can* control right now?
+What is one small thing you *can* control right now?{i:practices}{i:exercises}{i:action steps}
 
 A thought?  
 A word you say?  
@@ -178,7 +178,7 @@ But through small, thoughtful choices, we can shape it into something more manag
 
 So take a moment right now:
 
-**What’s one thing you can celebrate about yourself today?**
+**What’s one thing you can celebrate about yourself today?**{i:exercises}{i:action steps}{i:practices}
 
 Even something small counts.
 
