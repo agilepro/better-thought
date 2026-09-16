@@ -33,7 +33,7 @@ We forget our own history.
 We remember embarrassments more easily than accomplishments.  
 We replay failures and overlook courage.
 
-Try asking:
+Try asking:{i:exercises}{i:practices}{i:action steps}{i:anxiety help}
 
 * What is one accomplishment that still makes me quietly proud?  
 * What is something hard I did anyway?  
