@@ -93,7 +93,7 @@ What do you need?
 What do you believe?  
 What frightens you?
 
-## Pause for a Moment
+## Pause for a Moment{i:practices}{i:exercises}{i:action steps}
 
 When was the last time you felt truly heard?
 
