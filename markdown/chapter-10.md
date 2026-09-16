@@ -137,7 +137,7 @@ Sometimes the situation does not need to change.
 
 Sometimes a better thought is enough.
 
-## A Pause Point
+## A Pause Point{i:exercises}{i:practices}{i:action steps}
 
 * Who has been an adjacent brain in my life?  
 * When do I feel my own mind expanding through conversation?  
