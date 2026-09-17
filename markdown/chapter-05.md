@@ -50,7 +50,7 @@ That’s consciousness at work.
 
 *(Even the very strange dreams.)*
 
-## Pause for a Moment
+## Pause for a Moment{i:exercises}{i:practices}{i:action steps}
 
 Right now, what are you aware of?
 
