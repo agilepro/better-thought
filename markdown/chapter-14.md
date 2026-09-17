@@ -54,7 +54,7 @@ They remind us that we are not fragile accidents -- we are people with evidence 
 Love is often the best thought of all.
 
 We may worry about whether we have loved enough, or well enough.  
-But try asking:
+But try asking:{i:exercises}{i:practices}{i:action steps}
 
 * When have I loved someone well?  
 * Who has felt safer because of me?  
@@ -66,7 +66,7 @@ Better thoughts about ourselves often grow out of remembering the love we have g
 
 ## Questions About Joy and Peak Experiences{i: joy}{i: peak experience}
 
-Sometimes we need to remember that we have known joy.
+Sometimes we need to remember that we have known joy.{i:exercises}{i:practices}{i:action steps}
 
 * What was one peak experience of my life?  
 * When did I feel completely alive?  
@@ -82,7 +82,7 @@ The nervous system does not always know the difference between present joy and v
 
 When we are upset, the mind narrows.
 
-In those moments, instead of trying to “fix” ourselves, we might ask:
+In those moments, instead of trying to “fix” ourselves, we might ask:{i:action steps}{i:exercises}{i:practices}
 
 * What is another way to see this?  
 * What would the wisest part of me say?  
@@ -100,7 +100,7 @@ It widens the frame.
 As we grow older, we gather quiet treasures.
 
 We may also gather doubts.  
-So ask:
+So ask:{i:action steps}{i:exercises}{i:practices}
 
 * What have I learned about living well?  
 * How am I thriving right now?  
@@ -114,7 +114,7 @@ They remind us that we are still becoming.
 
 ## Questions of Self-Compassion{i: self-compassion}
 
-Sometimes the most powerful better thought begins with tenderness.
+Sometimes the most powerful better thought begins with tenderness.{i:exercises}{i:practices}{i:action steps}
 
 * What do I need right now?  
 * What part of me is scared?  
@@ -127,7 +127,7 @@ It is wise leadership from within.
 
 ## Questions of the Spirit{i: spirit}
 
-If you believe in God, or Being, or Love itself, you might also ask:
+If you believe in God, or Being, or Love itself, you might also ask:{i:practices}{i:exercises}{i:action steps}
 
 * Where did I glimpse goodness today?  
 * When did I feel guided?  
