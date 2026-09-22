@@ -50,6 +50,7 @@
 \contentsline {section}{\nonumberline A Better Relationship With Our Own Minds}{60}% 
 \contentsline {chapter}{\numberline {5}Thinking About The Three Principles}{63}% 
 \contentsline {section}{\nonumberline A Kinder Way of Understanding How We Experience Life}{63}% 
+\contentsline {section}{\nonumberline Brain}{64}% 
 \contentsline {section}{\nonumberline Consciousness --- The Gift of Awareness}{64}% 
 \contentsline {section}{\nonumberline Pause for a Moment}{65}% 
 \contentsline {section}{\nonumberline Thought --- The Creative Power of Experience}{65}% 

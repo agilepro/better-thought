@@ -1,4 +1,4 @@
-=# Thinking About The Three Principles{i: three principles}
+# Thinking About The Three Principles{i: three principles}
 
 If we are going to ask ourselves, “What’s a better thought?” it helps to understand just how important thought may be in creating our experience of life. The Three Principles offer one model for looking at this--one that places Thought at the very center of how we experience ourselves and the world around us.
 
@@ -14,7 +14,7 @@ That insight opened up a whole new way of seeing life for me.
 
 Traditionally, Sydney describes the Three Principles like this:
 
-* **Mind** -- the universal intelligence behind life{i: mind|See{brain}}
+* **Mind** -- the universal intelligence behind life{i: mind}
 * **Consciousness** -- our capacity to be aware  
 * **Thought** -- the creative power that forms our moment-to-moment experience
 
