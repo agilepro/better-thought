@@ -1,9 +1,15 @@
 
 # The Adjacent Brain{i: adjacent brain}
 
-## We Need Others{i: need others}
+## We Need Conversation With Others{i: need others}
 
-*(How Conversation Expands Our Thinking)*
+Conversation expands our thinking.
+
+It's like thinking with another brain.
+
+Conversation lets us borrow from one another's brains.
+
+Another person's questions and perspective can lead our own thinking somewhere it could not go alone.
 
 Sometimes thinking alone feels like walking in circles inside our own mind.
 
