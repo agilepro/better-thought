@@ -1,4 +1,4 @@
-=
+#=
 # Better Thoughts In The Morning
 
 I don't wake up happy.
@@ -190,6 +190,8 @@ It doesn't deny anything.
 It simply refuses to predict the ending before the day has begun.
 
 ## Nurture Yourself Awake{i: nurture awake}
+
+Laura says that if she can think of herself as an exotic pet that she loves and wants to take good care of, and she is very gentle and nurturing to herself
 
 For years I thought I should wake up and **get going**.
 
