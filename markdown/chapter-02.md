@@ -11,6 +11,8 @@ And again.
 
 I didn't have to invite the memory in. It knew how to find me all by itself.
 
+it was something like the intrusive memories people describe with post traumatic stress: the mind returning to a painful moment even when you do not want it to
+
 Eventually I began deliberately replacing some of those terrible scenes with other memories from our nearly sixty years together. That was the beginning of my question:
 
 **What's a better thought?**
