@@ -430,7 +430,7 @@ Or:
 
 It leaves the future open.
 
-## Borrow a Brain
+## Borrow a Brain{i:adjacent brain}
 
 Sometimes I can't get myself out of my own thought.
 
