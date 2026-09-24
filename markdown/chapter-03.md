@@ -496,7 +496,7 @@ Or:
 
 That counts.
 
-## Borrow Someone Else's Brain{i: someone else brain}
+## Borrow Someone Else's Brain{i: someone else brain}{i:adjacent brain}
 
 There are also mornings when I need another person.
 
