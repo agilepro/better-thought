@@ -1,4 +1,4 @@
-
+#
  
 
 # Examples of Better Thought collated by ChatGPT
