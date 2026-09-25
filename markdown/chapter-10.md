@@ -95,6 +95,34 @@ The thoughts begin in me.
 
 The adjacent brain helps them blossom.
 
+## One-to-One Conversation: Making Room for the Adjacent Brain ##
+
+An adjacent brain works especially well in a good one-to-one conversation.
+
+Melina Ponack has helped me appreciate a particular kind of conversation in which two people deliberately make time for one another. Melina calls it ____________. During an hour together, each person has a certain amount of uninterrupted time and can say what kind of listening would be most helpful.
+
+Sometimes I may simply want you to listen while I think out loud. I may want an occasional “um-hmm” so I know you are with me. I may want active listening—hearing my thoughts reflected back so I can hear them more clearly myself. I may want questions that help me explore. At another time, I may actually want ideas or help solving a problem.
+
+The important thing is that I get to say what kind of listening I need.
+
+During this kind of conversation, there is no criticism, no correction, and no unwanted advice. The listener does not take over my thinking. Instead, another brain comes alongside mine—an adjacent brain.
+
+That is when the adjacent brain begins to do its wonderful work.
+
+I say something. You reflect something back. Your question reminds me of something else. I hear myself differently because you have heard me. One thought leads to another. Suddenly I see a connection, a possibility, or a better thought that I could not quite reach by myself.
+
+We are borrowing from each other’s brains.
+
+The listener may help me notice patterns, put feelings into words, organize scattered ideas, or simply stay with me long enough for my own thinking to unfold. The goal is not for one person to have the answer for the other. The goal is to create the kind of conversation in which discovery can happen.
+
+Then we change places.
+
+Now I offer my attention to you, and your mind has room to wander, explore, remember, question, and discover.
+
+Perhaps that is one of the great gifts we can give another person: not our answers, but our mind beside theirs.
+
+Two minds, side by side, can sometimes see more than either one could see alone.
+
 ## The Joy of Co-Thinking{i: co-thinking}
 
 The real delight of the adjacent brain is in the dance--the back and forth, the laughter, the *ah-ha’s*, the new angles of seeing.
