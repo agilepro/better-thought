@@ -1,5 +1,5 @@
 
-# Examples of some of my Better Thoughts collated by ChatGPT
+# Examples of Better Thought collated by ChatGPT
 
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
 This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
