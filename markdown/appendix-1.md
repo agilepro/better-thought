@@ -1,7 +1,7 @@
 #
  
 
-# Examples of Better Thought collated by ChatGPT
+# Better Thought Resources 
 
  ## Resources for Listening and Thinking Together ##
 
