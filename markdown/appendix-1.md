@@ -3,7 +3,7 @@
 
 # Examples of Better Thought collated by ChatGPT
 
-Resources for Listening and Thinking Together
+ ## Resources for Listening and Thinking Together ##
 
 Melina Ponack: One-to-One Listening Conversations
 
