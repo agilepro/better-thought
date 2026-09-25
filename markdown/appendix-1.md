@@ -1,5 +1,45 @@
 
+ 
+
 # Examples of Better Thought collated by ChatGPT
+
+Resources for Listening and Thinking Together
+
+Melina Ponack: One-to-One Listening Conversations
+
+Throughout this book, I have written about the value of another mind beside our own—an adjacent brain that can help us hear ourselves, explore a problem, discover connections, and sometimes arrive at a better thought.
+
+Melina Ponack introduced me to a particularly helpful form of one-to-one conversation. Two people intentionally set aside time for each other, divide the available time, and take turns speaking and listening.
+
+What I especially appreciate is that the speaker can say what kind of listening would be helpful. You might want someone simply to listen while you think out loud. You might want your words reflected back to you. You might welcome questions that help you explore further. Or you might want ideas and suggestions.
+
+It is a way of giving another person both attention and room to think.
+
+I have found these conversations enormously helpful. Having another person listen without criticism, correction, or unwanted advice gives my thoughts somewhere to go. Often, I discover something simply because I have had the time and safety to hear myself think.
+
+To learn more:
+
+• Melina Ponack
+• [Name of program]
+• [Website]
+
+Empathy Circles
+
+Empathy Circles offer another structured way to experience the power of being deeply heard.
+
+The practice was developed and promoted by Edwin Rutsch, founding director of The Empathy Center. In an Empathy Circle, participants take turns speaking and listening. The listener reflects back what the speaker has said as accurately as possible before the conversation continues.
+
+The purpose is not to debate, correct, advise, or persuade. It is to understand.
+
+I have found that hearing my own thoughts reflected back to me can change my thinking. I may clarify what I mean, recognize something I had not noticed before, make a new connection, or discover that the thought I began with is no longer quite the thought I want to keep.
+
+Readers who would like to learn more can find explanations of the Empathy Circle process, opportunities to participate, and facilitator training through the Empathy Circle and Empathy Center websites.
+
+To learn more:
+
+• Empathy Circle: EmpathyCircle.com
+• Empathy Circle Training: EmpathyCircleTraining.com
+• The Empathy Center: TheEmpathyCenter.org
 
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
 This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
