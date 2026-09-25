@@ -5,7 +5,7 @@
 
  ## Resources for Listening and Thinking Together ##
 
-Melina Ponack: One-to-One Listening Conversations
+ ## Melina Ponack: One-to-One Listening Conversations ##
 
 Throughout this book, I have written about the value of another mind beside our own—an adjacent brain that can help us hear ourselves, explore a problem, discover connections, and sometimes arrive at a better thought.
 
@@ -23,7 +23,7 @@ To learn more:
 • [Name of program]
 • [Website]
 
-Empathy Circles
+ ## Empathy Circles ##
 
 Empathy Circles offer another structured way to experience the power of being deeply heard.
 
