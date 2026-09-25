@@ -1,4 +1,4 @@
-
+.
 # The Adjacent Brain{i: adjacent brain}
 
 ## We Need Conversation With Others{i: need others}
@@ -123,7 +123,17 @@ Perhaps that is one of the great gifts we can give another person: not our answe
 
 Two minds, side by side, can sometimes see more than either one could see alone.
 
- 
+ Empathy Circles as an Adjacent Brain
+
+Another way I have experienced an adjacent brain is through Empathy Circles, a practice developed by Edwin Rutsch. People gather in person or online and take turns speaking and listening. One person speaks while another listens actively and reflects back what has been heard. The speaker usually talks in short pieces, pausing after a sentence or an idea so the listener can reflect it before the speaker continues.
+
+I have found that something very interesting happens when my thoughts are reflected back to me this way. I hear my own thinking more clearly. I may realize that what I have said is exactly what I mean—or discover that it isn’t quite what I mean at all. I may change a thought, expand it, find a new connection, or become clearer and more authentic about what I really believe.
+
+The other person is not thinking for me. Their listening gives me another place from which to hear and examine my own thoughts.
+
+That is why I think of an Empathy Circle as another way of finding an adjacent brain. The listener’s job is not to criticize, correct, debate, judge, or give advice. The task is simply to listen deeply and reflect back, as accurately as possible, what the speaker is trying to say.
+
+    When another person gives me that kind of undivided attention, my thinking has room to keep moving. I can reconsider what I have said without having to defend it. I can follow a thought wherever it leads. Sometimes I leave an Empathy Circle with a thought I did not have when I entered it..
 
 ## The Joy of Co-Thinking{i: co-thinking}
 
