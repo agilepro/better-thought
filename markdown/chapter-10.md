@@ -123,7 +123,7 @@ Perhaps that is one of the great gifts we can give another person: not our answe
 
 Two minds, side by side, can sometimes see more than either one could see alone.
 
- Empathy Circles as an Adjacent Brain
+ ## Empathy Circles as an Adjacent Brain ##
 
 Another way I have experienced an adjacent brain is through Empathy Circles, a practice developed by Edwin Rutsch. People gather in person or online and take turns speaking and listening. One person speaks while another listens actively and reflects back what has been heard. The speaker usually talks in short pieces, pausing after a sentence or an idea so the listener can reflect it before the speaker continues.
 
