@@ -4,6 +4,8 @@
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
 This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
 
+This is ChatGPT "speaking"
+
 ## 1\. The Tire Incident (June 2\)
 
 This is one of my favorites because the change happened so quickly.
