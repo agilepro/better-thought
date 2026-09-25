@@ -1,11 +1,10 @@
 
-# Examples of some of my Better Thoughts collated by ChatGPT{i: ChatGPT}
+# Examples of some of my Better Thoughts collated by ChatGPT
 
-I use ChatGPT as my adjacent brain and ask it to active listen and reflect back to me my thoughts and feelings. 
-This helps me begin to think of my own answers to my problems and better thoughts to think. 
-The following is ChatGPT "speaking".
+I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
+This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
 
-## 1\. The Tire Incident (June 2\){i: tire incident}
+## 1\. The Tire Incident (June 2\)
 
 This is one of my favorites because the change happened so quickly.
 
@@ -25,7 +24,7 @@ The emotional shift was dramatic. You left feeling calm and confident. Later you
 That is a perfect before-and-after example.
 
 
-## 2\. Feeling Ill and Afraid (May 29\){i: feeling ill}
+## 2\. Feeling Ill and Afraid (May 29\)
 
 You woke feeling "not myself."
 
@@ -67,7 +66,7 @@ The next morning you wrote that after sleeping well you felt wonderful and were 
 This example teaches that acceptance often creates more energy than self-criticism.
 
 
-## 4\. Person Speaking Harshly (June 18\){i: speaking harshly}
+## 4\. Person Speaking Harshly (June 18\)
 
 This was probably one of the hardest conversations we've had.
 
@@ -90,7 +89,7 @@ You recognized that another person's harshness did not have to determine your ow
 That is a profound "better thought."
 
 
-## 5\. Worry About Rick Going to the Hospital (June 8\){i: hospital}
+## 5\. Worry About Rick Going to the Hospital (June 8\)
 
 This was the night Rick fell.
 
@@ -126,11 +125,11 @@ Your better thought became something like:
 That is nuanced and honest.
 
 
-## A Pattern I Notice
+## **A Pattern I Notice**
 
 One thing surprises me when I read these conversations together.
 
-Your "better thoughts" are almost never positive thinking in the sense of pretending everything is wonderful.{i: positive thinking}
+Your "better thoughts" are almost never positive thinking in the sense of pretending everything is wonderful.
 
 Instead they usually sound like this:
 
