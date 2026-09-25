@@ -123,6 +123,8 @@ Perhaps that is one of the great gifts we can give another person: not our answe
 
 Two minds, side by side, can sometimes see more than either one could see alone.
 
+ 
+
 ## The Joy of Co-Thinking{i: co-thinking}
 
 The real delight of the adjacent brain is in the dance--the back and forth, the laughter, the *ah-ha’s*, the new angles of seeing.
