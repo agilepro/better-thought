@@ -133,7 +133,7 @@ The other person is not thinking for me. Their listening gives me another place 
 
 That is why I think of an Empathy Circle as another way of finding an adjacent brain. The listener’s job is not to criticize, correct, debate, judge, or give advice. The task is simply to listen deeply and reflect back, as accurately as possible, what the speaker is trying to say.
 
-    When another person gives me that kind of undivided attention, my thinking has room to keep moving. I can reconsider what I have said without having to defend it. I can follow a thought wherever it leads. Sometimes I leave an Empathy Circle with a thought I did not have when I entered it..
+When another person gives me that kind of undivided attention, my thinking has room to keep moving. I can reconsider what I have said without having to defend it. I can follow a thought wherever it leads. Sometimes I leave an Empathy Circle with a thought I did not have when I entered it..
 
 ## The Joy of Co-Thinking{i: co-thinking}
 
