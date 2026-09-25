@@ -3,8 +3,6 @@
 
 # Better Thought Resources 
 
- ## Resources for Listening and Thinking Together ##
-
  ## Melina Ponack: One-to-One Listening Conversations ##
 
 Throughout this book, I have written about the value of another mind beside our own—an adjacent brain that can help us hear ourselves, explore a problem, discover connections, and sometimes arrive at a better thought.
@@ -40,6 +38,8 @@ To learn more:
 • Empathy Circle: EmpathyCircle.com
 • Empathy Circle Training: EmpathyCircleTraining.com
 • The Empathy Center: TheEmpathyCenter.org
+
+ # Examples of Better Thought collated by ChatGPT
 
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
 This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
