@@ -1,4 +1,4 @@
-.
+.(.
 # The Adjacent Brain{i: adjacent brain}
 
 ## We Need Conversation With Others{i: need others}
@@ -138,6 +138,8 @@ When another person gives me that kind of undivided attention, my thinking has r
 ## The Joy of Co-Thinking{i: co-thinking}
 
 The real delight of the adjacent brain is in the dance--the back and forth, the laughter, the *ah-ha’s*, the new angles of seeing.
+
+I say what I am noticing; another brain response; that response reminds me of something; and suddenly I can see possibilities I couldn't see alone.
 
 It’s the moment when something tangled becomes clear…
 
