@@ -1,6 +1,8 @@
 # Who Is Doing and Being?{i: doing and being}
 
-It can be helpful to have a simple model for understanding the different parts of ourselves and the different thoughts and needs that come from them. There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me, where my thoughts are coming from and consider what thoughts might be most helpful.{i:Transactional Analysis}
+It can be helpful to have a simple model for understanding the different parts of ourselves and the different thoughts and needs that come from them. 
+
+There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me, where my thoughts are coming from and consider what thoughts might be most helpful.{i:Transactional Analysis}
 
 
 ## Meeting Your Inner Parent, Adult, and Child
