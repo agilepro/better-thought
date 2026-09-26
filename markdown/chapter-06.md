@@ -31,7 +31,7 @@ Our thoughts matter not only because of how they make us feel in the moment, but
 
 ## The Turning Point: A New Belief
 
-Everything changed when I took Jackie Kelm’s class on rapid change.{i: Jackie Kelm}
+Everything changed when I took Jackie Kelm’s class on rapid change to habit breaking.{i: Jackie Kelm}
 
 As part of the class, Jackie had a private conversation with each of us.
 
