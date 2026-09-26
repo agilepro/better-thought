@@ -55,7 +55,7 @@ The Child can be:
 * sensitive and tender  
 * fearful and anxious  
 * people-pleasing  
-* rebellious  
+* often wanting or rebellious  
 * free and spontaneous
 
 The Child brings life, fun, joy, color, creativity, and feeling.
