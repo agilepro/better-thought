@@ -90,7 +90,7 @@ And I heard myself say something new:
 
 ## Creating Food Mastery{i: food mastery}
 
-I chose a simple structure: about 1200 calories a day--enough for me to feel satisfied and still move toward my goal weight of 140 pounds. ChatGPT did all the math.{iChatGPT}
+I chose a simple structure: about 1200 calories a day--enough for me to feel satisfied and still move toward my goal weight of 140 pounds. ChatGPT did all the math.{i: ChatGPT}
 
 I started writing my food down.
 
@@ -190,7 +190,7 @@ I care--kindly, consciously, without drama.
 
 **I can choose.**
 
-## Learning Together
+## Learning Together {i: adjacent brain}
 
 I also know I don’t do this alone.
 
