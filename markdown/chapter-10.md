@@ -99,7 +99,7 @@ The adjacent brain helps them blossom.
 
 An adjacent brain works especially well in a good one-to-one conversation.
 
-Melina Ponack has helped me appreciate a particular kind of conversation in which two people deliberately make time for one another. Melina calls it ____________. During an hour together, each person has a certain amount of uninterrupted time and can say what kind of listening would be most helpful.
+Melina Ponak has helped me appreciate a particular kind of conversation in which two people deliberately make time for one another. Melina calls it Reciprocal 1:1s. During an hour together, each person has a certain amount of uninterrupted time and can say what kind of listening would be most helpful.
 
 Sometimes I may simply want you to listen while I think out loud. I may want an occasional “um-hmm” so I know you are with me. I may want active listening—hearing my thoughts reflected back so I can hear them more clearly myself. I may want questions that help me explore. At another time, I may actually want ideas or help solving a problem.
 
