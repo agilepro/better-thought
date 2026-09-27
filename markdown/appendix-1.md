@@ -17,9 +17,9 @@ I have found these conversations enormously helpful. Having another person liste
 
 To learn more:
 
-• Melina Ponack
-• [Name of program]
-• [Website]
+• Melina Ponak{i:Melina}
+• Reciprocal 1:1s
+• https://www.ideasharpener.com
 
  ## Empathy Circles ##
 
