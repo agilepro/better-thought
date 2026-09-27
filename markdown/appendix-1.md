@@ -21,7 +21,7 @@ To learn more:
 • Reciprocal 1:1s
 • https://www.ideasharpener.com
 
- ## Empathy Circles ##
+ ## Empathy Circles ##{i: empathy circles}
 
 Empathy Circles offer another structured way to experience the power of being deeply heard.
 
