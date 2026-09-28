@@ -19,7 +19,7 @@ To learn more:
 
 • Melina Ponak{i:Melina}
 • Reciprocal 1:1s
-• https://www.ideasharpener.com
+• https://www.melinaponak.com
 
  ## Empathy Circles ##{i: empathy circles}
 
