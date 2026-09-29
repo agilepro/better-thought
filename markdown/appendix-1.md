@@ -22,7 +22,7 @@ To learn more:
 • https://www.melinaponak.com
 
 
-Jackie Kelm — Appreciative Living and Rapid Change
+## Jackie Kelm — Appreciative Living and Rapid Change ##
 
 Jackie Kelm’s work has been an important influence in my life and in the ideas behind this book. Through her book and classes on The Joy of Appreciative Living, I learned that I could acknowledge what was painful or difficult without letting it become the whole story. I could also look for what was hopeful, beautiful, loving, or useful and choose to live from that larger picture.
 
