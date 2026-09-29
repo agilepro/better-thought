@@ -21,6 +21,21 @@ To learn more:
 • Reciprocal 1:1s
 • https://www.melinaponak.com
 
+
+Jackie Kelm — Appreciative Living and Rapid Change
+
+Jackie Kelm’s work has been an important influence in my life and in the ideas behind this book. Through her book and classes on The Joy of Appreciative Living, I learned that I could acknowledge what was painful or difficult without letting it become the whole story. I could also look for what was hopeful, beautiful, loving, or useful and choose to live from that larger picture.
+
+Jackie has also helped me understand how strongly our beliefs influence what we think we can and cannot do. Through her work on Rapid Change and what she calls the “Habit Breaker,” she helped me challenge beliefs that had kept me stuck. With her help, I developed what I call my “Food Mastery,” changing old beliefs about food and learning that I could make choices rather than feeling controlled by old habits. She also helped me break through my belief that I could never declutter and organize my home. I am now steadily letting go of things I no longer need and organizing what I choose to keep.
+
+Perhaps most importantly, Jackie’s work has helped me lighten some of the unnecessary fear and guilt I had carried for years. I have learned that I can notice both the negative and the positive in my life, and then make decisions from what is healthiest and best for me rather than automatically responding from fear, guilt, or an old belief.
+
+Readers who would like to explore Jackie Kelm’s work further can look for her book The Joy of Appreciative Living and learn more about her work with Appreciative Living, Rapid Change, and the Habit Breaker through her classes and other resources.
+
+Website: https://www.AppreciativeLiving.com 
+
+LinkedIn: https://www.linkedin.com/in/jackie-kelm/  
+
  ## Empathy Circles ##{i: empathy circles}
 
 Empathy Circles offer another structured way to experience the power of being deeply heard.
