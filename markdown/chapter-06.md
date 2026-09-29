@@ -168,7 +168,7 @@ But sometimes we can discover that the belief causing us the greatest suffering 
 
 And finding another true belief can change the way we carry the rest of our lives.
 
-**Pause for a Moment **
+**Pause for a Moment**
 
 What is one belief you have about yourself…  
 that might not be helping you?
