@@ -116,7 +116,57 @@ Not *I’m trying.*
 
 **I have it.**
 
-## Pause for a Moment
+ 
+
+## Jeff and the Belief That Changed My Life
+
+The most profound belief I have ever changed was not about food, habits, or everyday worries. It was about the death of my son, Jeff.
+
+Jeff died when he was sixteen, almost seventeen. Jim and I were devastated. For years I could hardly talk about Jeff without crying, and Jim found it even harder.
+
+The belief I carried was that Jeff had been cut down before his life had really begun. His life had been taken away from him, and it was terribly, horribly wrong. I believed his life had been destroyed—and in many ways, I believed ours had been destroyed too. His death shook my faith in God. I could not understand how something so terrible could happen.
+
+And underneath all of that was another belief: I will never be all right about this.
+
+I wanted desperately to find some way of thinking about Jeff that did not hurt quite so much.
+
+Years later, through Jackie Kelm and Appreciative Living, I learned that I could look at a painful experience without denying the pain and still ask whether there was something else there to see.
+
+There was.
+
+I began to realize that another belief about Jeff was also true.
+
+Instead of thinking only, I lost my son when he was sixteen, I could also think:
+
+I was given the extraordinary gift of having this beautiful boy in my life for almost seventeen years.
+
+Jeff and I liked many of the same things. We had a dog together. We went to gifted classes together. When he became an Explorer Scout, I participated while he and the other boys worked with computers at IBM on Tuesday nights in Cincinnati. He went with me and a Methodist youth group to Oklahoma, where we painted a church for Native Americans.
+
+Jeff would say yes to things I suggested.
+
+We learned together. We worked together. We played together. We were mother and son, but we were also buddies.
+
+Nothing about that new belief made his death right. Nothing erased the grief or made me wish I had had one minute less with him.
+
+But it changed the story I was living inside.
+
+The story was no longer only, His life was taken from him, and my life was destroyed.
+
+Another story became possible:
+
+What an enormous gift it was to have Jeff at all.
+
+I could remember the life rather than only the death. I could feel gratitude alongside grief. I could remember this wonderful boy I had been privileged to know, love, teach, learn from, work beside, and play with—and whom I could forever be proud of.
+
+That may be the greatest lesson I have ever learned about beliefs.
+
+We cannot always change what happened.
+
+We cannot make tragedy untragic.
+
+But sometimes we can discover that the belief causing us the greatest suffering is not the only belief that is true.
+
+And finding another true belief can change the way we carry the rest of our lives.Pause for a Moment
 
 What is one belief you have about yourself…  
 that might not be helping you?
