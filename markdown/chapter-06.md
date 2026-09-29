@@ -1,4 +1,4 @@
-## Better Thoughts Through Better Beliefs{i: better beliefs}
+# Better Thoughts Through Better Beliefs{i: better beliefs}
 
 Our thoughts matter not only because of how they make us feel in the moment, but because thoughts repeated over time can grow into beliefs. Those beliefs can become like well-worn ruts in the mind--familiar paths our thoughts return to again and again. But those paths can change. Here is one experience from my own life that showed me how changing my thinking could gradually change what I believed--and, eventually, how I am living.
 

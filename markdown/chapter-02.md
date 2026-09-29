@@ -1,4 +1,3 @@
-
 # When the Mind Gets Stuck
 
 After Jim died, I discovered that my mind could get stuck.

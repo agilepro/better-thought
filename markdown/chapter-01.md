@@ -1,6 +1,3 @@
----
-
----
 # What’s a Better Thought?
 
 {i: Marriage Enrichment}
@@ -22,7 +19,7 @@ But otherwise, we had built something extraordinary together.
 
 And now I was beginning to be afraid I was going to lose him.
 
-{i: Last Christmas}
+{i: Christmas}
 ## What If This Is Our Last Christmas?
 
 It had begun in November 2015\.

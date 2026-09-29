@@ -1,4 +1,3 @@
-#=
 # Better Thoughts In The Morning
 
 I don't wake up happy.

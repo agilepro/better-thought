@@ -1,4 +1,3 @@
-
 # Negativity Bias{i: negativity bias}
 
 If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.

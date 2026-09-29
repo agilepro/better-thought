@@ -17,7 +17,7 @@ I have found these conversations enormously helpful. Having another person liste
 
 To learn more:
 
-• Melina Ponak{i:Melina}
+• Melina Ponak{i:Melina Ponak}
 • Reciprocal 1:1s
 • https://www.melinaponak.com
 
