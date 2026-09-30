@@ -299,9 +299,9 @@ The other keeps bringing me back to the same spot.
 
 I'm trying to learn to notice the difference.
 
-Joe Dispenza offers a wonderfully simple way of interrupting an unwanted pattern of thought. In his book Breaking the Habit of Being Yourself, he suggests that when we catch ourselves falling into a limiting thought, feeling, or behavior, we say the word “Change!” out loud.
+**Joe Dispenza** offers a wonderfully simple way of **interrupting an unwanted pattern of thought.** In his book Breaking the Habit of Being Yourself, he suggests that when we catch ourselves falling into a limiting thought, feeling, or behavior, we say the word “Change!” out loud.
 
-I like the idea of making the interruption definite enough for the brain to notice. “Change!” can stop the familiar train of thought for a moment. Then I can add my own question:
+I like the idea of making the interruption definite enough for the brain to notice. **"Change!**" can stop the familiar train of thought for a moment. Then I can add my own question:
 
 What’s a better thought?
 
