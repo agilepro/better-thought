@@ -26,6 +26,6 @@ That’s the moment when this question becomes powerful:
 
 That small question became a gentle guide, helping me turn my attention toward thoughts that brought comfort, strength, and even moments of happiness.
 
-In this book, I explore the kinds of thoughts that can lift us up, the skills that help us shift our thinking, the reasons why better thoughts matter, and the \\obstacles that sometimes get in the way.
+In this book, I explore the kinds of thoughts that can lift us up, the skills that help us shift our thinking, the reasons why better thoughts matter, and the obstacles that sometimes get in the way.
 
 My hope is that this little question--*What’s a better thought?*--might become a helpful companion for you as well.

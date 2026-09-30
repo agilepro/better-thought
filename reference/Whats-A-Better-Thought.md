@@ -3093,7 +3093,7 @@ Things like:
 
 These are not just positive statements.
 
-They are **Adult statements**—steady, capable, grounded in the present.
+They are **Adult statements**--steady, capable, grounded in the present.
 
 They remind my nervous system who is in charge.
 
