@@ -54,6 +54,8 @@ To learn more:
 • Empathy Circle Training: EmpathyCircleTraining.com
 • The Empathy Center: TheEmpathyCenter.org
 
+Joe Dispenza, Breaking the Habit of Being Yourself (Hay House, 2012), section “Redirecting: Play the Change Game.” 
+
  # Examples of Better Thought collated by ChatGPT{i:ChatGPT}
 
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
