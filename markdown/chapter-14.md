@@ -1,5 +1,5 @@
 
-# Better Thoughts Begin with Better Questions{i: better questions}
+# Better Thoughts Begin with Better Questions{i: better questions}{i: exercises}{i: practices}{i: action steps}
 
 Sometimes we try to think our way into feeling better by arguing with ourselves.
 
