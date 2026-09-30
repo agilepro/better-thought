@@ -4,7 +4,9 @@ My intention in writing this book is to share an idea that helped me move away f
 
 One of the most surprising discoveries of my life was realizing how much my thoughts were shaping the way I felt and what I did.
 
-When I talk about *a better thought*, I’m talking about gently moving away from worry, sadness, rumination, anxiety, anger, and self-criticism--and choosing thoughts that help me feel calmer, happier, and more at peace.
+When I talk about *a better thought*, I’m talking about gently moving away from worry, sadness, rumination, anxiety, anger, and self-criticism--and choosing thoughts that help me feel calmer, happier, and more at 
+
+A better thought can take many forms. It might be a memory of a wonderful time in your life, or of something you did that made you feel capable or proud. It might be a thought about something pleasant you could do today, a spiritual thought that gives you comfort or perspective, or a question that leads you toward something interesting, meaningful, playful, or inspiring. It might even be the beginning of a new memory you would like to make. A better thought does not have to be profound. It only has to help your mind move in a kinder, more hopeful, or more life-giving direction.
 
 **What would you rather be thinking?**
 
