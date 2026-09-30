@@ -3,7 +3,7 @@
 
 # Better Thought Resources 
 
- ## Melina Ponack: One-to-One Listening Conversations ##
+ ## Melina Ponak: One-to-One Listening Conversations ##{i: Melina Ponak}
 
 Throughout this book, I have written about the value of another mind beside our own—an adjacent brain that can help us hear ourselves, explore a problem, discover connections, and sometimes arrive at a better thought.
 
@@ -22,7 +22,7 @@ To learn more:
 • https://www.melinaponak.com
 
 
-## Jackie Kelm — Appreciative Living and Habit Breaker ##
+## Jackie Kelm — Appreciative Living and Habit Breaker ## {i:Jackie Kelm}
 
 Jackie Kelm’s work has been an important influence in my life and in the ideas behind this book. Through her book and classes on The Joy of Appreciative Living, I learned that I could acknowledge what was painful or difficult without letting it become the whole story. I could also look for what was hopeful, beautiful, loving, or useful and choose to live from that larger picture.
 
@@ -54,7 +54,7 @@ To learn more:
 • Empathy Circle Training: EmpathyCircleTraining.com
 • The Empathy Center: TheEmpathyCenter.org
 
-## Joe Dispenza, Breaking the Habit of Being Yourself (Hay House, 2012), section “Redirecting: Play the Change Game.” 
+## Joe Dispenza,{i: Joe Dispenza} Breaking the Habit of Being Yourself (Hay House, 2012), section “Redirecting: Play the Change Game.” 
 
  # Examples of Better Thought collated by ChatGPT{i:ChatGPT}
 
