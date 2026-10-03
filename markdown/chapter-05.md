@@ -1,6 +1,8 @@
 # Thinking About The Three Principles{i: three principles}
 
-If we are going to ask ourselves, “What’s a better thought?” it helps to understand just how important thought may be in creating our experience of life. The Three Principles offer one model for looking at this--one that places Thought at the very center of how we experience ourselves and the world around us.
+ Why are we talking about the Three Principles in a book called What’s a Better Thought? Because Thought is enormously important in the way we experience being alive. 
+What we think about something can affect how we feel about it, what we see in it, and what we do next. 
+The Three Principles offer a way of understanding just how powerful and ever-present Thought is in our lives. And that helps explain why finding a better thought can sometimes be one of the simplest ways to find a better feeling, a better perspective, and a little more peace and happiness.
 
 ## A Kinder Way of Understanding How We Experience Life{i: kinder}
 
