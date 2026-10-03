@@ -28,7 +28,7 @@ I would like to add that the negative bias leads us to more than protecting ours
 
 This does not go over well. 
 
-It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to respond enthusiastically about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet they seek to save me because their own brain thinks of possible problems. 
+It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to **respond enthusiastically** about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet **they seek to save me because their own brain thinks of possible problems.**
 
 Negativity Bias appears as worry{i:worry}and pessimism.{i: pessimism}
 
@@ -44,7 +44,7 @@ Many dreams{i:dreams} feature being late, lost, unprepared, or failing in some w
 
 We may wake up uneasy before a single conscious thought forms--the emotional residue still present. My morning thoughts are often grim and I wonder about those vaguely unsettling dreams.
 
-## Pause for a Moment
+## Pause for a Moment{i: exercises}{i: practices}{i: action steps}
 
 What has your mind been noticing today?
 
