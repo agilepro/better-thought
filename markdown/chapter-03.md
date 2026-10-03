@@ -283,7 +283,7 @@ Not:
 
 Those are very different questions.
 
-## My Morning Delights{i: morning delights}
+## My Morning Delights{i: delights}
 
 Eventually I do get up.
 
