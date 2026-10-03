@@ -103,21 +103,21 @@ What comforts me most in understanding all of this is something very gentle:
 **We are not broken.**  
 **We don’t need fixing.**
 
-**We are simply living inside the ever-changing flow of brain, consciousness, and thought.**
+We are simply living inside the ever-changing flow of brain, consciousness, and thought.
 
-**Sometimes we create storms in our own inner weather.**
+Sometimes we create storms in our own inner weather.
 
 **And sometimes we forget that the sky always clears.**
 
 *(Even when it takes a little while.)*
 
-**When we realize that our feelings are coming from the thoughts we’re having--not directly from the world--it becomes easier to be kind to ourselves.**
+When we realize that our feelings are coming from the thoughts we’re having--not directly from the world--it becomes easier to be kind to ourselves.
 
-**To pause.**  
-**To breathe.**  
-**To wait for the storm to pass.**
+To pause.
+To breathe.
+To wait for the storm to pass.
 
-**And often, all it takes is one small shift--**
+And often, all it takes is one small shift--
 
 **just one better thought--**
 
