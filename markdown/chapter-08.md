@@ -65,7 +65,7 @@ Unwanted advice.
 These experiences don’t mean I am failing at life.  
 They mean I am alive.
 
-When I get pulled away from my natural happiness, I don’t scold myself.  
+When I get pulled away from my natural happiness, I am trying not to scold myself anymore.  
 I don’t try to “fix” my feelings.  
 I simply recognize that something is asking for care.
 
@@ -82,7 +82,7 @@ Do I need to ask for help?
 Do I need to be understood -- or help someone else feel understood?
 
 Sometimes I return to happiness by resting.  
-Sometimes by crying.  
+Sometimes by crying or complaining awhile.
 Sometimes by accepting what is happening and walking through it with grace.  
 Sometimes by letting go of the story that is tightening my heart.
 
@@ -101,6 +101,7 @@ stay calm,
 don’t yell,  
 don’t spiral,  
 accept what is,  
+resond, don't react.
 get through this moment.
 
 These are not replacements for happiness.  
@@ -124,6 +125,7 @@ I listen to what others say about being.
 I talk with others about what being means to them.  
 I keep learning.  
 And I keep returning.
+I keep starting over again.
 
 ## Why This Choice Changes Everything
 
