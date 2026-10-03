@@ -3,9 +3,13 @@
 If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
 
 
-You may know about the negative bias. Rick Hansen{i:RickHanson} talks about our survival instinct,{i:survival instinct} that our brains are looking for danger and protecting us. Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   
+You may know about the negative bias. Rick Hansen{i:RickHanson} talks about our survival instinct,{i:survival instinct} that our brains are looking for danger and protecting us. 
 
-Psychologists call this tendency **negativity bias**--our brain’s built-in habit of noticing, reacting to, and remembering negative experiences more strongly than positive ones.   Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
+Rick Hanson says that our brains are Teflon for good things and Velcro for anything that looks threatening.   
+
+Psychologists call this tendency **negativity bias**--our brain’s built-in habit of noticing, reacting to, and remembering negative experiences more strongly than positive ones.   
+
+Negative thoughts feel heavier, sharper, and more convincing than positive ones. They arrive quickly, cling stubbornly, and often feel like the truth itself.
 
 Positive thoughts, by contrast, can seem light, fragile, and easy to lose.  
 *(They don’t always know how to make a grand entrance.)*
@@ -20,7 +24,11 @@ The way it works is that when we decide we’re going to go to that party we’v
 
 These thoughts come so quickly that we’re not even aware of all of them or forget some of them instantly. 
 
-When we have one thought, other related  ideas come quickly to join them.{i: companion thoughts} I believe this is how premonitions are born.{i: premonitions} If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! And we say, “I had a premonition that that might happen.” This only fuels the false belief that we have power to predict.
+When we have one thought, other related  ideas come quickly to join them.{i: companion thoughts} 
+
+I believe this is how **premonitions** are born.{i: premonitions} If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! And we say, “I had a premonition that that might happen.” 
+
+This only fuels the false belief that we have power to predict.
 
 ## We play “Watch Out” with our friends{i: watch out}
 
