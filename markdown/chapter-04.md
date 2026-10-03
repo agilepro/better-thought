@@ -16,11 +16,19 @@ It is the human brain at work helping you survive. Thank your brain and think up
 
 ## Negativity Bias Shows Up in Everyday Life{i: negativity bias}
 
-The way it works is that when we decide we’re going to go to that party we’ve been invited to, our brains not only think of the good things about the party, but they also worry about many things, like what to wear, and will we be accepted, and will it be any fun at all or is there something else planned for that time. These thoughts come so quickly that we’re not even aware of all of them or forget some of them instantly. When we have one thought, other related  ideas come quickly to join them. I believe this is how premonitions are born. If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! And we say, “I had a premonition that that might happen.” This only fuels the false belief that we have power to predict.
+The way it works is that when we decide we’re going to go to that party we’ve been invited to, our brains not only think of the good things about the party, but they also worry about many things, like what to wear, and will we be accepted, and will it be any fun at all or is there something else planned for that time. 
+
+These thoughts come so quickly that we’re not even aware of all of them or forget some of them instantly. 
+
+When we have one thought, other related  ideas come quickly to join them.{i: companion thoughts} I believe this is how premonitions are born.{i: premonitions} If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! And we say, “I had a premonition that that might happen.” This only fuels the false belief that we have power to predict.
 
 ## We play “Watch Out” with our friends{i: watch out}
 
-I would like to add that the negative bias leads us to more than protecting ourselves. We also want to protect our loved ones and friends. When they begin talking about some new venture or an exciting event, we unknowingly scan for the danger in that and warn them to be cautious. This does not go over well. It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to respond enthusiastically about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet they seek to save me because their own brain thinks of possible problems. 
+I would like to add that the negative bias leads us to more than protecting ourselves. We also want to protect our loved ones and friends. When they begin talking about some new venture or an exciting event, we unknowingly scan for the danger in that and warn them to be cautious. 
+
+This does not go over well. 
+
+It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to respond enthusiastically about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet they seek to save me because their own brain thinks of possible problems. 
 
 Negativity Bias appears as worry{i:worry}and pessimism.{i: pessimism}
 
