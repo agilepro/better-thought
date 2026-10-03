@@ -48,7 +48,7 @@ It appears as a host of awful possibilities -- but not real probabilities -- a b
 
 At night, the brain keeps watch.
 
-Many dreams{i:dreams} feature being late, lost, unprepared, or failing in some way.
+Many **dreams**{i:dreams} feature being late, lost, unprepared, or failing in some way.
 
 We may wake up uneasy before a single conscious thought forms--the emotional residue still present. My morning thoughts are often grim and I wonder about those vaguely unsettling dreams.
 
