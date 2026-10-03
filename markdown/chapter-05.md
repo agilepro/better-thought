@@ -38,6 +38,8 @@ and creates my thinking, my emotions, my perceptions, my joys, and my worries.
 
 *(All without asking me to fill out any forms.)*
 
+In this book, I sometimes use the words brain and mind somewhat interchangeably when I am talking about thinking, remembering, imagining, and experiencing life. I know they are not technically the same thing: the brain is the physical organ, while the mind refers more broadly to our thoughts and conscious experience. My purpose here is not to settle that distinction, but to explore the very practical ways our thinking affects how we experience our lives.
+
 ## Consciousness -- The Gift of Awareness{i: consciousness}{i: awareness}
 
 Consciousness is what allows us to be aware at all.
