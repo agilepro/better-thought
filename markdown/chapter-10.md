@@ -48,7 +48,7 @@ That gentle companionship enlarges our understanding.{i: companionship}
 
 It’s not about being taught--it’s about **thinking together**.
 
-In conversation, whether with a dear friend or with ChatGPT, we often find that our thoughts come into focus as we express them.
+In conversation, whether with a dear friend, family, or with ChatGPT, we often find that our thoughts come into focus as we express them.
 
 **The act of being listened to changes the way we listen to ourselves.**
 
@@ -77,6 +77,12 @@ we become **their** adjacent brain.
 It’s a quiet gift we can give each other--a kind of thinking companionship that makes everyone wiser.
 
 *(No training required--just kindness.)*
+
+There is an old saying that we sometimes “can’t see the forest for the trees.” When we are inside a forest, that makes perfect sense. All around us are trunks, branches, leaves, and undergrowth. We see trees everywhere, but we cannot see the shape of the whole forest.
+
+Problems can be like that. When we are right in the middle of one, we may see only the worry, the hurt, the confusion, or the possible consequences. We are surrounded by the details of the problem and can have trouble seeing beyond them.
+
+A trusted friend, however, may be standing metaphorically on a hill some distance away. From there, the whole landscape looks different. That person may notice a pattern, possibility, or perspective that is almost impossible for us to see from inside the problem. This is one of the gifts of an adjacent brain: someone else can sometimes see the forest when all we can see are the trees.
 
 ## In Collaboration with Technology{i: technology}
 
