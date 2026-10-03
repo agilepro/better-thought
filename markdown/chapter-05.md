@@ -149,6 +149,8 @@ I’ve also begun to notice something important:
 **They can soften.**  
 **They can change.**
 
+Chapter 6 takes a closer look at Beliefs.
+
 ## A Quiet Ending Thought
 
 You don’t have to understand all of this perfectly.
