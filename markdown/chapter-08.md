@@ -3,7 +3,7 @@
 For a long time, I thought happiness was something that happened *after* I got things done, fixed things, solved things, achieved things, and figured things out.  
 Now I see it very differently.
 
-My main intention in life is simply this:
+My main intention in life and my reason to change thoughts is simply this:
 
 **To BE HAPPY.**
 
