@@ -123,6 +123,12 @@ What comforts me most in understanding all of this is something very gentle:
 
 **to change everything.**
 
+Throughout this book, I emphasize the powerful relationship between thought and emotion. I believe that the meaning we give to what happens—our interpretations, expectations, memories, and thoughts—plays an enormous part in what we feel.
+
+Emotions can sometimes seem to arise before we are aware of having a thought at all. Our brains and bodies make very rapid assessments of what is happening, often outside our conscious awareness. So when I speak of Thought coming before feeling, I am using the word broadly to include these quick interpretations and meanings as well as the conscious thoughts we can actually hear ourselves thinking.
+
+My purpose is not to claim that every emotion begins with a clearly identifiable sentence in the mind. It is to explore something very practical: when we become aware of what we are thinking and find a different way to understand what is happening, our emotional experience can change too. That possibility is at the heart of What’s a Better Thought?
+
 ## A Gentle Noticing About Beliefs{i:belief}
 
 I’ve also begun to notice something important:
