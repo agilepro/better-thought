@@ -5,9 +5,9 @@ I believe that my thoughts come from different "parts" of me. It can be helpful 
 There are many ways of thinking about our inner selves, but the model that has been most useful to me is Parent, Adult, and Child from Transactional Analysis. It helps me sort out what is happening inside me, where my thoughts are coming from and consider what thoughts might be most helpful.{i:Transactional Analysis}
 
 
-## Meeting Your Inner Parent, Adult, and Child
+## Meeting Your Inner Parent, Adult, and Child{i: parts}{i: personality}
 
-One of the ideas about our inner life comes from **Transactional Analysis**:
+One of the ideas about our inner life comes from **Transactional Analysis**:{i: transactional analysis} {i: TA}
 
 We have more than one “voice” inside us.
 
@@ -47,7 +47,7 @@ But when the Critical Parent inside us runs the show…
 
 **Better Thoughts tend to disappear rather quickly.**
 
-## The Child{i: child, inner}{i: inner!child}
+## The Child{i: child, inner}{i: inner!child}{i: emotions}
 
 The Child is the emotional part of us.
 
@@ -74,7 +74,7 @@ The Adult is the steady, present, thoughtful part of us.
 
 The Adult:
 
-* thinks clearly, calmly  
+* thinks clearly, calmly, rationally, logically
 * makes choices  
 * responds to what is actually happening now  
 * looks for facts and possibilities  
