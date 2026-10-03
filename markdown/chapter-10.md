@@ -78,7 +78,7 @@ It’s a quiet gift we can give each other--a kind of thinking companionship tha
 
 *(No training required--just kindness.)*
 
-There is an old saying that we sometimes “can’t see the forest for the trees.” When we are inside a forest, that makes perfect sense. All around us are trunks, branches, leaves, and undergrowth. We see trees everywhere, but we cannot see the shape of the whole forest.
+There is an old saying that we sometimes “can’t see the forest for the trees.”{i: forest}{i:trees} When we are inside a forest, that makes perfect sense. All around us are trunks, branches, leaves, and undergrowth. We see trees everywhere, but we cannot see the shape of the whole forest.
 
 Problems can be like that. When we are right in the middle of one, we may see only the worry, the hurt, the confusion, or the possible consequences. We are surrounded by the details of the problem and can have trouble seeing beyond them.
 
