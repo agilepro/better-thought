@@ -28,7 +28,7 @@ And--for my own understanding, and for the sake of being grounded and practical-
 
 **The Brain, Consciousness, and Thought are working together to create our entire human experience.**
 
-## Brain{i: brain}
+## Brain{i: brain}{i: mind}
 
 **For me, the brain is where the miracle of human experience shows up in everyday life.**
 
