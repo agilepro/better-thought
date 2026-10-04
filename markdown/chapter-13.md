@@ -144,7 +144,7 @@ Not in any dramatic way.
 Not because I suddenly stop caring.  
 Just quietly, almost without noticing.
 
-I might start watching something that leaves me feeling heavy instead of peaceful.  
+I might start watching some television program that leaves me feeling heavy instead of peaceful.  
 I might eat in a way that doesn’t really nourish me.  
 I might distract myself instead of listening to my heart.
 
