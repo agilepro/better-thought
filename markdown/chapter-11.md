@@ -40,7 +40,7 @@ But those moments are rare and cannot be scheduled.
 
 *(Airlines have not yet figured out how to guarantee this.)*
 
-Most of the time, my friend and I choose a day, choose a time, and put it on the calendar.
+Most of the time, my friend and I choose a day, choose a time, and put it on the calendar before we say good by in our current visit.
 
 Sometimes one of us even arrives with a topic we want to explore:
 
