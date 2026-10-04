@@ -123,7 +123,7 @@ And I keep noticing this:
 
 Of, course you can have different views. Listening first and understanding is essential before stating an opposing viewpoint. 
 
-Sometimes you can wait for anothe occasion to state your opinion.
+Sometimes you can wait for another occasion to state your opinion.
 
 I prefer the gentle wisdom of improvisation:{i:connection,building}
 
