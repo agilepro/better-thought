@@ -134,7 +134,7 @@ Building together.
 Allowing the flow.  
 Being agreeable.
 
-Empathy, active listening, and validation keep conversation alive.
+Empathy, active listening, and validation keep conversation alive.{i: active listening}{i: empathy}
 
 ## What I Know for Sure
 
