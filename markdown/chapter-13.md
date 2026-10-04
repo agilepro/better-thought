@@ -1,4 +1,4 @@
-
+=
 # Spirituality{i: spirituality}
 
 ## Turning to God First{i: god first}
@@ -310,7 +310,7 @@ Sometimes I even ask another question:
 When I ask that, ideas begin to show up.
 
 **A better thought:**  
-Love and goodness may be everywhere, but I see them more easily when I go looking for them.
+Love and goodness may be everywhere, but I see them more easily when I go looking for them. Intentionally setting my timer for 16 minutes gives me a reminder.
 
 **A question for you:**  
 If you looked around right now with the intention of seeing love and goodness, what might you notice?{i:practices}{i:exercises}{i:action steps}
