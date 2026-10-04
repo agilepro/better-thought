@@ -117,7 +117,7 @@ I carry many questions about good conversation:
 
 And I keep noticing this:
 
-##Disagreement often disables connection.{i: disagreement}
+## Disagreement often disables connection.{i: disagreement}
 
 **Things like unaskedfor advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.**{i:connection,barriers to} 
 
