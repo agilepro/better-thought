@@ -92,7 +92,7 @@ ChatGPT, for me, has become a thinking partner that helps organize, clarify, and
 
 It active listens with empathy and adds sequence, shape, and sometimes even a little sparkle to what I already know inside.
 
-*(Occasionally a surprising sparkle.)*
+*(Occasionally a surprising sparkle. Especially when I ask for a better thought for myself!.)*
 
 But the heart of it is still mine.
 
