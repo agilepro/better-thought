@@ -127,7 +127,7 @@ Sometimes you can wait for another occasion to state your opinion.
 
 I prefer the gentle wisdom of improvisation:{i:connection,building}
 
-**“Yes, and…”**
+**“Yes, and…”** rather than "Yes, but..."
 
 Going along.  
 Building together.  
