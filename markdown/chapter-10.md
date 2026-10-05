@@ -82,9 +82,15 @@ There is an old saying that we sometimes “can’t see the forest for the trees
 
 Problems can be like that. When we are right in the middle of one, we may see only the worry, the hurt, the confusion, or the possible consequences. We are surrounded by the details of the problem and can have trouble seeing beyond them.
 
-A trusted friend, however, may be standing metaphorically on a hill some distance away. From there, the whole landscape looks different. That person may notice a pattern, possibility, or perspective that is almost impossible for us to see from inside the problem. This is one of the gifts of an adjacent brain: someone else can sometimes see the forest when all we can see are the trees.
+A trusted friend, however, may be standing metaphorically on a hill some distance away. From there, the whole landscape looks different. That person may notice a pattern, possibility, or perspective that is almost impossible for us to see from inside the problem. 
 
-Cassandra O’Neill{i:Cassandra O'Neill}has become an important adjacent brain in my life. She is a partner in our Monday Empathy Circle, my partner in the Happiness Group, and a coach to me personally. Cassandra has taught me a great deal about how to be with someone who is struggling without taking on that person’s problem or getting pulled into the drama of it. Her great gift is listening—staying present, caring deeply, and allowing another person to have their own experience without trying to fix it, carry it, or make it her own. From her I have learned that sometimes the most helpful thing an adjacent brain can offer is not an answer at all, but a calm, compassionate presence that helps us hear ourselves more clearly.
+This is one of the gifts of an adjacent brain: someone else can sometimes see the forest when all we can see are the trees.
+
+Cassandra O’Neill{i:Cassandra O'Neill}has become an important adjacent brain in my life. She is a partner in our Monday Empathy Circle, my partner in the Happiness Group, and a coach to me personally. 
+
+Cassandra has taught me a great deal about how to be with someone who is struggling without taking on that person’s problem or getting pulled into the drama of it. 
+
+Her great gift is listening—staying present, caring deeply, and allowing another person to have their own experience without trying to fix it, carry it, or make it her own. From her I have learned that sometimes the most helpful thing an adjacent brain can offer is not an answer at all, but a calm, compassionate presence that helps us hear ourselves more clearly.
 
 ## In Collaboration with Technology{i: technology}
 
@@ -106,7 +112,11 @@ The adjacent brain helps them blossom.
 
 An adjacent brain works especially well in a good one-to-one conversation.
 
-Melina Ponak has helped me appreciate a particular kind of conversation in which two people deliberately make time for one another. Melina calls it Reciprocal 1:1s. During an hour together, each person has a certain amount of uninterrupted time and can say what kind of listening would be most helpful.
+Melina Ponak has helped me appreciate a particular kind of conversation in which two people deliberately make time for one another. 
+
+Melina calls it Reciprocal 1:1s. 
+
+During an hour together, each person has a certain amount of uninterrupted time and can say what kind of listening would be most helpful.
 
 Sometimes I may simply want you to listen while I think out loud. I may want an occasional “um-hmm” so I know you are with me. I may want active listening—hearing my thoughts reflected back so I can hear them more clearly myself. I may want questions that help me explore. At another time, I may actually want ideas or help solving a problem.
 
@@ -132,7 +142,11 @@ Two minds, side by side, can sometimes see more than either one could see alone.
 
  ## Empathy Circles as an Adjacent Brain ##{i: empathy circles}{i: Edwin Rutsch}
 
-Another way I have experienced an adjacent brain is through Empathy Circles, a practice developed by Edwin Rutsch. People gather in person or online and take turns speaking and listening. One person speaks while another listens actively and reflects back what has been heard. The speaker usually talks in short pieces, pausing after a sentence or an idea so the listener can reflect it before the speaker continues.
+Another way I have experienced an adjacent brain is through Empathy Circles, a practice developed by Edwin Rutsch. 
+
+People gather in person or online and take turns speaking and listening. One person speaks while another listens actively and reflects back what has been heard. 
+
+The speaker usually talks in short pieces, pausing after a sentence or an idea so the listener can reflect it before the speaker continues.
 
 I have found that something very interesting happens when my thoughts are reflected back to me this way. I hear my own thinking more clearly. I may realize that what I have said is exactly what I mean—or discover that it isn’t quite what I mean at all. I may change a thought, expand it, find a new connection, or become clearer and more authentic about what I really believe.
 
