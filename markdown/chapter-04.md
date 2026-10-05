@@ -127,7 +127,11 @@ Suddenly, I am no longer dealing with the original thought, *I’m tired today.*
 
 The first thought has acquired companions.
 
-Our brains are wonderful connecting machines. One idea brings up another memory, prediction, fear, judgment, comparison, or imagined consequence. The connections can happen so quickly that we may not even notice them. We simply discover that our mood has changed and we are going downhill.
+Our brains are wonderful connecting machines. One idea brings up another memory, prediction, fear, judgment, comparison, or imagined consequence. 
+
+The connections can happen so quickly that we may not even notice them. 
+
+We simply discover that our mood has changed and we are going downhill.
 
 That is why it may be misleading to say, “Oh, I just had one bad thought.”
 
@@ -175,7 +179,9 @@ This may be something worth remembering: **thoughts have companions.**
 
 When the companions are delightful, welcome them. Elaborate. Enjoy them. Let one happy thought lead to another and another.
 
-And when the companions are taking you down a dark road, notice them. They are not necessarily truths. They may simply be associations--thoughts joining thoughts because that is what brains do.
+And when the companions are taking you down a dark road, notice them. They are not necessarily truths. 
+
+They may simply be associations--thoughts joining thoughts because that is what brains do.
 
 Then we have a choice.
 
@@ -183,9 +189,15 @@ We can ask which thoughts we want to invite to stay.
 
 ## Negativity Bias Sounds Like An Accusation
 
-One more admonition about negative bias. When I tell people that we all have a negative bias often the person doesn’t think of ‘we all’, they believe I’m saying that *they* are negative. Somehow, as soon as you use the word negative the person gets stuck on that and it becomes an insult. They get defensive.
+One more admonition about negative bias. When I tell people that we all have a negative bias often the person doesn’t think of ‘we all’, they believe I’m saying that *they* are negative. 
 
-I think we need to rename the negative bias. Give it a new name, something like SAFETY TILT or PROTECTIVE INSTINCT or something that makes it sound like you are doing a positive thing for the sake of your health and well-being when being concerned about unintended consequences. The survival instinct called Safety Tilt makes you a discerning, thoughtful, careful person who makes wonderful decisions. If I have built-in Protective Instinct I become a model for avoiding problems and potential negative consequences. Doesn’t that sound much better than Negative Bias? 
+Somehow, as soon as you use the word negative the person gets stuck on that and it becomes an insult. They get defensive.
+
+I think we need to rename the negative bias. Give it a new name, something like SAFETY TILT or PROTECTIVE INSTINCT or something that makes it sound like you are doing a positive thing for the sake of your health and well-being when being concerned about unintended consequences. 
+
+The survival instinct called Safety Tilt makes you a discerning, thoughtful, careful person who makes wonderful decisions. 
+
+If I have built-in Protective Instinct I become a model for avoiding problems and potential negative consequences. Doesn’t that sound much better than Negative Bias? 
 
 **My mind naturally leans toward noticing what could threaten me. I can appreciate that--and still choose where to place my attention.**
 
