@@ -93,13 +93,17 @@ I will look for one.
 And when I find it,  
 I will let it change me.
 
+In closing....
+
 Life can be beautiful and horrible at the same time. 
 Good things and painful things do not fall evenly among us, or even evenly across one person’s lifetime. 
 
 Sometimes we stand on a sunny hill seeing forests and meadows and can hardly believe our good fortune. 
 Sometimes we are so deep among the dark trees that they seem to be all there is.
 
-Perhaps that is one reason to ask, What’s a better thought? A better thought does not require us to deny what is painful or pretend that life is fair. 
+Perhaps that is one reason to ask, What’s a better thought? 
+
+A better thought does not require us to deny what is painful or be angry that life is unfair. 
 
 It may simply help us step back far enough to see the whole forest again. 
 
