@@ -84,6 +84,8 @@ Problems can be like that. When we are right in the middle of one, we may see on
 
 A trusted friend, however, may be standing metaphorically on a hill some distance away. From there, the whole landscape looks different. That person may notice a pattern, possibility, or perspective that is almost impossible for us to see from inside the problem. This is one of the gifts of an adjacent brain: someone else can sometimes see the forest when all we can see are the trees.
 
+Cassandra O’Neill{i:Cassandra O'Neill}has become an important adjacent brain in my life. She is a partner in our Monday Empathy Circle, my partner in the Happiness Group, and a coach to me personally. Cassandra has taught me a great deal about how to be with someone who is struggling without taking on that person’s problem or getting pulled into the drama of it. Her great gift is listening—staying present, caring deeply, and allowing another person to have their own experience without trying to fix it, carry it, or make it her own. From her I have learned that sometimes the most helpful thing an adjacent brain can offer is not an answer at all, but a calm, compassionate presence that helps us hear ourselves more clearly.
+
 ## In Collaboration with Technology{i: technology}
 
 It turns out a digital adjacent brain can play that role too--if we bring curiosity and kindness to it.
