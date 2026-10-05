@@ -111,3 +111,6 @@ The painful thing is still there, but it is not all that is there.
 
 There is also love, goodness, kindness, hope and possibility. 
 Sometimes changing our thought is simply changing where we are looking.
+
+The End...of thoughts running the show.
+    The Beginning...of learning to lead them.
