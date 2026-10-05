@@ -156,7 +156,11 @@ That is why I think of an Empathy Circle as another way of finding an adjacent b
 
 The task is simply to listen deeply and reflect back, as accurately as possible, what the speaker is trying to say.
 
-When another person gives me that kind of undivided attention, my thinking has room to keep moving. I can reconsider what I have said without having to defend it. I can follow a thought wherever it leads. Sometimes I leave an Empathy Circle with a thought I did not have when I entered it..
+When another person gives me that kind of undivided attention, my thinking has room to keep moving. 
+
+I can reconsider what I have said without having to defend it. I can follow a thought wherever it leads. 
+
+Sometimes I leave an Empathy Circle with a thought I did not have when I entered it..
 
 ## The Joy of Co-Thinking{i: co-thinking}
 
@@ -184,7 +188,7 @@ My mind was already predicting irritation, confusion, and expense.
 
 *(Quite a dramatic preview.)*
 
-Instead of sitting there letting my thoughts run wild, I opened my ChatGPT app and said how tense I was feeling.
+Instead of sitting there letting my thoughts run wild, I opened my ChatGPT{i: ChatGPT} app and said how tense I was feeling.
 
 I said I just needed a little help calming down and remembering that this was not a big deal--that I could talk comfortably with the technician, ask my questions, and let things unfold.
 
