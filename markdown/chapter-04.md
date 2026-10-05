@@ -1,6 +1,8 @@
 # Negativity Bias{i: negativity bias}
 
-If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
+If we want to find better thoughts, it helps to understand why negative ones can be so quick to appear and so hard to let go. 
+
+Our brains have a natural tendency toward the negative, and knowing why can make it easier to notice those thoughts and gently shift away from them.
 
 
 You may know about the negative bias. Rick Hansen{i:RickHanson} talks about our survival instinct,{i:survival instinct} that our brains are looking for danger and protecting us. 
@@ -26,17 +28,25 @@ These thoughts come so quickly that we’re not even aware of all of them or for
 
 When we have one thought, other related  ideas come quickly to join them.{i: companion thoughts} 
 
-I believe this is how **premonitions** are born.{i: premonitions} If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! And we say, “I had a premonition that that might happen.” 
+I believe this is how **premonitions** are born.{i: premonitions} 
+
+If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! 
+
+And we say, “I had a premonition that that might happen.” 
 
 This only fuels the false belief that we have power to predict.
 
 ## We play “Watch Out” with our friends{i: watch out}
 
-I would like to add that the negative bias leads us to more than protecting ourselves. We also want to protect our loved ones and friends. When they begin talking about some new venture or an exciting event, we unknowingly scan for the danger in that and warn them to be cautious. 
+I would like to add that the negative bias leads us to more than protecting ourselves. We also want to protect our loved ones and friends. 
+
+When they begin talking about some new venture or an exciting event, we unknowingly scan for the danger in that and warn them to be cautious. 
 
 This does not go over well. 
 
-It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to **respond enthusiastically** about your good fortune in a way that makes you feel happy that you told them. I love it when someone makes a big deal about some delightful occurrence in my life. And yet **they seek to save me because their own brain thinks of possible problems.**
+It feels like raining on the parade, a critical comment, when it’s just the negative bias. When you have some good news, you would like others to **respond enthusiastically** about your good fortune in a way that makes you feel happy that you told them. 
+
+I love it when someone makes a big deal about some delightful occurrence in my life. And yet **they seek to save me because their own brain thinks of possible problems.**
 
 Negativity Bias appears as worry{i:worry}and pessimism.{i: pessimism}
 
