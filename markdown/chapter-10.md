@@ -62,7 +62,7 @@ In conversation, whether with a dear friend, family, or with ChatGPT, we often f
 
 When we talk to another person, and they truly listen -- **reflecting our thoughts and feelings, not correcting, not criticizing, not minimizing, 
 not rushing to advise** --
-they lend us their calm brain while ours may be swirling.
+they lend us their calm brain while ours may be swirling.{i: active listening}
 
 *(A very generous loan.)*
 
