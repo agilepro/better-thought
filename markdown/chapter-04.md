@@ -95,7 +95,7 @@ We can help that happen. We can stay with the pleasure of the conversation inste
 
 We can elaborate on delight.
 
-And perhaps that is one of the ways happiness is created--not by having one magnificent happy thought, but by allowing a **myriad** of pleasant thoughts to gather around something good.{i: myriad of thoughts}
+And perhaps that is one of the ways happiness is created--not by having one magnificent happy thought, but by allowing pleasant thoughts to gather around something good.
 
 Unfortunately, the same thing happens with negative thoughts.
 
