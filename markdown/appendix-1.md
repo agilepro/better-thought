@@ -19,7 +19,7 @@ To learn more:
 
 • Melina Ponak{i:Melina Ponak}
 • Reciprocal 1:1s
-• https://www.melinaponak.com
+• [https://www.melinaponak.com](https://www.melinaponak.com)
 
 
 ## Jackie Kelm — Appreciative Living and Habit Breaker ## {i:Jackie Kelm}
@@ -36,7 +36,7 @@ Website: https://www.AppreciativeLiving.com 
 
 LinkedIn: https://www.linkedin.com/in/jackie-kelm/  
 
- ## Empathy Circles ##{i: empathy circles}
+ ## Empathy Circles ##{i: empathy circle}
 
 Empathy Circles offer another structured way to experience the power of being deeply heard.
 

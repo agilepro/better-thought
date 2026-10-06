@@ -140,7 +140,7 @@ Perhaps that is one of the great gifts we can give another person: not our answe
 
 Two minds, side by side, can sometimes see more than either one could see alone.
 
- ## Empathy Circles as an Adjacent Brain ##{i: empathy circles}{i: Edwin Rutsch}{i: active listening}
+ ## Empathy Circles as an Adjacent Brain ##{i: empathy circle}{i: Edwin Rutsch}{i: active listening}
 
 Another way I have experienced an adjacent brain is through Empathy Circles, a practice developed by Edwin Rutsch. 
 

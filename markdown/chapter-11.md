@@ -119,13 +119,13 @@ And I keep noticing this:
 
 ## Disagreement often disables connection.{i: disagreement}
 
-**Things like unaskedfor advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.**{i:connection,barriers to} 
+**Things like unaskedfor advice, correction, criticism, teasing, opposing views, arguments--can quietly shut the door on connection.**{i:connection!barriers to} 
 
 Of, course you can have different views. Listening first and understanding is essential before stating an opposing viewpoint. 
 
 Sometimes you can wait for another occasion to state your opinion.
 
-I prefer the gentle wisdom of improvisation:{i:connection,building}
+I prefer the gentle wisdom of improvisation:{i:connection!building}
 
 **“Yes, and…”** rather than "Yes, but..."
 
