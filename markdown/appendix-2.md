@@ -1,4 +1,3 @@
-#
 # A Better Thought
 
 A better thought  

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  5 OCT 2026 20:22
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  5 OCT 2026 20:43
 entering extended mode
 **./better-thought.tex
 (better-thought.tex
@@ -1275,22 +1275,22 @@ Overfull \hbox (1.09497pt too wide) detected at line 145
 
 
 Overfull \hbox (1.09497pt too wide) detected at line 153
- []\TU/lmss/bx/n/10.95 145
+ []\TU/lmss/bx/n/10.95 143
  []
 
 
 Overfull \hbox (1.09497pt too wide) detected at line 154
- []\TU/lmss/bx/n/10.95 151
+ []\TU/lmss/bx/n/10.95 147
  []
 
 [9]
 Overfull \hbox (1.09497pt too wide) detected at line 159
- []\TU/lmss/bx/n/10.95 155
+ []\TU/lmss/bx/n/10.95 151
  []
 
 
 Overfull \hbox (1.09497pt too wide) detected at line 167
- []\TU/lmss/bx/n/10.95 161
+ []\TU/lmss/bx/n/10.95 157
  []
 
 )
@@ -1462,7 +1462,7 @@ lly when it
 ) (chapters/16-chapter-13.tex [126]
 chapter 13.
 
-Underfull \hbox (badness 3333) in paragraph at lines 24--25
+Underfull \hbox (badness 3333) in paragraph at lines 22--23
 \TU/PalatinoLinotype(0)/m/n/10.95 helping people communicate—through parent eff
 ectiveness
  []
@@ -1471,13 +1471,13 @@ ectiveness
 
 
 ] [128] [129] [130] [131]
-Underfull \hbox (badness 1057) in paragraph at lines 172--175
+Underfull \hbox (badness 1057) in paragraph at lines 170--173
 \TU/PalatinoLinotype(0)/m/n/10.95 There are days when I am tired, lonely, worri
 ed, or over-
  []
 
 [132]
-Underfull \hbox (badness 1430) in paragraph at lines 229--230
+Underfull \hbox (badness 1430) in paragraph at lines 227--228
 []\TU/PalatinoLinotype(0)/m/n/10.95 And relationships grow through forgiveness,
  patience, and
  []
@@ -1498,38 +1498,17 @@ h, patiently
 
 ]
 chapter 15.
-[143] [144
-
-
-]
-chapter 16.
-[145] [146] [147]) (chapters/19-appendix-1.tex [148]
+[143] [144] [145]) (chapters/19-appendix-1.tex [146]
 chapter A.
-[149
+[147
 
 
-] [150
-
-
-]
+] [148] [149] [150]
 chapter B.
-[151] [152]
-Overfull \hbox (5.90593pt too wide) in paragraph at lines 56--59
-\TU/PalatinoLinotype(0)/m/n/10.95 ing: EmpathyCircleTraining.com • The Empathy 
-Center: TheEm-
- []
-
-[153] [154]
-chapter C.
-[155
+[151
 
 
-] [156] [157] [158])
-LaTeX Font Info:    Font shape `TU/PalatinoLinotype(0)/bx/sl' in size <10.95> n
-ot available
-(Font)              Font shape `TU/PalatinoLinotype(0)/bx/it' tried instead on 
-input line 105.
- [159] [160
+] [152] [153] [154]) [155] [156
 
 
 ] (better-thought.ind
@@ -1537,7 +1516,7 @@ Underfull \hbox (badness 1038) in paragraph at lines 8--13
 []\TU/PalatinoLinotype(0)/m/n/10.95 113[], []118[], []126[], []135[],
  []
 
-[161
+[157
 
 
 
@@ -1560,12 +1539,12 @@ Underfull \hbox (badness 1038) in paragraph at lines 159--164
 []\TU/PalatinoLinotype(0)/m/n/10.95 113[], []118[], []126[], []135[],
  []
 
-[162]
+[158]
 Underfull \hbox (badness 6859) in paragraph at lines 199--200
 []\TU/PalatinoLinotype(0)/m/n/10.95 transactional analysis, []95[],
  []
 
-[163
+[159
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
@@ -1578,12 +1557,12 @@ Package rerunfilecheck Info: File `better-thought.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
  ) 
 Here is how much of TeX's memory you used:
- 34157 strings out of 427243
- 683089 string characters out of 3141512
+ 34153 strings out of 427243
+ 682903 string characters out of 3141512
  898004 words of memory out of 3000000
- 38200 multiletter control sequences out of 15000+200000
- 536662 words of font info for 76 fonts, out of 3000000 for 9000
+ 38198 multiletter control sequences out of 15000+200000
+ 536654 words of font info for 75 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  66i,9n,99p,10093b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on better-thought.pdf (179 pages).
+Output written on better-thought.pdf (175 pages).

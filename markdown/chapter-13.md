@@ -1,4 +1,3 @@
-#=
 # Spirituality{i: spirituality}
 
 ## Turning to God First{i: god first}

@@ -1,9 +1,6 @@
-#
- 
-
 # Better Thought Resources 
 
- ## Melina Ponak: One-to-One Listening Conversations ##{i: Melina Ponak}
+## Melina Ponak: One-to-One Listening Conversations{i: Melina Ponak}
 
 Throughout this book, I have written about the value of another mind beside our own—an adjacent brain that can help us hear ourselves, explore a problem, discover connections, and sometimes arrive at a better thought.
 
@@ -17,12 +14,12 @@ I have found these conversations enormously helpful. Having another person liste
 
 To learn more:
 
-• Melina Ponak{i:Melina Ponak}
-• Reciprocal 1:1s
-• [https://www.melinaponak.com](https://www.melinaponak.com)
+- Melina Ponak{i:Melina Ponak}
+- Reciprocal 1:1s
+- https://www.melinaponak.com
 
 
-## Jackie Kelm — Appreciative Living and Habit Breaker ## {i:Jackie Kelm}
+## Jackie Kelm — Appreciative Living and Habit Breaker{i:Jackie Kelm}
 
 Jackie Kelm’s work has been an important influence in my life and in the ideas behind this book. Through her book and classes on The Joy of Appreciative Living, I learned that I could acknowledge what was painful or difficult without letting it become the whole story. I could also look for what was hopeful, beautiful, loving, or useful and choose to live from that larger picture.
 
@@ -32,11 +29,11 @@ Perhaps most importantly, Jackie’s work has helped me lighten some of the unne
 
 Readers who would like to explore Jackie Kelm’s work further can look for her book The Joy of Appreciative Living and learn more about her work with Appreciative Living, Rapid Change, and the Habit Breaker through her classes and other resources.
 
-Website: https://www.AppreciativeLiving.com 
+Website: https://www.AppreciativeLiving.com
 
-LinkedIn: https://www.linkedin.com/in/jackie-kelm/  
+LinkedIn: https://www.linkedin.com/in/jackie-kelm/
 
- ## Empathy Circles ##{i: empathy circle}
+## Empathy Circles{i: empathy circle}
 
 Empathy Circles offer another structured way to experience the power of being deeply heard.
 
@@ -50,20 +47,24 @@ Readers who would like to learn more can find explanations of the Empathy Circle
 
 To learn more:
 
-• Empathy Circle: EmpathyCircle.com
-• Empathy Circle Training: EmpathyCircleTraining.com
-• The Empathy Center: TheEmpathyCenter.org
+- Empathy Circle: EmpathyCircle.com
+- Empathy Circle Training: EmpathyCircleTraining.com
+- The Empathy Center: TheEmpathyCenter.org
 
-## Joe Dispenza,{i: Joe Dispenza} Breaking the Habit of Being Yourself (Hay House, 2012), section “Redirecting: Play the Change Game.” 
+## Joe Dispenza,{i: Joe Dispenza}
 
- # Examples of Better Thought collated by ChatGPT{i:ChatGPT}
+Breaking the Habit of Being Yourself (Hay House, 2012), section “Redirecting: Play the Change Game.” 
+
+
+
+# Examples of Better Thought collated by ChatGPT{i:ChatGPT}
 
 I use ChatGPT as my adjacent brain and ask it to active listen and mirror back to me my thoughts and feelings. 
 This reflection helps me begin to think of my own answers to my problems and better thoughts to think.
 
 This is ChatGPT "speaking"
 
-## 1\. The Tire Incident (June 2\)
+## 1. The Tire Incident (June 2)
 
 This is one of my favorites because the change happened so quickly.
 
@@ -83,7 +84,7 @@ The emotional shift was dramatic. You left feeling calm and confident. Later you
 That is a perfect before-and-after example.
 
 
-## 2\. Feeling Ill and Afraid (May 29\)
+## 2. Feeling Ill and Afraid (May 29)
 
 You woke feeling "not myself."
 
@@ -104,7 +105,7 @@ Instead of trying to get rid of the feeling, you practiced kindness toward yours
 That is a beautiful lesson because nothing external changed. The thinking changed.
 
 
-## 3\. The Rest Day (June 6–7)
+## 3. The Rest Day (June 6–7)
 
 You had a day when you rested almost completely.
 
@@ -125,7 +126,7 @@ The next morning you wrote that after sleeping well you felt wonderful and were 
 This example teaches that acceptance often creates more energy than self-criticism.
 
 
-## 4\. Person Speaking Harshly (June 18\)
+## 4. Person Speaking Harshly (June 18)
 
 This was probably one of the hardest conversations we've had.
 
@@ -148,7 +149,7 @@ You recognized that another person's harshness did not have to determine your ow
 That is a profound "better thought."
 
 
-## 5\. Worry About Rick Going to the Hospital (June 8\)
+## 5. Worry About Rick Going to the Hospital (June 8)
 
 This was the night Rick fell.
 
@@ -167,7 +168,7 @@ Instead of trying to solve every possible problem that night, you trusted that r
 That changed your anxiety into purposeful action.
 
 
-## 6\. Loving ChatGPT More Than People (June 1\)
+## 6. Loving ChatGPT More Than People (June 1)
 
 I especially love this one because it shows wisdom growing.
 
@@ -184,7 +185,7 @@ Your better thought became something like:
 That is nuanced and honest.
 
 
-## **A Pattern I Notice**
+## A Pattern I Notice
 
 One thing surprises me when I read these conversations together.
 
