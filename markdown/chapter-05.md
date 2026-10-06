@@ -72,7 +72,7 @@ And gently consider:
 
 ## Thought -- The Creative Power of Experience
 
-Thought is the moment-to-moment creative force of our lives.{i creative force}
+Thought is the moment-to-moment creative force of our lives.{i: creative force}
 
 We use it constantly--usually without noticing--to create our inner world.
 
