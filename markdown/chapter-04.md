@@ -30,7 +30,7 @@ These thoughts can come so quickly that we’re not even aware of all of them. S
 
 And when we have one thought, other related ideas often rush in to join it.{i: companion thoughts}
 
-I believe this may be one way *premonitions* are born.{i: premonitions}
+I believe this may be one way **premonitions** are born.{i: premonitions}
 
 If we have a whole passel of thoughts about what might go wrong at the party, and one of those things actually happens, we may suddenly remember:
 
