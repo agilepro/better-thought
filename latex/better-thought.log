@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  5 OCT 2026 20:48
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.7)  7 OCT 2026 05:04
 entering extended mode
 **./better-thought.tex
 (better-thought.tex
@@ -1367,18 +1367,18 @@ chapter 4.
 
 
 ] [54]
-Overfull \hbox (4.27403pt too wide) in paragraph at lines 67--68
+Overfull \hbox (4.27403pt too wide) in paragraph at lines 73--74
 \TU/PalatinoLinotype(0)/m/n/10.95 forms—the emotional residue still present. My
  morning thoughts
  []
 
-[55] [56]
-Underfull \hbox (badness 1515) in paragraph at lines 146--147
+[55] [56] [57]
+Underfull \hbox (badness 1515) in paragraph at lines 152--153
 \TU/PalatinoLinotype(0)/m/n/10.95 each adding another little piece of worry, di
 scouragement,
  []
 
-[57] [58] [59] [60]) (chapters/08-chapter-05.tex [61] [62
+[58] [59] [60]) (chapters/08-chapter-05.tex [61] [62
 
 
 ]
@@ -1525,22 +1525,22 @@ Underfull \hbox (badness 1038) in paragraph at lines 8--13
 
 
 ]
-Underfull \hbox (badness 1038) in paragraph at lines 77--82
+Underfull \hbox (badness 1038) in paragraph at lines 78--83
 []\TU/PalatinoLinotype(0)/m/n/10.95 113[], []118[], []126[], []135[],
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 152--153
+Underfull \hbox (badness 1527) in paragraph at lines 153--154
 []\TU/PalatinoLinotype(0)/m/n/10.95 Parent Effectiveness Train-
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 159--164
+Underfull \hbox (badness 1038) in paragraph at lines 160--165
 []\TU/PalatinoLinotype(0)/m/n/10.95 113[], []118[], []126[], []135[],
  []
 
 [158]
-Underfull \hbox (badness 6859) in paragraph at lines 199--200
+Underfull \hbox (badness 6859) in paragraph at lines 200--201
 []\TU/PalatinoLinotype(0)/m/n/10.95 transactional analysis, []95[],
  []
 
@@ -1559,7 +1559,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
 Here is how much of TeX's memory you used:
  34153 strings out of 427243
  682903 string characters out of 3141512
- 898004 words of memory out of 3000000
+ 898003 words of memory out of 3000000
  38198 multiletter control sequences out of 15000+200000
  536654 words of font info for 75 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191

@@ -113,4 +113,4 @@ Sometimes changing our thought is simply changing where we are looking.
 
 The End...of thoughts running the show.
 
-    The Beginning...of learning to lead them.
+The Beginning...of learning to lead them.
