@@ -22,19 +22,25 @@ It is the human brain at work helping you survive. Thank your brain and think up
 
 ## Negativity Bias Shows Up in Everyday Life{i: negativity bias}
 
-The way it works is that when we decide we’re going to go to that party we’ve been invited to, our brains not only think of the good things about the party, but they also worry about many things, like what to wear, and will we be accepted, and will it be any fun at all or is there something else planned for that time. 
+When we decide to go to a party, our minds don’t think only about the good things that might happen.
 
-These thoughts come so quickly that we’re not even aware of all of them or forget some of them instantly. 
+They may also wonder what to wear, whether we’ll feel accepted, whether we’ll have a good time, or whether something else might interfere with our plans.
 
-When we have one thought, other related  ideas come quickly to join them.{i: companion thoughts} 
+These thoughts can come so quickly that we’re not even aware of all of them. Some disappear almost as soon as they arrive.
 
-I believe this is how **premonitions** are born.{i: premonitions} 
+And when we have one thought, other related ideas often rush in to join it.{i: companion thoughts}
 
-If we have a passel of negative thoughts about the party and some undesirable thing happens, we may remember that we thought that might occur! 
+I believe this may be one way *premonitions* are born.{i: premonitions}
 
-And we say, “I had a premonition that that might happen.” 
+If we have a whole passel of thoughts about what might go wrong at the party, and one of those things actually happens, we may suddenly remember:
 
-This only fuels the false belief that we have power to predict.
+“I thought that might happen!”
+
+And then we say, “I had a premonition.”
+
+But we may have forgotten all the other things we imagined that never happened at all.
+
+Remembering the one thought that came true can fuel the false belief that we have the power to predict what will happen.
 
 ## We play “Watch Out” with our friends{i: watch out}
 
