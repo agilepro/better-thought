@@ -1,0 +1,58 @@
+DETAILS
+
+
+Title; What's a Better Thought
+Author: Bea Strickland
+ISBN: 978-0-9863387-9-3
+
+
+
+Blurb: ===============
+
+What if a single question could help you find your way from worry, sadness, fear, self-criticism, or rumination toward greater peace of mind?
+
+In What’s a Better Thought?, Bea Strickland offers a gentle, practical way to notice the thoughts that trouble us and choose thoughts that bring more calm, hope, meaning, and joy.
+
+Drawing on a lifetime of teaching, loving, grieving, learning, and beginning again, Bea shares personal stories, simple practices, and thoughtful questions that can help us change the way we experience difficult moments. A better thought might come from a cherished memory, a new belief, gratitude, prayer, humor, a loving conversation, or simply asking a question that opens a different path.
+
+This is not a book about pretending that life is easy or ignoring what hurts. It is about discovering that even when we cannot change what has happened, we may still be able to change the thought we carry into the next moment.
+
+Warm, wise, and deeply hopeful, What’s a Better Thought? is an invitation to pause, look for love and goodness, and find your way—one thought at a time—toward peace of mind and joy.
+
+=======================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+details on cover
+
+width :11.704
+height: 8.75
+
+page: 5.5 x 8.5
+
+spine width: 0.454in
+
+left edge of spine: 5.5 + 0.125 = 5.625
+
+right edge of spine: 5.625 + 0.454 = 6.079
+
+far right edge = 6.079 + 5.625 =  11.704
+
+margin position inside of margins
+
+left edge of spine INSIDE the margins: 5.5
